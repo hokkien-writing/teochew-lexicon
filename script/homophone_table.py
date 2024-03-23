@@ -1,5 +1,7 @@
 from zhconv import convert
 
+from script.common import to_handwriting_vowel, today
+
 # 聲母列表
 INITIALS = ['', 'p', 'ph', 'b', 'm',
             't', 'th', 'n', 'l',
@@ -113,10 +115,17 @@ def generate_homophone_table(input_file_path, output_file_path):
                     else:
                         # Otherwise, keep the original character
                         result += char
-                pinyin_to_characters[pinyin] = result
+                pinyin_to_characters[to_handwriting_vowel(pinyin)] = result
 
     # Initialize the output file
     with open(output_file_path, 'w') as file:
+        file.writelines(f'''---
+title: "潮汕話同音字表 v{today()}"
+author: "github.com/tsunhua/teochew-character"
+keywords: ["潮汕話","潮州話","白話字"]
+---
+
+''')
         # Iterate over each yun
         for yun in FINALS:
             title = ""

@@ -9,19 +9,19 @@
 癌 ngam5
 藹 ai2
 矮 oi2
-艾 hiaⁿ7 ngai6 aiⁿ3
+艾 hiann7 ngai6 ainn3
 礙 gai7
-愛 aiⁿ3
+愛 ainn3
 隘 ek8
-鞍 uaⁿ1
+鞍 uann1
 氨 an1
-安 an1 uaⁿ1
+安 an1 uann1
 俺 nan2
 按 an3
 暗 am3
 岸 ngai6
 胺 an1
-案 uaⁿ3 an3
+案 uann3 an3
 骯 ang1
 昂 ngang1
 盎 ong3 ang3
@@ -46,7 +46,7 @@
 拔 puat8 poih8 puah8
 跋 puat8 puah8
 靶 pa2
-把 pa2 pe2 peⁿ3
+把 pa2 pe2 penn3
 耙 pe5
 壩 pa3
 霸 pa3
@@ -62,17 +62,17 @@
 稗 phoin7 pi2
 斑 poin1 pan1
 班 pan1
-搬 puaⁿ1
+搬 puann1
 扳 pan2
-般 puaⁿ1 phuan5 phuak4
+般 puann1 phuan5 phuak4
 頒 pan1
 板 poin2 pan2
 版 pan2 poin2
 扮 pan3
 拌 phuan3
-伴 phuaⁿ6
+伴 phuann6
 瓣 hah4 pian6
-半 puaⁿ3
+半 puann3
 辦 pan7 phoin7
 絆 phuan3
 邦 pang1
@@ -130,11 +130,11 @@
 蹦 pang1
 迸 peng5
 逼 pek4
-鼻 phiⁿ7
+鼻 phinn7
 比 pi2
 鄙 phi3
 筆 pit4
-彼 pi2
+彼 pi2 hur2
 碧 phek4
 蓖 pi1
 蔽 pi7
@@ -153,17 +153,17 @@
 臂 pi3
 避 pi7
 陛 pi6
-鞭 pian1 piⁿ1
-邊 pian1 piⁿ1
+鞭 pian1 pinn1
+邊 pian1 pinn1
 編 phian1
 貶 phin2 pian2
-扁 pian2 piⁿ2 phian1
-便 phiⁿ1 pian6
-變 pian3 piⁿ3
+扁 pian2 pinn2 phian1
+便 phinn1 pian6
+變 pian3 pinn3
 卞 pian6
 辨 pian6
 辯 pian6
-辮 piⁿ6 piⁿ1
+辮 pinn6 pinn1
 遍 pian3 pin3
 標 phiau1 pie1
 彪 piu1
@@ -179,14 +179,14 @@
 濱 pin1
 賓 pin1
 擯 pin3
-兵 piaⁿ1
-冰 piaⁿ1
-柄 peⁿ3
-丙 piaⁿ2
+兵 piann1
+冰 piann1
+柄 penn3
+丙 piann2
 秉 peng2
-餅 piaⁿ2
+餅 piann2
 炳 peng2
-病 peⁿ7
+病 penn7
 並 peng6 pong6
 玻 po1
 菠 po1
@@ -212,7 +212,7 @@
 哺 pu6 pou7
 補 pou2
 埠 pou1
-不 put4 houⁿ2
+不 put4 hounn2
 布 pu3 pou3
 步 pou7
 簿 phou6
@@ -273,18 +273,18 @@
 蟬 siam5
 饞 tsham5
 讒 tsham5
-纏 tiⁿ5 tshang5
-鏟 tshan2 thuaⁿ2
-產 suaⁿ2
+纏 tinn5 tshang5
+鏟 tshan2 thuann2
+產 suann2
 闡 sian5
 顫 chian3
 昌 chhiang1
 猖 chhiang1
-場 tieⁿ5 chhiang5
-嘗 sieⁿ5 siang5
-常 sieⁿ5 chhiang5
-長 chhiang5 tng5 chiang2 tieⁿ2
-償 thang2 sieⁿ5
+場 tienn5 chhiang5
+嘗 sienn5 siang5
+常 sienn5 chhiang5
+長 chhiang5 tng5 chiang2 tienn2
+償 thang2 sienn5
 腸 tng5 chhiang5
 廠 chhiang2
 敞 chhiang2
@@ -300,7 +300,7 @@
 巢 tshau5
 吵 tshau1
 炒 tsha2
-車 chhia1 kṳ1
+車 chhia1 kur1
 扯 chhe2
 撤 thiat4
 掣 chi3
@@ -316,14 +316,14 @@
 陳 thin5 tan5 chhin5 tin5
 趁 chian2 than3
 襯 chheng3
-撐 theⁿ1
+撐 thenn1
 稱 chheng1 chheng3 chhin3
-城 siaⁿ5
+城 siann5
 橙 chheng5
-成 seng5 chhiaⁿ5 chiaⁿ5 siaⁿ5
-呈 thiaⁿ5 tiaⁿ5
+成 seng5 chhiann5 chiann5 siann5
+呈 thiann5 tiann5
 乘 seng5 seng6
-程 theng5 thiaⁿ5
+程 theng5 thiann5
 懲 theng2
 澄 theng5
 誠 seng5
@@ -331,7 +331,7 @@
 逞 theng2
 騁 pheng3
 秤 chhin3
-喫 khṳh4 ngṳt4
+喫 khurh4 ngurt4
 癡 chhi1
 持 thi5 ti5
 匙 si5
@@ -340,7 +340,7 @@
 弛 si2
 馳 chhi5
 恥 chhi2
-齒 khi2 chhiⁿ2
+齒 khi2 chhinn2
 侈 chhi2
 尺 chhieh4 chhe1
 赤 chhiah4
@@ -363,16 +363,16 @@
 綢 tiu5
 瞅 chhiu1
 醜 chhiu2 thiu2
-臭 tshau3 hiuⁿ3
+臭 tshau3 hiunn3
 初 tsho1 chhiu1
 出 tshut4
 櫥 tu5
 廚 tou5
 躇 thu5
-鋤 tṳ5 tsho5
+鋤 tur5 tsho5
 雛 tshu1
 滁 thu5 tshu5
-除 tṳ5
+除 tur5
 楚 tsho2
 礎 tsho2
 儲 thu5
@@ -408,18 +408,18 @@
 蠢 tshun2
 戳 chhiak4 tshok4
 綽 chhiak4
-疵 tshṳ5
-茨 tshṳ5 tsṳ5
-磁 tshṳ5
-雌 tshṳ5
-辭 si5 sṳ5
-慈 tshṳ5
-瓷 tshṳ5
-詞 sṳ5
-此 tshṳ2
+疵 tshur5
+茨 tshur5 tsur5
+磁 tshur5
+雌 tshur5
+辭 si5 sur5
+慈 tshur5
+瓷 tshur5
+詞 sur5
+此 tshur2 chi2
 刺 chhi3 tshng3
-賜 sṳ3
-次 tshṳ3
+賜 sur3
+次 tshur3
 聰 tshong1
 蔥 tshong1 tshang1
 囪 tshong1
@@ -470,19 +470,19 @@
 逮 ti6 tai6 tai2
 怠 tai6
 耽 tam1
-擔 taⁿ3 tan1 taⁿ1
-丹 tan1 tuaⁿ1
-單 tuaⁿ1 sian5 sian6
+擔 tann3 tan1 tann1
+丹 tan1 tuann1
+單 tuann1 sian5 sian6
 鄲 tan1
 撣 tham5 tan6
-膽 taⁿ2
-旦 tan3 tuaⁿ3
-氮 taⁿ6
+膽 tann2
+旦 tan3 tuann3
+氮 tann6
 但 tan6
 憚 tan6
-淡 taⁿ6 tam6
+淡 tann6 tam6
 誕 tan3
-彈 than5 tuaⁿ7
+彈 than5 tuann7
 蛋 tan3
 當 tng1 tang1 tang3 tng3
 擋 tng3 tang3
@@ -522,7 +522,7 @@
 翟 tek8
 嫡 tek4 tiah4
 抵 toi2 ti2
-底 ti1 toi2 ti2 ti7
+底 toi2 ti5
 地 ti7 to3
 蒂 tih4
 第 toin6
@@ -553,7 +553,7 @@
 刁 tiau1
 掉 tiau7
 吊 tiau3
-釣 tieⁿ3
+釣 tienn3
 調 thiau5 tiau7
 跌 tiat4
 爹 tia1
@@ -567,9 +567,9 @@
 叮 teng1
 釘 teng1 teng3
 頂 teng2
-鼎 tiaⁿ2
-錠 teng6 tiaⁿ6
-定 tiaⁿ7 teng6
+鼎 tiann2
+錠 teng6 tiann6
+定 tiann7 teng6
 訂 teng3
 丟 tiu1
 東 tang1 tong1
@@ -633,7 +633,7 @@
 跺 to6
 舵 tua6
 剁 to5
-惰 tuaⁿ6
+惰 tuann6
 墮 tui6
 蛾 ngo5
 峨 ngo5
@@ -642,21 +642,21 @@
 額 hiah8
 訛 ho3
 娥 ngo5
-惡 ak4 u1 u3 oh4 ṳ3
+惡 ak4 u1 u3 oh4 ur3
 厄 eh4
 扼 eh4
 遏 hak4
 鄂 ngak8
 餓 go7
-恩 ṳn1
-而 zṳ5
+恩 urn1
+而 zur5
 兒 ji5
-耳 hiⁿ6 zṳ2
-爾 zṳ2
-餌 ji7 zṳ6
-洱 zṳ2
+耳 hinn6 zur2
+爾 zur2
+餌 ji7 zur6
+洱 zur2
 二 no6 ji6 ji7
-貳 no6 zṳ6
+貳 no6 zur6
 發 huat4
 罰 huat8
 筏 huat8
@@ -667,7 +667,7 @@
 琺 huap4
 藩 phuan1
 帆 phang5
-番 phuaⁿ1 huan1
+番 phuann1 huan1
 翻 huan1
 樊 huan5
 礬 huam5
@@ -698,7 +698,7 @@
 啡 phui2 phui3 hui1
 飛 pue1 hui1
 肥 pui5
-匪 huiⁿ2
+匪 huinn2
 誹 hui2
 吠 pui7
 肺 hui3
@@ -769,7 +769,7 @@
 副 hu3
 覆 phiu3 hok8
 賦 hu3
-復 hok8 huiⁿ3 hok4
+復 hok8 huinn3 hok4
 傅 hu3 pou3
 付 hu3
 阜 hu6
@@ -792,14 +792,14 @@
 溉 khai3
 幹 kang3
 甘 kam1
-杆 kuaⁿ1 kan1
-柑 kaⁿ1
-竿 ko1 kuaⁿ1 kan1
-肝 kuaⁿ1
-趕 kuaⁿ2
+杆 kuann1 kan1
+柑 kann1
+竿 ko1 kuann1 kan1
+肝 kuann1
+趕 kuann2
 感 kam2
-稈 kuaⁿ1 kan2
-敢 kaⁿ2
+稈 kuann1 kan2
+敢 kann2
 贛 kang3
 岡 kang1
 剛 kang1
@@ -826,7 +826,7 @@
 戈 kho1
 鴿 kap4
 胳 koh4 keh4
-疙 ngṳt4
+疙 ngurt4
 割 kuah4
 革 kek4
 葛 kuah4
@@ -838,15 +838,15 @@
 個 kai5 kai7 ko6
 各 kak4
 給 kip4
-根 kṳn1
-跟 kṳn1
-耕 keⁿ1
-更 keng1 keⁿ3 keng3
-庚 keⁿ1
-羹 keⁿ1
-埂 keⁿ2
+根 kurn1
+跟 kurn1
+耕 kenn1
+更 keng1 kenn3 keng3
+庚 kenn1
+羹 kenn1
+埂 kenn2
 耿 kuang2 kng2
-梗 keⁿ2
+梗 kenn2
 工 kang1 khang1 kong1
 攻 kong1
 功 kong1 kang1
@@ -898,15 +898,15 @@
 乖 kuai1
 拐 kuai2
 怪 kuai3 kue3
-棺 kuaⁿ1
-關 kuan1 kueⁿ1
-官 kuaⁿ1
+棺 kuann1
+關 kuan1 kuenn1
+官 kuann1
 冠 kuan1 kuan3
 觀 kuan3 kuan1
 管 kuan2 kng2
 館 kuan2
 罐 kuan3
-慣 kuan3 kuiⁿ3
+慣 kuan3 kuinn3
 灌 kuan3
 貫 kuan3
 光 kuang1 kng1
@@ -921,11 +921,11 @@
 閨 kui1
 軌 khui2
 鬼 kui2
-詭 nguiⁿ6 kui2
+詭 nguinn6 kui2
 癸 kui3
 桂 kui3
-櫃 kuiⁿ7 kṳ2
-跪 kuiⁿ6
+櫃 kuinn7 kur2
+跪 kuinn6
 貴 kui3
 劊 kuai3
 輥 kun2
@@ -934,7 +934,8 @@
 鍋 ue1
 郭 kuak4 kueh4
 國 kok4
-果 kue2 kuaⁿ2
+果 kue2 kuann2
+菓 kue2
 裹 kue2 lo2 ko2
 過 kue3 ko1
 哈 ha1 hah4 kap4
@@ -951,18 +952,18 @@
 韓 han5
 含 ham5 kam5
 涵 ham5
-寒 han5 kuaⁿ5
+寒 han5 kuann5
 函 ham5
 喊 ham3
 罕 han2
 翰 han5
 撼 ham2
 捍 han2
-旱 uaⁿ6
+旱 uann6
 憾 ham6
 悍 han2
 焊 han2
-汗 han2 hang5 kuaⁿ7
+汗 han2 hang5 kuann7
 漢 han3
 夯 hang2 pun3
 杭 hang5
@@ -972,7 +973,7 @@
 豪 hau5
 毫 hau5
 郝 hak4
-好 ho2 hauⁿ3 hau2 ho7
+好 ho2 haunn3 hau2 ho7
 耗 ho3
 號 ho7 hau1
 浩 hau1
@@ -997,12 +998,12 @@
 嘿 he1
 黑 hek4
 痕 hun5
-很 hṳn2
-狠 hṳn2
-恨 hṳn6
+很 hurn2
+狠 hurn2
+恨 hurn6
 哼 heng1 hng1 hng2
 亨 heng1
-橫 hueⁿ5
+橫 huenn5
 衡 huang5
 恆 heng5
 轟 hong1
@@ -1033,8 +1034,8 @@
 糊 hou5 hu5 kou5
 湖 ou5
 弧 hu5
-虎 houⁿ2
-唬 houⁿ5
+虎 hounn2
+唬 hounn5
 護 hu6
 互 hu6 hou7
 滬 hu6
@@ -1053,12 +1054,12 @@
 懷 huai5
 淮 huai5
 壞 huai6 pui1 phue1
-歡 huaⁿ1 huan1
+歡 huann1 huan1
 環 huan5
 桓 huan5
-還 hoin5 huan5 huaⁿ1
+還 hoin5 huan5 huann1
 緩 man7 huan2
-換 uaⁿ7 huan3
+換 uann7 huan3
 患 huam6
 喚 huan3
 瘓 huan3
@@ -1088,7 +1089,7 @@
 恢 khue1
 蛔 hue5
 回 hue5
-毀 huiⁿ2
+毀 huinn2
 悔 hue3
 慧 hui6 koi7
 卉 hui2
@@ -1147,7 +1148,7 @@
 即 chiat4
 嫉 chip8
 級 khip4
-擠 chiⁿ3 chi3
+擠 chinn3 chi3
 幾 ki2 ki1 kui2
 脊 chit4 chiah4
 己 ki7 ki2
@@ -1181,7 +1182,7 @@
 賈 ku2 kia2
 甲 kah4
 鉀 kah4
-假 kiaⁿ2 ke2 kia2
+假 kiann2 ke2 kia2
 稼 ke3
 價 ke3 kai3
 架 ke3
@@ -1193,7 +1194,7 @@
 尖 chiam1
 箋 chian1
 間 koin1 koin3 kan1
-煎 tsuaⁿ1 chian1 chiⁿ3
+煎 tsuann1 chian1 chinn3
 兼 kiam1
 肩 koin1
 艱 kan1
@@ -1209,16 +1210,16 @@
 儉 khiam6
 剪 chian3
 減 kiam2
-薦 chin3 chiⁿ1
+薦 chin3 chinn1
 檻 kham2 kam3
 鑑 kam3
 踐 chian2
-賤 tsuaⁿ7
-見 kiⁿ3 kian3 hin7
+賤 tsuann7
+見 kinn3 kian3 hin7
 鍵 kian6
-箭 chiⁿ3
-件 kiaⁿ6
-健 kian6 kiaⁿ7
+箭 chinn3
+件 kiann6
+健 kian6 kiann7
 艦 lam2
 劍 kiam3
 餞 chian2
@@ -1227,17 +1228,17 @@
 澗 kan2
 建 kian6 kian3
 僵 kiang1
-姜 kieⁿ1 kiang1
+姜 kienn1 kiang1
 將 chiang3 chiang1
-漿 chieⁿ1
+漿 chienn1
 江 kang1
 疆 kiang1
-蔣 chieⁿ2
-槳 chieⁿ2
+蔣 chienn2
+槳 chienn2
 獎 chiang3
 講 kong2 kang2
-匠 chhieⁿ7 chiang6
-醬 chieⁿ3
+匠 chhienn7 chiang6
+醬 chienn3
 降 kang3 hang5
 蕉 chie1
 椒 chie1
@@ -1254,7 +1255,8 @@
 鉸 ka1
 矯 kiau2
 僥 ngiau5
-腳 kha1 kieh4 kak4 kiok4
+腳 kha1 kieh4
+跤 kha1 kieh4
 狡 kau2
 角 kak4 kieh4
 餃 kiau2
@@ -1262,7 +1264,7 @@
 絞 ka2
 剿 tshau1
 教 ka3
-酵 hau1 kaⁿ3
+酵 hau1 kann3
 轎 kie7
 較 ka3
 叫 kie3
@@ -1293,46 +1295,46 @@
 疥 koi3
 誡 kai3
 屆 kai3
-巾 kṳn1
-筋 kṳn1
-斤 kṳn1
+巾 kurn1
+筋 kurn1
+斤 kurn1
 金 kim1
-今 kim1
+今 kim1 tann1 kiann2
 津 chin1
 襟 khim1
 緊 kin2
 錦 kim2
-僅 kṳn2
-謹 kṳn2
+僅 kurn2
+謹 kurn2
 進 chin3
-靳 kṳn3 ngṳn5
+靳 kurn3 ngurn5
 晉 chin3
 禁 kim3
-近 kṳn6
+近 kurn6
 燼 chian2
 浸 chim3
 盡 chin6
-勁 keⁿ3
+勁 kenn3
 荊 keng1
 兢 kheng1 keng1
 莖 kheng5
 睛 cheng1
-晶 chiaⁿ1
+晶 chiann1
 鯨 kheng5
-京 kiaⁿ1
-驚 kiaⁿ1 keng1
-精 cheng1 chiaⁿ1
-粳 keⁿ3
-經 keⁿ1 keng1 kiaⁿ1
-井 cheⁿ2
+京 kiann1
+驚 kiann1 keng1
+精 cheng1 chiann1
+粳 kenn3
+經 kenn1 keng1 kiann1
+井 chenn2
 警 keng6
 景 keng2
-頸 keⁿ3
-靜 cheⁿ6
+頸 kenn3
+靜 chenn6
 境 keng2
 敬 keng3
-鏡 kiaⁿ3
-徑 keⁿ3
+鏡 kiann3
+徑 kenn3
 痙 kheng5
 靖 cheng6
 竟 keng2
@@ -1361,25 +1363,25 @@
 拘 khu1
 狙 tsu1
 疽 tsu1
-居 kṳ1
+居 kur1
 駒 ku1
 菊 kek4
 局 kek8
 咀 tsu1
-矩 kṳ2
-舉 kṳ2
+矩 kur2
+舉 kur2
 沮 tsu2
 聚 tsu6
-拒 kṳ6
-據 kṳ6 kṳ5
-巨 kṳ6
+拒 kur6
+據 kur6 kur5
+巨 kur6
 具 ku6
-距 kṳ6
-踞 kṳ6
-鋸 kṳ3
+距 kur6
+踞 kur6
+鋸 kur3
 句 ku3
 懼 ku6
-炬 kṳ6
+炬 kur6
 劇 kiah8
 捐 kian1
 鵑 kian1
@@ -1398,9 +1400,9 @@
 決 kuat4
 訣 kuat4
 絕 tsoh8
-均 kṳn1
+均 kurn1
 菌 khun2
-鈞 kṳn1
+鈞 kurn1
 軍 kun1
 君 kun1
 峻 tsun3
@@ -1454,8 +1456,8 @@
 啃 kheng2
 墾 khun2
 懇 khun2
-坑 kheⁿ1
-吭 kheⁿ1 khang3
+坑 khenn1
+吭 khenn1 khang3
 空 khong1 khang1
 恐 khiong2
 孔 khong2
@@ -1481,7 +1483,7 @@
 儈 kuai3
 快 khuai3
 寬 khuan1
-款 khuan2
+款 khuan2 khuann1
 匡 khuang1 khang1
 筐 kheng1
 狂 khuang5
@@ -1530,8 +1532,8 @@
 讕 lan5
 攬 lam2
 覽 lam2
-懶 lan2 tuaⁿ6
-爛 lan6 nuaⁿ7
+懶 lan2 tuann6
+爛 lan6 nuann7
 琅 lang5
 榔 lang5
 狼 lang5
@@ -1540,7 +1542,7 @@
 朗 lang6
 浪 lang6 nng7
 撈 lau5 liau5 lie5 lau1
-勞 lau5 lṳ5
+勞 lau5 lur5
 牢 lo5
 老 lau6 lau2
 佬 lau2
@@ -1563,7 +1565,7 @@
 淚 lui6
 棱 leng5
 楞 leng5
-冷 neⁿ2
+冷 nenn2
 釐 li5
 梨 lai5
 犁 loi5
@@ -1611,14 +1613,14 @@
 戀 luan3
 煉 lian7
 練 lian7
-糧 nieⁿ5
+糧 nienn5
 涼 liang5
-梁 nieⁿ5 liang5
-粱 nieⁿ5 liang5
+梁 nienn5 liang5
+粱 nienn5 liang5
 良 liang5
 兩 liang2 nie2 no6
 輛 liang2
-量 liang6 nieⁿ5 liang5
+量 liang6 nienn5 liang5
 晾 liang6
 亮 liang6
 諒 liang6
@@ -1662,8 +1664,8 @@
 凌 leng5
 靈 leng5
 陵 leng5
-嶺 niaⁿ2
-領 niaⁿ2
+嶺 niann2
+領 niann2
 另 leng5
 令 leng6
 溜 liu1 liu3 lau3
@@ -1712,19 +1714,19 @@
 錄 lok8
 陸 lak8 lek8 lok8
 戮 lok8
-驢 lṳ5
-呂 lṳ6
-鋁 lṳ6
-侶 lṳ6
+驢 lur5
+呂 lur6
+鋁 lur6
+侶 lur6
 旅 li2
 履 li2
 屢 lu2
 縷 lu2
-慮 lṳ6
+慮 lur6
 氯 lek8
 律 lut8
 率 tsut4 lut8 sut4
-濾 lṳ6
+濾 lur6
 綠 lek8
 巒 luan5
 攣 luan5
@@ -1768,18 +1770,18 @@
 賣 boi7
 邁 mai6
 脈 meh8
-瞞 muaⁿ5
+瞞 muann5
 饅 buan6
 蠻 man5
-滿 muaⁿ2
+滿 muann2
 蔓 buan6
 曼 man6 buan6
 慢 man7 buan6
 漫 buan6
 謾 buan6
-芒 mang5 meⁿ5 mong5
+芒 mang5 menn5 mong5
 茫 mang5
-盲 mang5 meng5 meⁿ5
+盲 mang5 meng5 menn5
 氓 min5 mang5
 忙 mang5
 莽 mang2
@@ -1807,7 +1809,7 @@
 媒 bue5
 鎂 mui2
 每 mue2
-美 mui2 ngia2 bue2
+美 mui2 mi2 bue2
 昧 mue6
 寐 mue6
 妹 mue6
@@ -1837,15 +1839,15 @@
 蜜 mit8 bit8
 密 mit8 bat8
 冪 mit8
-棉 miⁿ5
+棉 minn5
 眠 min5
-綿 mian5 miⁿ5
+綿 mian5 minn5
 冕 mian2
 免 mian2 min2
 勉 mian2
 娩 mian2
 緬 mian2
-面 min7 miⁿ7
+面 min7 minn7
 苗 miau5
 描 miau5 bie5
 瞄 bie5 miau5
@@ -1866,8 +1868,8 @@
 螟 meng5
 鳴 meng5
 銘 meng5
-名 miaⁿ5 meng5
-命 miaⁿ7 meng6
+名 miann5 meng5
+命 miann7 meng6
 謬 niu6
 摸 mong5 mo5
 摹 mo5
@@ -1936,9 +1938,9 @@
 泥 ni5 ni3
 尼 ni5
 擬 ngi2
-你 lṳ2
+你 lur2
 匿 nek8
-膩 zṳ6 ni6
+膩 zur6 ni6
 逆 ngek8 keh8
 溺 nek8 niau2
 蔫 ian1
@@ -1948,7 +1950,7 @@
 攆 leng2
 捻 niap8
 念 liam6 liam7
-娘 nieⁿ5 niang5
+娘 nienn5 niang5
 釀 jiang2
 鳥 chiau2
 尿 su1 sui1 jie7
@@ -1958,10 +1960,10 @@
 鑷 niap4
 鎳 ngiak8
 涅 niap4
-您 lṳ2
+您 lur2
 檸 leng5
 獰 leng5
-凝 ngian5 ngan5 kṳn5
+凝 ngian5 ngan5 kurn5
 寧 leng5
 擰 leng5
 濘 leng5
@@ -1976,7 +1978,7 @@
 奴 nou5 nou1
 努 no3
 怒 no7 no3
-女 nng2 ni2 zṳ6
+女 nng2 ni2 zur6
 暖 luan2
 虐 ngiak8
 瘧 ngiak8
@@ -1996,7 +1998,7 @@
 趴 phak4 pha1
 爬 pe5
 帕 phe3
-怕 phaⁿ3
+怕 phann3
 琶 pe5
 拍 phah4
 排 pai5 phai5
@@ -2005,12 +2007,12 @@
 湃 phai3
 派 phai3
 攀 phan1
-潘 phuaⁿ1 phun1
-盤 phuan5 puaⁿ5
+潘 phuann1 phun1
+盤 phuan5 puann5
 磐 phuan5
 盼 phan3
 畔 poin5 phuan3
-判 phuan3 phuaⁿ3
+判 phuan3 phuann3
 叛 puan6
 乓 pong5
 龐 phang5
@@ -2038,13 +2040,13 @@
 砰 pheng5
 抨 pheng5
 烹 pheng1
-澎 pheⁿ5
-彭 phang5 pheⁿ5 pang1
+澎 phenn5
+彭 phang5 phenn5 pang1
 蓬 phong5
-棚 peⁿ5
+棚 penn5
 硼 pheng5
 篷 phong5 phang5
-膨 pheⁿ5
+膨 phenn5
 朋 pheng5
 鵬 phong5
 捧 phong2
@@ -2068,7 +2070,7 @@
 譬 phi3
 篇 phian1
 偏 phian1
-片 phian3 phiⁿ3
+片 phian3 phinn3
 騙 phian3
 飄 phiau1
 漂 phiau1 pie3 phiu3
@@ -2080,19 +2082,19 @@
 頻 phin5
 貧 phin5
 品 pin2
-聘 pheng3 phiaⁿ3
+聘 pheng3 phiann3
 乒 ping1
-坪 pheng5 phiaⁿ5
+坪 pheng5 phiann5
 蘋 phing5
 萍 phie5 pheng5
-平 pheng5 peⁿ5 pheⁿ5 ping5
+平 pheng5 penn5 phenn5 ping5
 憑 pheng5
 瓶 phing5
 評 pheng5
 屏 phing5 ping2
 坡 po1
 潑 phuah4
-頗 phuaⁿ2 pho2
+頗 phuann2 pho2
 婆 phua5 po5
 破 phua3
 魄 phek4 thoh4 poh8
@@ -2127,7 +2129,7 @@
 其 khi5
 棋 ki5
 奇 khi5 khia1 ki1
-歧 chiⁿ1 khi5
+歧 chinn1 khi5
 畦 hi5
 崎 khi1
 臍 tsai5
@@ -2138,18 +2140,18 @@
 騎 khia5
 起 khi2
 豈 kha2
-乞 khṳt4 khṳh4
+乞 khurt4 khurh4
 企 khia6 ki6
 啓 khi2
 契 khoi3 khiat4 siat4
 砌 kih4
 器 khi3
 氣 khi3 khui3
-迄 ngṳt4
+迄 ngurt4
 棄 khi3
 汽 khi3
 泣 khip4
-訖 ngṳt4
+訖 ngurt4
 掐 khap4
 洽 chiap8
 牽 khan1
@@ -2163,8 +2165,8 @@
 謙 khiam1
 幹 kang3
 黔 ngim5 khim5
-錢 chiⁿ5
-鉗 khiⁿ5 khiam5
+錢 chinn5
+鉗 khinn5 khiam5
 前 tsoin5
 潛 chhiam5
 遣 khian2
@@ -2174,14 +2176,14 @@
 嵌 kham2
 欠 khiam3
 歉 khiam2
-槍 chhieⁿ1
+槍 chhienn1
 嗆 chhiang1 chhiang2
-腔 khieⁿ1
+腔 khienn1
 羌 kiang1
-牆 chhieⁿ5
+牆 chhienn5
 薔 chhiang5
-強 khiang5 iaⁿ5 khiang3 kiang2
-搶 chhieⁿ2
+強 khiang5 iann5 khiang3 kiang2
+搶 chhienn2
 橇 khiau1 kiau6
 敲 khiau1
 悄 chhiau2 chhiau1
@@ -2205,24 +2207,24 @@
 親 chhin1
 秦 chhin5
 琴 khim5
-勤 khṳn5
-芹 khṳn5
+勤 khurn5
+芹 khurn5
 擒 khim5
 禽 khim5
 寢 chhim2
 沁 chhim3 sim2
-青 chheⁿ1
+青 chhenn1
 輕 khin1
 氫 khin1
 傾 khuan1 khuan2
 卿 kheng1
 清 chheng1
 擎 kheng5 khia5
-晴 cheⁿ5
-氰 chheⁿ1
-情 chiaⁿ5 chheng5
+晴 chenn5
+氰 chhenn1
+情 chiann5 chheng5
 頃 khuan2 khuan1
-請 chhiaⁿ2
+請 chhiann2
 慶 kheng3
 瓊 khuang5 keng5
 窮 khiong5
@@ -2236,22 +2238,22 @@
 泅 siu5
 趨 tshu1
 區 khu1 au1
-蛆 tsu1 tshṳ1
+蛆 tsu1 tshur1
 曲 khiok4 khek4 khak4
 軀 khu1
 屈 khih4 khut4 khit4
 驅 khu1
-渠 khṳ5
+渠 khur5
 取 tshu2
 娶 tshua7 tshu2
-齲 kṳ2
+齲 kur2
 趣 tshu3
-去 khṳ3
+去 khur3
 圈 khuan1
 顴 khuan5
 權 khuan5
 醛 tshuan5
-泉 tsuaⁿ5
+泉 tsuann5
 全 tshuan5
 痊 tshuan5
 拳 khun5
@@ -2276,7 +2278,7 @@
 壤 jiang2
 攘 jiang2
 嚷 jiang2
-讓 jiang6 nieⁿ7
+讓 jiang6 nienn7
 饒 jiau5
 擾 jiau2
 繞 jiau3
@@ -2284,7 +2286,8 @@
 熱 jiat8 zuah8
 壬 jim6
 仁 jin5
-人 nang5 nang7 jin5
+人 nang5 jin5
+儂 nang5
 忍 jim2 lun2
 韌 zun7 jim2
 任 jim6 jim7
@@ -2300,8 +2303,8 @@
 蓉 iong5
 榮 iong5
 融 iong5
-熔 ieⁿ5 iong5
-溶 ieⁿ5 iong5
+熔 ienn5 iong5
+溶 ienn5 iong5
 容 iong5
 絨 zong5
 冗 zong2
@@ -2315,11 +2318,11 @@
 如 zu5
 辱 zok8
 乳 zu2
-汝 zṳ2 lṳ2
+汝 zur2 lur2
 入 jip8
 褥 zok8
 軟 nng2
-阮 nguan2 un2
+阮 nguan2 un2 uan2
 蕊 lui2
 瑞 sui6
 銳 zue6
@@ -2334,10 +2337,10 @@
 鰓 sai1 chhi1
 塞 thak4 sak4 sai3
 賽 sai3
-三 saⁿ1 sam1 san1
-叄 saⁿ1
-傘 suaⁿ3
-散 suaⁿ3 suaⁿ2
+三 sann1 sam1 san1
+叄 sann1
+傘 suann3
+散 suann3 suann2
 桑 sng1
 嗓 sang2
 喪 sang3 sng1
@@ -2364,26 +2367,26 @@
 珊 san1
 苫 siam2 siam1
 杉 sam1
-山 suaⁿ1 san1
+山 suann1 san1
 刪 san1
 煽 sian3
-衫 saⁿ1
+衫 sann1
 閃 siam2
 陝 siam2
 擅 sian6
 贍 chiam1
 膳 sian6
 善 sian6
-汕 suaⁿ1 suaⁿ3
-扇 siⁿ3 siang3
+汕 suann1 suann3
+扇 sinn3 siang3
 繕 sian6
 墒 siang1
-傷 sieⁿ1
+傷 sienn1
 商 siang1
-賞 sieⁿ2
+賞 sienn2
 晌 hiang2
-上 chhieⁿ6 siang6 chieⁿ6 chieⁿ7 siang5
-尚 siang6 sieⁿ7
+上 chhienn6 siang6 chienn6 chienn7 siang5
+尚 siang6 sienn7
 裳 siang5
 梢 sau1 sau3
 捎 siau1 sau1
@@ -2424,18 +2427,18 @@
 腎 sian6
 慎 sim2
 滲 siam3 tsham3
-聲 seng1 siaⁿ1
-生 seⁿ1 chheⁿ1 seng1
+聲 seng1 siann1
+生 senn1 chhenn1 seng1
 甥 seng1
-牲 seng1 seⁿ1
+牲 seng1 senn1
 升 seng1
 繩 sing5
-省 seng2 seⁿ2
-盛 seng6 siaⁿ7
+省 seng2 senn2
+盛 seng6 siann7
 剩 sin7
 勝 seng3 seng1
-聖 seng3 siaⁿ3
-師 sṳ1 sai1
+聖 seng3 siann3
+師 sur1 sai1
 失 sit4
 獅 sai1
 施 si1
@@ -2444,15 +2447,15 @@
 屍 si1
 蝨 sak4
 十 tsap8
-石 chieh8 taⁿ3 sieh8
+石 chieh8 tann3 sieh8
 拾 tsap8 sip8 siap8
 時 si5
 什 sim6 tsap8 sip8
-食 chiah8 sit8 sih8 sṳ6
+食 chiah8 sit8 sih8 sur6
 蝕 sih8
 實 sit8 tsat8
-識 sek4 chi3
-史 sṳ2
+識 sek4 chi3 pat4
+史 sur2
 矢 si2
 使 sai3 sai2
 屎 sai2
@@ -2460,10 +2463,10 @@
 始 si2
 式 sek4
 示 si7
-士 sṳ6
+士 sur6
 世 si3
 柿 sai6
-事 sṳ7 sṳ6 tai7
+事 sur7 sur6 tai7
 拭 set4 chhit4
 誓 si7
 逝 si7
@@ -2472,11 +2475,11 @@
 嗜 si7
 噬 si7
 適 sek4
-仕 sṳ6
+仕 sur6
 侍 si6
 釋 sek4
 飾 sek4
-氏 si6 chiⁿ1
+氏 si6 chinn1
 市 chhi6
 恃 si6
 室 sik4
@@ -2502,17 +2505,17 @@
 舒 su1
 淑 sok4
 疏 so3 so1
-書 tsṳ1
+書 tsur1
 贖 sok8
 孰 sok8
 熟 sek8
-薯 tsṳ5
+薯 tsur5
 暑 su2
 曙 su2
 署 su2
 蜀 tsuak8 chek8
 黍 su2 siu2
-鼠 tshṳ2
+鼠 tshur2
 屬 sok8 tsok4
 術 sut8 tut8
 述 sut8
@@ -2548,20 +2551,20 @@
 碩 sek4
 朔 suak4
 爍 iak4
-斯 sṳ1
-撕 sṳ1
-嘶 soin1 sṳ1
-思 sṳ1 sṳ3 si1 sai1
-私 sṳ1 sai1 si1
-司 si1 sṳ1
+斯 sur1
+撕 sur1
+嘶 soin1 sur1
+思 sur1 sur3 si1 sai1
+私 sur1 sai1 si1
+司 si1 sur1
 絲 si1
 死 si2
-肆 sṳ3 si3
+肆 sur3 si3
 寺 ji7
-嗣 sṳ6
-四 si3 sṳ3
-伺 sṳ6
-似 sṳ6
+嗣 sur6
+四 si3 sur3
+伺 sur6
+似 sur6
 飼 chhi7
 巳 chi6
 松 seng5 song1 song5 sang1
@@ -2631,11 +2634,11 @@
 態 thai3
 汰 thai3
 坍 than1 tan1
-攤 thuaⁿ1
+攤 thuann1
 貪 tham1
-癱 thuaⁿ1 than1
-灘 thuaⁿ1
-壇 tuaⁿ5 tham5 un5
+癱 thuann1 than1
+灘 thuann1
+壇 tuann5 tham5 un5
 檀 than5
 痰 tham5
 潭 tham5
@@ -2644,10 +2647,10 @@
 坦 than2
 毯 than2
 袒 than2
-碳 thuaⁿ3
+碳 thuann3
 探 tham3
 嘆 tham3
-炭 thuaⁿ3
+炭 thuann3
 湯 thng1 siang1
 塘 thang5 tng5
 搪 thang5
@@ -2692,8 +2695,8 @@
 涕 thi3
 剃 thi3
 屜 thi3
-天 thiⁿ1 thian1
-添 thiⁿ1 thiam1
+天 thinn1 thian1
+添 thinn1 thiam1
 填 thian5
 田 tshan5
 甜 tiam5
@@ -2708,14 +2711,14 @@
 貼 thiap4
 鐵 thih4
 帖 thiap4
-廳 thiaⁿ1
-聽 thiaⁿ1 theng3
+廳 thiann1
+聽 thiann1 theng3
 烴 theng1
 汀 theng1
 廷 theng5
 停 theng5
 亭 teng5
-庭 theng5 tiaⁿ5
+庭 theng5 tiann5
 艇 theng2
 通 thong1 thang1
 桐 thong5 thang5
@@ -2729,7 +2732,7 @@
 捅 thong2 thng7
 筒 tang6 tang5
 統 thong2
-痛 thong3 thiaⁿ3
+痛 thong3 thiann3
 偷 thau1
 投 tau5
 頭 thau5
@@ -2781,10 +2784,10 @@
 灣 uan1
 玩 nguan2
 頑 nguan2
-丸 iⁿ5 uan5
+丸 inn5 uan5
 烷 uan5
 完 uan5
-碗 uaⁿ2
+碗 uann2
 挽 man2
 晚 mng2 mong2
 皖 uan2
@@ -2804,9 +2807,9 @@
 忘 buang5
 妄 buang2
 威 ui1
-巍 nguiⁿ5
+巍 nguinn5
 微 mui5
-危 nguiⁿ5 kuiⁿ5
+危 nguinn5 kuinn5
 韋 ui2 ui5
 違 ui5
 桅 ui5
@@ -2820,13 +2823,13 @@
 萎 ui2
 委 ui2
 偉 ui2
-僞 nguiⁿ6
+僞 nguinn6
 尾 bue2
 緯 ui2
 未 bi7 bue7
 蔚 ue3 ut4
 味 bi7
-畏 uiⁿ3
+畏 uinn3
 胃 ui7
 餵 ui2
 魏 gui7
@@ -2935,52 +2938,52 @@
 廈 e6 he7
 夏 he7
 嚇 heh4
-掀 hṳn1 hiauⁿ1
-鍁 hṳn1
+掀 hurn1 hiaunn1
+鍁 hurn1
 先 soin1 sin1
 仙 sian1
-鮮 sian2 chhiⁿ1
+鮮 sian2 chhinn1
 纖 khan1 chhian1
 鹹 kiam5 ham5
 賢 hian5
-銜 ham5 kaⁿ5
-舷 hian5 hiⁿ5 kiⁿ5
+銜 ham5 kann5
+舷 hian5 hinn5 kinn5
 閒 oin5
 涎 ian6
-弦 hiⁿ5
+弦 hinn5
 嫌 hiam5
 顯 hian2
 險 hiam2
 現 hin7
 獻 hian3
-縣 kuiⁿ7
-腺 suaⁿ5 suaⁿ3
-餡 aⁿ7
+縣 kuinn7
+腺 suann5 suann3
+餡 ann7
 羨 ian6
 憲 hian3
 陷 ham7
 限 han6
-線 suaⁿ3
-相 siang1 sie1 siang3 sieⁿ3
-廂 sieⁿ1
-鑲 sieⁿ1 siang1
-香 hiang1 hieⁿ1 phang1
-箱 sieⁿ1
+線 suann3
+相 siang1 sie1 siang3 sienn3
+廂 sienn1
+鑲 sienn1 siang1
+香 hiang1 hienn1 phang1
+箱 sienn1
 襄 siang1
 湘 siang1
-鄉 hieⁿ1 hiang1
+鄉 hienn1 hiang1
 翔 siang5
 祥 siang5
 詳 siang5
-想 sieⁿ6 siang2
+想 sienn6 siang2
 響 hiang2
 享 hiang2
 項 hang6
 巷 hang7
-橡 chhieⁿ6
-像 chhieⁿ6 sieⁿ3 siang6
-向 hiang3 hieⁿ3 niaⁿ4
-象 chhieⁿ6 siang6
+橡 chhienn6
+像 chhienn6 sienn3 siang6
+向 hiang3 hienn3 niann4
+象 chhienn6 siang6
 硝 siau1
 霄 sie1 siau1
 削 siah4
@@ -2994,7 +2997,7 @@
 小 siau2 sie2
 孝 hau3 ha3
 校 hau6 ka3
-肖 siau6 sieⁿ3 siau1
+肖 siau6 sienn3 siau1
 嘯 sau3
 笑 chhie3
 效 hau7
@@ -3022,51 +3025,51 @@
 薪 chin1 sin1
 芯 sim1 sin3
 鋅 sin1
-欣 hṳn1
+欣 hurn1
 辛 sin1
 新 sim1 sin1
-忻 hṳn1
+忻 hurn1
 心 sim1
 信 sin3
 釁 hian3
-星 chheⁿ1
-腥 chheⁿ1 seng1
+星 chhenn1
+腥 chhenn1 seng1
 猩 seng1
 惺 seng1
 興 heng3 heng1
 刑 heng5
 型 heng5
 形 heng5
-邢 hiaⁿ5
-行 kiaⁿ5 hang5 heng5 heng6
-醒 chheⁿ2
+邢 hiann5
+行 kiann5 hang5 heng5 heng6
+醒 chhenn2
 杏 heng6
-性 seⁿ3
-姓 seⁿ3
-兄 hiaⁿ1
+性 senn3
+姓 senn3
+兄 hiann1
 兇 hiong1
 胸 heng1
 匈 heng1 hiong1
 洶 hiong1
 雄 hiong5 heng5
 熊 him5
-休 hiuⁿ1
+休 hiunn1
 修 siu1
 羞 siu1
-朽 hiuⁿ2
-嗅 hiuⁿ3
+朽 hiunn2
+嗅 hiunn3
 鏽 siu3
 秀 siu3
 袖 siu3
 繡 siu3
-墟 hṳ1
+墟 hur1
 戌 sut4
 需 su1
-虛 hṳ1
-噓 hṳ1
+虛 hur1
+噓 hur1
 須 su1 chhiu1
-徐 tshṳ5
-許 hṳ2 khou2 hu2
+徐 tshur5
+許 hur2 khou2 hu2
 蓄 thiok4 hak4
 酗 hu6
 敘 su6
@@ -3078,10 +3081,10 @@
 婿 sai3
 緒 su2
 續 sok8
-軒 hṳn1
+軒 hurn1
 喧 suan1 suang1
 宣 suan1 suang1
-懸 hian5 huiⁿ5 kuiⁿ5
+懸 hian5 huinn5 kuinn5
 旋 suan5 suan7 tsng7
 玄 hian5
 選 suan2
@@ -3093,12 +3096,12 @@
 穴 huat8
 雪 soh4
 血 hueh4
-勳 hṳn1
+勳 hurn1
 燻 hun1
 循 sun5
 旬 sun5
 詢 sun5
-尋 chhiⁿ5 chhim5
+尋 chhinn5 chhim5
 馴 sun5
 巡 sun5
 殉 sun5
@@ -3135,7 +3138,7 @@
 巖 ngam5
 延 ian6
 言 ngan5
-顏 nguan5 hiaⁿ5 ngan5
+顏 nguan5 hiann5 ngan5
 閻 ngiam5
 炎 iam7
 沿 in5
@@ -3146,9 +3149,9 @@
 演 in5
 豔 iam7
 堰 iam2
-燕 ian3 iⁿ3
+燕 ian3 inn3
 厭 iam3
-硯 iⁿ7 tiam1
+硯 inn7 tiam1
 雁 ngan6
 唁 ngan3
 彥 ngan6
@@ -3160,18 +3163,18 @@
 央 iang1
 鴦 ie1
 秧 ng1 iang1
-楊 ieⁿ5 iang5
-揚 ieⁿ5 iang5
+楊 ienn5 iang5
+揚 ienn5 iang5
 佯 iang5
 瘍 iang5
-羊 ieⁿ5 iang5
-洋 ieⁿ5 iang5
-陽 iang5 ieⁿ5
+羊 ienn5 iang5
+洋 ienn5 iang5
+陽 iang5 ienn5
 氧 iang2
 仰 ngiang2
-癢 chieⁿ6 iang6
-養 ieⁿ2 iang2
-樣 ieⁿ7
+癢 chienn6 iang6
+養 ienn2 iang2
+樣 ienn7
 漾 iang6
 邀 hiau1 iau1 kiau1
 腰 ie1
@@ -3222,18 +3225,18 @@
 宜 ngi5
 姨 i5
 彝 i5
-椅 iⁿ2
+椅 inn2
 蟻 hia6
 倚 ua2 i2
-已 iⁿ2
+已 inn2
 乙 it4
 矣 i7
-以 iⁿ2
+以 inn2
 藝 goi7
 抑 ak4
 易 ek8 koi7 i6 iah8
 邑 ip4
-屹 ngṳt4
+屹 ngurt4
 億 ek8
 役 hiah8
 臆 ek4
@@ -3259,18 +3262,18 @@
 茵 in1
 蔭 im1
 因 in1
-殷 hṳn1
+殷 hurn1
 音 im1
 陰 im1
 姻 in1
 吟 ngim5
-銀 ngṳn5
+銀 ngurn5
 淫 im5
 寅 in5
 飲 im2 am2
 尹 ng2
 引 in2
-隱 in2 ṳn2
+隱 in2 urn2
 印 in3
 英 eng1
 櫻 eng1
@@ -3280,15 +3283,15 @@
 纓 eng1
 瑩 iong5
 螢 iong5
-營 iaⁿ5
+營 iann5
 熒 iong5
 蠅 sin5
-迎 ngian5 iaⁿ5
-贏 ieⁿ5 iaⁿ5
+迎 ngian5 iann5
+贏 ienn5 iann5
 盈 iong5
-影 iaⁿ2
+影 iann2
 穎 theng2
-硬 ngeⁿ6
+硬 ngenn6
 映 iang3
 喲 iau1 ie1
 擁 iong3 ong6
@@ -3306,9 +3309,9 @@
 恿 iong3
 勇 iong2
 用 eng7
-幽 hiuⁿ1
+幽 hiunn1
 優 iu1
-悠 hiuⁿ1
+悠 hiunn1
 憂 iu1
 尤 iu5
 由 iu5
@@ -3325,31 +3328,31 @@
 釉 iu5
 誘 iu2
 又 iu6 iu7
-幼 iuⁿ3
+幼 iunn3
 迂 i1 u1
-淤 ṳ3
-於 i1 u1 ṳ1
+淤 ur3
+於 i1 u1 ur1
 盂 u1
 榆 zu5
 虞 ngo5
 愚 ngo5
-輿 ṳ5
-餘 ṳ5
+輿 ur5
+餘 ur5
 俞 zu5
 逾 zu5
-魚 hṳ5
+魚 hur5
 愉 zu5
 渝 zu5
-漁 hṳ5
+漁 hur5
 隅 ngo5
-予 ṳ2 ṳ5
+予 ur2 ur5
 娛 u5
 雨 hou6 u2
-與 ṳ2 ṳ6 ṳ7
-嶼 sṳ6
+與 ur2 ur6 ur7
+嶼 sur6
 禹 u2
 宇 u2
-語 gṳ2
+語 gur2
 羽 u2
 玉 gek8
 域 hok8
@@ -3359,18 +3362,18 @@
 遇 ngo6
 喻 zu6
 峪 iok8 kok4
-御 gṳ6 gṳ7
+御 gur6 gur7
 愈 zu2
-欲 iok8 aiⁿ3
+欲 iok8 ainn3
 獄 gek8
 育 iok8
-譽 ṳ6
+譽 ur6
 浴 ek8 iok8
 寓 ngo6
 裕 zu6
-預 ṳ6
-豫 ṳ6
-馭 gṳ6
+預 ur6
+豫 ur6
+馭 gur6
 鴛 uan1
 淵 ian1
 冤 uan1
@@ -3382,7 +3385,7 @@
 轅 uan5
 園 hng5
 員 uan5
-圓 iⁿ5
+圓 inn5
 猿 uan5
 源 nguan5
 緣 uan5
@@ -3390,7 +3393,7 @@
 苑 uan2
 願 nguan6 ngian3
 怨 uan3
-院 iⁿ7
+院 inn7
 曰 uat4
 約 ieh4 iak4
 越 uat8
@@ -3423,7 +3426,7 @@
 載 tsai3 tsai2
 再 tsai3
 在 to6 tsai6
-咱 tsa1
+咱 tsa1 nan2
 攢 tsuan3 tsan3
 暫 chiam6
 贊 tsan3
@@ -3467,7 +3470,7 @@
 咋 tsa3
 乍 tsa3
 炸 tsa3 tsah8
-詐 tsa3 teⁿ3
+詐 tsa3 tenn3
 摘 tiah4
 齋 che1
 宅 theh8
@@ -3475,11 +3478,11 @@
 債 che3
 寨 che7
 瞻 chiam1
-氈 chiⁿ1
+氈 chinn1
 詹 chiam1
 粘 liam1
 沾 tiam1
-盞 tsuaⁿ2
+盞 tsuann2
 斬 tsam2
 輾 tian2
 嶄 tsam2
@@ -3491,26 +3494,26 @@
 站 tsam6
 湛 kham1 tsam3 tam1
 綻 teng6
-樟 chieⁿ chiang1
-章 chieⁿ1 chiang1
+樟 chienn chiang1
+章 chienn1 chiang1
 彰 chiang1
 漳 chiang1
-張 chiang1 tieⁿ1
-掌 chieⁿ2
-漲 chiang3 tiⁿ6
+張 chiang1 tienn1
+掌 chienn2
+漲 chiang3 tinn6
 杖 chiang6
-丈 ta1 tng6 tieⁿ6 chiang6
-帳 tieⁿ3
-賬 tieⁿ3
+丈 ta1 tng6 tienn6 chiang6
+帳 tienn3
+賬 tienn3
 仗 chiang6
-脹 chiang3 tieⁿ3
+脹 chiang3 tienn3
 瘴 chiang3
 障 chiang3
 招 chiau1 chie1
 昭 chiau1
 找 tau2
 沼 jiau3
-趙 tieⁿ6
+趙 tienn6
 照 chiau3 chie3
 罩 tsau6
 兆 tiau6
@@ -3547,26 +3550,26 @@
 睜 cheng1
 徵 cheng1 teng1
 猙 cheng1
-爭 cheⁿ1
+爭 chenn1
 怔 cheng1
-整 chiaⁿ2
+整 chiann2
 拯 chin2
-正 chiaⁿ3 chiaⁿ1 cheng3
+正 chiann3 chiann1 cheng3
 政 cheng3
 幀 cheng1
 症 cheng3 teng1
-鄭 teⁿ7 teng6
+鄭 tenn7 teng6
 證 cheng3
-芝 tsṳ1
+芝 tsur1
 枝 ki1
-支 chiⁿ1 ki1
-吱 chiⁿ1
+支 chinn1 ki1
+吱 chinn1
 蜘 ti1
 知 tsai1 ti1 ti3
-肢 chiⁿ1
-脂 chiⁿ1 chi2
+肢 chinn1
+脂 chinn1 chi2
 汁 tsap4
-之 tsṳ1
+之 tsur1
 織 chit4
 職 cheh4
 直 tit8
@@ -3584,16 +3587,16 @@
 紙 tsua2
 志 chi3
 摯 chi3
-擲 taⁿ6 sek4
+擲 tann6 sek4
 至 chi3
 致 ti3
 置 ti3
 幟 chi3
-峙 si6 sṳ6
+峙 si6 sur6
 制 chi3
 智 ti3
 秩 tiat4
-稚 chiⁿ2 chi2
+稚 chinn2 chi2
 質 chieh4
 炙 chia3
 痔 thi6
@@ -3629,13 +3632,13 @@
 株 tsu1 tu1
 蛛 tu1
 朱 tsu1
-豬 tṳ1
+豬 tur1
 諸 tsu1
 誅 tsu1 tu1
 逐 tok8
 竹 tek4
 燭 chek4
-煮 tsṳ2
+煮 tsur2
 拄 tsu2
 矚 tsok4
 囑 tsok4
@@ -3658,7 +3661,7 @@
 磚 tsng1
 轉 zuan2 tsuan2 tng2
 撰 tsuan6
-賺 than3 tsuan3 taⁿ7
+賺 than3 tsuan3 tann7
 篆 tuan6
 樁 tsuang1
 莊 tsng1 tsuang1 tsang1
@@ -3686,21 +3689,21 @@
 着 tieh8 tieh4 toh8
 灼 chiak4
 濁 tsuak8
-茲 tsṳ1
-諮 tsṳ1
-資 tsṳ1
-姿 tsṳ1
-滋 tsṳ1
-淄 tsṳ1
-孜 tsṳ1
+茲 tsur1
+諮 tsur1
+資 tsur1
+姿 tsur1
+滋 tsur1
+淄 tsur1
+孜 tsur1
 紫 chi2
-仔 tsṳ2 kiaⁿ2 tsai2
-籽 chi2 tsṳ2
+仔 tsur2 kiann2 tsai2
+籽 chi2 tsur2
 滓 tsai2
-子 tsṳ2 chi2
-自 tsṳ6
-漬 tsṳ3
-字 ji7 zṳ6
+子 tsur2 chi2
+自 tsur6
+漬 tsur3
+字 ji7 zur6
 鬃 tsang1
 棕 tsang1
 蹤 tsong1
@@ -3748,7 +3751,7 @@
 鍬 chhiu1 chhiau1
 靴 hia1
 鞘 siau1 sau1
-夗 iⁿ6 ut8
+夗 inn6 ut8
 䘼 un2
 姐 chi2
 㩼 tsoi7
@@ -3776,16 +3779,16 @@
 倏 siap4
 兀 ut4
 兮 hi1
-冇 phaⁿ3
+冇 phann3
 凊 chhin3
-冥 meng5 meⁿ5
+冥 meng5 menn5
 剜 uan2
 匕 pi3
 卦 khue3
 匾 pian2 pin2
 叩 khau3
 呷 ap4 ah4
-呾 taⁿ3
+呾 tann3
 咔 kha2
 咧 lih8
 咪 mi1
@@ -3794,9 +3797,9 @@
 嘏 kou2
 噩 ngak8
 噢 o1
-囝 kiaⁿ2
+囝 kiann2
 圳 tsng3
-圩 u1 hṳ1
+圩 u1 hur1
 坳 au1
 壑 hak4
 夙 sok4
@@ -3816,7 +3819,7 @@
 孥 nou5 nou1
 孬 mo2 nau1
 孱 tshan1
-孳 tsṳ1
+孳 tsur1
 宕 tang6
 寤 ngo6
 尬 kai3
@@ -3855,7 +3858,7 @@
 怦 pheng5
 恁 jim2 nin2
 恙 iang6
-恣 tsṳ3
+恣 tsur3
 恪 khak4
 恰 khap4
 愜 kiap4
@@ -3874,19 +3877,19 @@
 掰 peh4
 摜 kuan3
 搿 phong2
-攸 hiuⁿ1
+攸 hiunn1
 斫 tok4
 旌 seng1
 旰 kua3 kan3
 晁 chhiau5
 昊 hau2
-晏 an3 uaⁿ3
+晏 an3 uann3
 晡 pu1
 晳 sek4
-暝 meng5 meⁿ5
+暝 meng5 menn5
 暨 ki3 khai3
 朕 tim6
-枸 kau2 kau1 kṳ2
+枸 kau2 kau1 kur2
 杞 khi2
 杳 miau2
 杷 pe5
@@ -3916,10 +3919,10 @@
 汆 suan3
 沐 mok8
 泔 kam1
-泗 sṳ3
+泗 sur3
 泯 min5
 泱 iang1
-烊 ieⁿ5 iang5
+烊 ienn5 iang5
 燜 bun1
 煲 pu5
 熨 ut4
@@ -3943,7 +3946,7 @@
 獠 liau5
 獾 huan1
 玷 tiam1
-璽 zṳ2
+璽 zur2
 玦 kuat4
 瑙 nau2
 瓞 tiat4
@@ -3980,13 +3983,13 @@
 矜 keng1
 砝 huap4
 礪 li6
-祀 sṳ6
+祀 sur6
 祅 hng1
 祇 chi2 khi5
 祉 chi2
 祐 iu6
 祗 ti1
-祠 sṳ5
+祠 sur5
 祺 khi5
 禪 siam5 siam6
 禧 hi1
@@ -4027,7 +4030,7 @@
 翕 hoh4 hip4
 翡 hui1
 翦 chian2
-翳 ṳ3
+翳 ur3
 翩 phian1
 耄 mau3
 耆 khi5
@@ -4054,7 +4057,7 @@
 煢 khuang5
 荏 jim2
 蕎 khiau5
-薺 chiⁿ5 chhi5
+薺 chinn5 chhi5
 荸 puat8
 荼 thu5
 蒞 li6
@@ -4080,7 +4083,7 @@
 蜇 tiat4
 蜉 phu5
 蜓 theng5
-蜻 chheⁿ1
+蜻 chhenn1
 蟀 sut4
 蟋 sek4
 蟒 mang2
@@ -4105,14 +4108,14 @@
 豕 si2
 豚 thun5
 貂 tiau1
-貅 hiuⁿ1
+貅 hiunn1
 貊 mek8
 貔 phi5
 貽 i5
 賑 chin2
 賚 lai3
-齎 tsṳ1
-賡 keⁿ1
+齎 tsur1
+賡 kenn1
 贗 ngan6
 赧 nan2
 赳 kiu2
@@ -4127,7 +4130,7 @@
 軼 it8
 輒 tiat4
 輦 lin2
-輜 tsṳ1
+輜 tsur1
 轔 lin5
 迓 gia3
 迥 kuang2
@@ -4144,17 +4147,17 @@
 鈦 thai3
 鐲 tsuak8
 閔 mian2
-閂 suang1 tshuaⁿ3
-閭 lṳ5
+閂 suang1 tshuann3
+閭 lur5
 阡 chhian1
-阱 cheⁿ2
+阱 chenn2
 陂 pi1 phi5 pho1
 霽 chi2
 霈 phai3
 霎 siap4
 霏 hui1
 靄 ai2
-霰 suaⁿ3 san3
+霰 suann3 san3
 霾 mai5
 靚 cheng6 leng1
 韃 tak4
@@ -4168,7 +4171,7 @@
 馗 khui5
 馥 hiok4
 馨 heng1
-駟 sṳ3
+駟 sur3
 駙 hu6
 駑 no3
 驛 iah8
@@ -4199,7 +4202,7 @@
 鱷 ngak8
 鰭 khi5
 鰥 kuang1
-鰻 muaⁿ5
+鰻 muann5
 鱖 kui3
 鱔 sian6
 鳩 khiu1
@@ -4207,7 +4210,7 @@
 鴇 pau2
 鴆 tim1
 鸕 lu5 lou5
-鷀 tsṳ1 tshṳ5
+鷀 tsur1 tshur5
 鷥 si1
 鸝 li5
 鸚 eng1
@@ -4224,7 +4227,7 @@
 黠 khiat4
 黯 am3
 鼴 an3
-鼾 huaⁿ5 han1
+鼾 huann5 han1
 齁 hau1
 齆 ong3
 齏 chi3
@@ -4235,3 +4238,4 @@
 𠁞 boi6
 𠱀 phueh8
 幹 kang3
+佮 kah4

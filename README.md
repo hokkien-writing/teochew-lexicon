@@ -15,6 +15,12 @@
 * Markdown格式由腳本生成，見 [同音字表-按韻母分組.md](同音字表-按韻母分組.md)。 
 * PDF格式採用 Obsidian插件生成，見 [潮汕話同音字表.pdf](潮汕話同音字表.pdf)。
 
+## 輸入法詞典
+
+本項目生成了兩個文件[teochew.han.dict.yaml](teochew.han.dict.yaml) 和 [teochew.puj.dict.yaml](teochew.puj.dict.yaml) 用作姊妹項目 [rime-teochew](https://github.com/tsunhua/rime-teochew) 中的潮州話拍字方案的詞典文件。
+
+如想了解如何在各個平台上使用潮州話拍字方案，請訪問該[項目](https://github.com/tsunhua/rime-teochew)。
+
 ## 貢獻
 
 修改 [常用漢字-羅馬字.txt](常用漢字-羅馬字.txt)，然後運行 `python3 main.py` 即可生成新的同音字表。

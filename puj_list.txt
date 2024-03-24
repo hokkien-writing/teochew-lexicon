@@ -442,7 +442,7 @@ iang3 映
 iang5 楊 揚 佯 瘍 羊 洋 陽 烊
 iang6 癢 漾 恙
 iann2 影
-iann5 強 營 迎 贏
+iann5 強 營 迎(~老爺) 贏
 iap4 壓
 iap8 葉
 iau1 麼 陶 邀 妖 要 一 喲 夭
@@ -814,7 +814,7 @@ kur6 拒 據 巨 距 踞 炬
 kurn1 根 跟 巾 筋 斤 均 鈞
 kurn2 僅 謹
 kurn3 靳
-kurn5 凝
+kurn5 凝(油~~)
 kurn6 近
 kut4 骨
 kut8 猾 滑 掘
@@ -1034,13 +1034,14 @@ ngak8 鄂 嶽 噩 鱷
 ngam5 癌 巖
 ngan2 眼
 ngan3 唁
-ngan5 凝 言 顏 元
+ngan5 凝(~天時) 言 顏 元
 ngan6 雁 彥 諺 贗
 ngang1 昂
 ngau1 囂
 ngau5 敖 熬 翱 淆 爻 獒 餚
 ngau6 傲
 ngek8 逆
+ngeng5 凝(~固) 迎
 ngenn6 硬
 ngi2 擬 議
 ngi3 誼
@@ -1051,8 +1052,8 @@ ngiak8 鎳 虐 瘧
 ngiam5 嚴 閻
 ngiam7 驗
 ngian2 研
-ngian3 願
-ngian5 凝 研 迎 妍
+ngian3 願(～食)
+ngian5 研 妍
 ngiang2 仰
 ngiap8 孽 業
 ngiat4 齧
@@ -1063,12 +1064,12 @@ ngo2 我
 ngo5 蛾 峨 俄 娥 哦 梧 吾 虞 愚 隅
 ngo6 晤 悟 遇 寓 寤
 ngoih4 齧
-ngoin2 研
+ngoinn2 研(~平)
 ngou2 藕 偶 五 午 伍 牾
 ngou6 五 伍
 nguan2 阮 玩 頑
 nguan5 顏 元 原 源
-nguan6 願
+nguan6 願(心~)
 nguinn5 巍 危
 nguinn6 詭 僞
 ngurn5 靳 銀
@@ -1118,7 +1119,7 @@ oi2 矮
 oi5 鞋
 oi6 會
 oih8 狹
-oin5 閒
+oinn5 閒
 ok4 握 沃 屋 齷
 ong1 嗡 翁
 ong3 盎 齆

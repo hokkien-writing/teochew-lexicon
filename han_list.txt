@@ -1964,7 +1964,7 @@
 您 lur2
 檸 leng5
 獰 leng5
-凝 ngian5 ngan5 kurn5
+凝 ngeng5(~固) ngan5(~天時) kurn5(油~~)
 寧 leng5
 擰 leng5
 濘 leng5
@@ -2949,7 +2949,7 @@
 賢 hian5
 銜 ham5 kann5
 舷 hian5 hinn5 kinn5
-閒 oin5
+閒 oinn5
 涎 ian6
 弦 hinn5
 嫌 hiam5
@@ -3134,7 +3134,7 @@
 淹 im1 iam1
 鹽 iam5
 嚴 ngiam5
-研 ngian5 ngian2 ngoin2
+研 ngian2 ngian5 ngoinn2(~平)
 蜒 ian6
 巖 ngam5
 延 ian6
@@ -3287,7 +3287,7 @@
 營 iann5
 熒 iong5
 蠅 sin5
-迎 ngian5 iann5
+迎 ngeng5 iann5(~老爺)
 贏 ienn5 iann5
 盈 iong5
 影 iann2
@@ -3392,7 +3392,7 @@
 緣 uan5
 遠 ian2 hng6
 苑 uan2
-願 nguan6 ngian3
+願 nguan6(心~) ngian3(～食)
 怨 uan3
 院 inn7
 曰 uat4

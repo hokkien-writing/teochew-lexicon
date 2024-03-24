@@ -381,7 +381,7 @@
 觸 tshok4
 處 tshu2 tshu3
 揣 tshui2
-川 tshuan1
+川 tshuan1 tshng1
 穿 tshuan1 tshng1 chheng7
 椽 uan5
 傳 tng7 thuan5
@@ -1286,7 +1286,8 @@
 潔 kiat4 kiap4
 結 kat4 kit4
 解 koi3 hai6 koi2
-姐 che2 chia2
+姐 che2 chia2(翁~)
+姊 chi2
 戒 kai3
 芥 kai3
 界 kai3
@@ -1763,7 +1764,7 @@
 馬 be2 ma2
 罵 me7
 嘛 ma7
-嗎 ma ma1 ma2
+嗎 ma1 ma2
 埋 mai5
 買 boi2
 麥 beh8
@@ -3156,7 +3157,7 @@
 唁 ngan3
 彥 ngan6
 焰 iam7
-宴 an
+宴 an3
 諺 ngan6
 驗 ngiam7
 殃 iang1
@@ -3494,7 +3495,7 @@
 站 tsam6
 湛 kham1 tsam3 tam1
 綻 teng6
-樟 chienn chiang1
+樟 chienn1 chiang1
 章 chienn1 chiang1
 彰 chiang1
 漳 chiang1
@@ -3643,7 +3644,8 @@
 矚 tsok4
 囑 tsok4
 主 tsu2
-着 tu3 tieh4
+著 tu3
+着 tieh8 toh8
 柱 thiau6
 助 tso6
 蛀 tsu3
@@ -3686,7 +3688,6 @@
 茁 tshuat4
 酌 chiak4
 啄 toh4
-着 tieh8 tieh4 toh8
 灼 chiak4
 濁 tsuak8
 茲 tsur1
@@ -3747,13 +3748,11 @@
 濫 lam6
 纜 lam2
 蕭 siau1
-借 chia6
 鍬 chhiu1 chhiau1
 靴 hia1
 鞘 siau1 sau1
 夗 inn6 ut8
 䘼 un2
-姐 chi2
 㩼 tsoi7
 㾪 sang2
 丐 kai3
@@ -3824,7 +3823,7 @@
 寤 ngo6
 尬 kai3
 尷 kam3
-尻 khau1 ka1
+尻 khau1 ka1(~川)
 屙 o1
 岐 ki1
 嵇 ki1

@@ -23,8 +23,8 @@ iêh ieh
 oi
 oih
 ou
-e ṳ
-eh ṳh
+e ur
+eh urh
 ê e
 êh eh
 uê ue
@@ -36,22 +36,22 @@ iuh
 u
 uh
 ui
-an aⁿ
-ian iaⁿ
-uan uaⁿ
-ain aiⁿ
-uain uaiⁿ
-aon auⁿ
-ieun iauⁿ
-ion ioⁿ
-iên ieⁿ
+an ann
+ian iann
+uan uann
+ain ainn
+uain uainn
+aon aunn
+ieun iaunn
+ion ionn
+iên ienn
 oin
-oun ouⁿ
-ên eⁿ
-uên ueⁿ
-in iⁿ
-iun iuⁿ
-uin uiⁿ
+oun ounn
+ên enn
+uên uenn
+in inn
+iun iunn
+uin uinn
 am
 ab ap
 iam
@@ -82,8 +82,8 @@ iong
 iog iok
 êng eng
 êg ek
-eng ṳn
-eg ṳt
+eng urn
+eg urt
 ing
 ig ik
 ung un

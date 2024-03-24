@@ -11,9 +11,8 @@ ak4 惡 沃 抑 軋
 am1 庵
 am2 飲
 am3 暗 黯
-an 宴
 an1 氨 安 胺
-an3 按 案 晏 鼴
+an3 按 案 宴 晏 鼴
 ang1 骯 翁
 ang3 盎 甕
 ang5 洪 紅
@@ -68,7 +67,7 @@ bun6 聞
 bun7 悶
 but4 吻 勿
 che1 齋
-che2 這
+che2 姐 這
 che3 債
 che7 寨
 cheh4 積 績 責 職 仄
@@ -146,11 +145,11 @@ chhiu3 漱
 chhiu5 酬 仇 囚 售
 chhiu7 樹
 chi1 膣
-chi2 此 姐 詣 脂 址 指 止 趾 只 旨 稚 紫 籽 子 祇 祉 芷 霽
+chi2 此 姊 詣 脂 址 指 止 趾 只 旨 稚 紫 籽 子 祇 祉 芷 霽
 chi3 掣 熾 擠 祭 劑 濟 際 識 志 摯 至 幟 制 痣 齏
 chi6 巳 舐
 chia1 遮
-chia2 者 鍺
+chia2 姐(翁~) 者 鍺
 chia3 蔗 炙
 chia6 籍 借
 chia7 謝
@@ -181,10 +180,9 @@ chiauh4 雀
 chie1 蕉 椒 招
 chie2 少
 chie3 照
-chieh4 質
+chieh4 借 質
 chieh8 石
-chienn 樟
-chienn1 漿 章
+chienn1 漿 樟 章
 chienn2 蔣 槳 掌
 chienn3 醬
 chienn6 上 癢
@@ -516,7 +514,7 @@ jin7 認
 jip8 入
 jit8 日
 jiu5 揉 柔
-ka1 家 膠 鉸 咖 咳 尻 虼
+ka1 家 膠 鉸 咖 咳 尻(~川) 虼
 ka2 絞
 ka3 教 較 窖 校
 ka6 咬
@@ -935,7 +933,6 @@ lut4 脫
 lut8 律 率
 m2 姥 拇 姆 母
 m6 毋 唔
-ma 嗎
 ma1 媽 嗎
 ma2 媽 瑪 碼 螞 馬 嗎
 ma5 媽
@@ -1682,7 +1679,6 @@ tiau5 條
 tiau6 兆 召
 tiau7 掉 調
 tie5 潮
-tieh4 着
 tieh8 着
 tienn1 張
 tienn2 長
@@ -1798,7 +1794,7 @@ tshau1 操 抄 鈔 吵 剿
 tshau2 草
 tshau3 操 臭 藻 澡 躁 噪 燥 臊
 tshau5 曹 巢
-tshng1 艙 倉 穿 瘡 村
+tshng1 艙 倉 川 穿 瘡 村
 tshng3 刺
 tshng5 牀
 tsho1 初 搓 臊
@@ -1908,6 +1904,7 @@ tsut4 率 摔 帥 卒
 tsut8 糯
 tu1 堆 株 蛛 誅
 tu2 堵 睹 賭
+tu3 著
 tu5 櫥
 tua3 帶
 tua6 舵

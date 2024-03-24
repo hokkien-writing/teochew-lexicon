@@ -12,7 +12,7 @@
 
 ## 同音字表
 
-* Markdown格式由腳本生成，見 [同音字表-按韻母分組.md](同音字表-按韻母分組.md)。 
+* Markdown格式由腳本生成，見 [puj_table.md](puj_table.md)。 
 * PDF格式採用 Obsidian插件生成，見 [潮汕話同音字表.pdf](潮汕話同音字表.pdf)。
 
 ## 輸入法詞典
@@ -23,6 +23,6 @@
 
 ## 貢獻
 
-修改 [常用漢字-羅馬字.txt](常用漢字-羅馬字.txt)，然後運行 `python3 main.py` 即可生成新的同音字表。
+修改 [han_list.txt](han_list.txt)，然後運行 `python3 main.py` 即可生成新的同音字表。
 
 歡迎大家提交 PR，或者在 issue 中提出建議。

@@ -1,19 +1,22 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 #
-from script.common import to_keyboard_puj, today
+from script.common import today
+from script.puj import Puj
 
 
-def generate_han_dict(from_path, to_path):
-    puj_to_characters = {}
-    with open(from_path, 'r') as file:
-        for line in file:
-            line = line.strip().lower()
-            if line:
-                puj, *characters = line.split()
-                puj_to_characters[to_keyboard_puj(puj)] = characters
+def generate_han_dict(puj_list_file, han_dict_file):
+    puj_map = {}
+    with open(puj_list_file, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+        for line in lines:
+            line = line.strip()
+            if line != "":
+                simple_puj, explanations = line.split(" ", 1)
+                puj = Puj(simple_puj, explanations)
+                puj_map[simple_puj] = puj
 
-    with open(to_path, 'w') as file:
+    with open(han_dict_file, 'w') as file:
         file.writelines(f'''# Rime dictionary
 # encoding:	utf-8
 #
@@ -27,13 +30,14 @@ sort:	by_weight
 use_preset_vocabulary:	false
 ...
 ''')
-        for puj in puj_to_characters:
-            for ch in puj_to_characters[puj]:
-                line = f"{ch}\t{puj}\n"
+        for simple_puj in puj_map:
+            puj = puj_map[simple_puj]
+            for han in puj.explanations:
+                line = f"{han}\t{puj.keyboard()}\n"
                 file.write(line)
 
 
 if __name__ == "__main__":
-    generate_han_dict("../同音字表-按羅馬字分組.txt",
+    generate_han_dict("../puj_list.txt",
                       "../teochew.han.dict.yaml")
     pass

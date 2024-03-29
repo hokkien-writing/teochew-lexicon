@@ -15,7 +15,7 @@ FINALS = [
     ['i', 'ih'],
     ['o', 'oh'],
     ['u', 'uh'],
-    ['ṳ', 'ṳh'],
+    ['ur', 'urh'],
 
     ['ia', 'iah'],
     ['ie', 'ieh'],
@@ -36,33 +36,33 @@ FINALS = [
 
     ['iau', 'iauh'],
 
-    ['aⁿ'],
-    ['eⁿ'],
-    ['iⁿ'],
+    ['ann'],
+    ['enn'],
+    ['inn'],
 
-    ['iaⁿ'],
-    ['ieⁿ'],
-    ['ioⁿ'],
-    ['iuⁿ'],
+    ['iann'],
+    ['ienn'],
+    ['ionn'],
+    ['iunn'],
 
-    ['uaⁿ'],
-    ['ueⁿ'],
-    ['uiⁿ'],
+    ['uann'],
+    ['uenn'],
+    ['uinn'],
 
-    ['aiⁿ'],
-    ['oiⁿ'],
+    ['ainn'],
+    ['oinn'],
 
-    ['uaiⁿ'],
+    ['uainn'],
 
-    ['auⁿ'],
-    ['ouⁿ'],
+    ['aunn'],
+    ['ounn'],
 
-    ['iauⁿ'],
+    ['iaunn'],
 
     ['an', 'at'],
     ['in', 'it'],
     ['un', 'ut'],
-    ['ṳn', 'ṳt'],
+    ['urn', 'urt'],
 
     ['ian', 'iat'],
     ['uan', 'uat'],
@@ -115,9 +115,9 @@ keywords: ["潮汕話","潮州話","白話字"]
         for final in FINALS:
             title = ""
             if len(final) > 1:
-                title = f"{final[0]} / {final[1]}"
+                title = f"{Puj(final[0] + '1').handwriting()} / {Puj(final[1] + '1').handwriting()}"
             else:
-                title = f"{final[0]}"
+                title = f"{Puj(final[0] + '1').handwriting()}"
             print(f"{title}")
             write_title = False
             # Iterate over each initial

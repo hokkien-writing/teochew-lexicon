@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-from script.common import today
-from script.puj import Puj
+from character.helpers import today
+from character.core import Puj
 
 # 聲母列表
 INITIALS = ['', 'p', 'ph', 'b', 'm',

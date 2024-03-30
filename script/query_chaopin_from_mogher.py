@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import time
 from fake_useragent import UserAgent
 import os
-from script.common import read_first_character
+from character.helpers import read_first_character
 
 
 def get_chaopin(chinese_character):

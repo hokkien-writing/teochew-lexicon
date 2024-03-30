@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 #
-from script.common import today
-from script.puj import Puj
+from character.helpers import today
+from character.core import Puj
 
 
 def generate_puj_dict(puj_list_file, puj_dict_file):

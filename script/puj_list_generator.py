@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-from script.han import Han
-from script.puj_list import CombinedPujList
+from character.core import Han
+from character.core import CombinedPujList
 
 
 def generate_puj_list(han_list_file, puj_list_file):
@@ -16,7 +16,7 @@ def generate_puj_list(han_list_file, puj_list_file):
                 puj_list.extend(han.to_puj_list())
         combined_puj_list = CombinedPujList(puj_list).str_list()
     with open(puj_list_file, 'w', encoding='utf-8') as f:
-        f.writelines(combined_puj_list)
+        f.write("\n".join(combined_puj_list))
 
 
 if __name__ == '__main__':

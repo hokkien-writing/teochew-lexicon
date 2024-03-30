@@ -18,18 +18,6 @@ def load_map(file_path):
     return my_map
 
 
-def convert_to_explanation_map(explanation_str):
-    explanation_map = {}
-    for explanation in explanation_str.split():
-        if '(' in explanation:
-            key, comment = explanation.split('(')
-            comment = comment[:-1]
-            explanation_map[key] = comment
-        else:
-            explanation_map[explanation] = ""
-    return explanation_map
-
-
 def read_first_character(filename):
     """Read the file and return the first Chinese character of each line."""
     with open(filename, 'r', encoding='utf-8') as f:

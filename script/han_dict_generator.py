@@ -27,7 +27,7 @@ def generate_han_dict(puj_list_file, han_dict_file):
 name:	teochew.han
 version:	"{today()}"
 sort:	by_weight
-use_preset_vocabulary:	false
+use_preset_vocabulary:	true
 ...
 ''')
         for simple_puj in puj_map:

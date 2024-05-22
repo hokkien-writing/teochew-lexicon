@@ -463,9 +463,8 @@ im5 淫
 in1 煙 茵 因 姻 甄 胭 咽(~喉)
 in2 引 隱 蚓
 in3 印 應
-in5 鉛 沿 演 寅
+in5 鉛 沿 演 寅 縈
 in7 暈
-ing5 縈
 inn2 椅 已 以
 inn3 燕
 inn5 丸 圓
@@ -1203,8 +1202,7 @@ phie5 萍
 phien1 編 扁 篇 偏 翩
 phien3 片 騙
 phin2 貶
-phin5 瀕 頻 貧
-phing5 蘋 瓶 屏
+phin5 瀕 頻 貧 蘋 瓶 屏
 phinn1 便
 phinn3 片
 phinn7 鼻
@@ -1268,12 +1266,10 @@ pien3 變 遍
 pien6 瓣 便 卞 辨 辯
 piet8 蹩 別(分~)
 pih4 鱉 憋
-pin1 彬 斌 濱 賓
-pin2 品 匾
+pin1 彬 斌 濱 賓 乒
+pin2 品 屏 匾
 pin3 遍 擯 髕 鬢
-ping1 乒
-ping2 屏
-ping5 平
+pin5 平
 pinn1 鞭 邊 辮
 pinn2 扁
 pinn3 變
@@ -1416,20 +1412,18 @@ sienn7 尚
 siet4 契 設 楔 褻
 sih4 薛
 sih8 食 蝕
-sik4 室
 sim1 芯 新 心
 sim2 沁 審 嬸 慎 沈(~从文) 瀋(~陽)
 sim5 忱
 sim6 甚 什
 sin1 砷 申 呻 伸 身 紳 先 薪 鋅 辛 新 莘
 sin3 芯 信 汛 訊 迅
-sin5 辰 晨 承 娠 神 蠅 蜃
+sin5 辰 晨 承 娠 神 繩 蠅 蜃
 sin7 剩
-sing5 繩
 sinn3 扇(紙~)
 sip4 溼
 sip8 拾 什 襲 習
-sit4 失
+sit4 失 室
 sit8 食 實 翼 植 殖
 siu1 收 梳 修 羞
 siu2 首 守 黍 帚

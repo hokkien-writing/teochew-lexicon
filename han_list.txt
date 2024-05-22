@@ -2009,15 +2009,15 @@
 貧 phin5
 品 pin2
 聘 pheng3 phiann3
-乒 ping1
+乒 pin1
 坪 pheng5 phiann5
-蘋 phing5
+蘋 phin5
 萍 phie5 pheng5
-平 pheng5 penn5 phenn5 ping5
+平 pheng5 penn5 phenn5 pin5
 憑 pheng5
-瓶 phing5
+瓶 phin5
 評 pheng5
-屏 phing5 ping2
+屏 phin5 pin2
 坡 po1
 潑 phuah4
 頗 phuann2 pho2
@@ -2345,7 +2345,7 @@
 生 senn1 chhenn1 seng1
 甥 seng1
 牲 seng1 senn1
-繩 sing5
+繩 sin5
 省 seng2 senn2
 盛 seng6 siann7
 剩 sin7
@@ -2394,7 +2394,7 @@
 氏 si6 chinn1
 市 chhi6
 恃 si6
-室 sik4
+室 sit4
 視 si6 si7
 試 chhi3
 收 siu1
@@ -3921,7 +3921,7 @@
 蒞 li6
 莘 sin1
 鶯 eng1
-縈 iong5 ing5
+縈 iong5 in5
 萱 suan1
 葩 pa1
 蔻 khou3

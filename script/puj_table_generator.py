@@ -16,74 +16,58 @@ FINALS = [
     ['o', 'oh'],
     ['u', 'uh'],
     ['ur', 'urh'],
-
-    ['ia', 'iah'],
-    ['ie', 'ieh'],
-    ['io', 'ioh'],
-    ['iu', 'iuh'],
-
-    ['ua', 'uah'],
-    ['ue', 'ueh'],
-    ['ui'],
-
-    ['ai', 'aih'],
-    ['oi', 'oih'],
-
-    ['uai'],
-
-    ['au', 'auh'],
-    ['ou'],
-
-    ['iau', 'iauh'],
-
+    
     ['ann'],
     ['enn'],
     ['inn'],
-
+    
+    ['ai'],
+    ['au', 'auh'],
+    ['oi', 'oih'],
+    ['ou'],
+    ['ia', 'iah'],
+    ['ie', 'ieh'],
+    ['iu'],
+    ['ua', 'uah'],
+    ['ue', 'ueh'],
+    ['ui'],
+    
+    ['ainn'],
+    ['aunn'],
+    ['oinn'],
+    ['ounn'],
     ['iann'],
     ['ienn'],
-    ['ionn'],
     ['iunn'],
-
     ['uann'],
     ['uenn'],
     ['uinn'],
 
-    ['ainn'],
-    ['oinn'],
-
-    ['uainn'],
-
-    ['aunn'],
-    ['ounn'],
-
-    ['iaunn'],
+    ['am', 'ap'],
+    ['im', 'ip'],
+    ['om'],
+    ['iam', 'iap'],
+    ['uam', 'uap'],
 
     ['an', 'at'],
     ['in', 'it'],
     ['un', 'ut'],
     ['urn', 'urt'],
-
-    ['ian', 'iat'],
+    ['ien', 'iet'],
     ['uan', 'uat'],
-
-    ['am', 'ap'],
-    ['om'],
-    ['im', 'ip'],
-
-    ['iam', 'iap'],
-    ['uam', 'uap'],
 
     ['ang', 'ak'],
     ['eng', 'ek'],
-    ['ing', 'ik'],
     ['ong', 'ok'],
-    ['ung', 'uk'],
-
     ['iang', 'iak'],
     ['iong', 'iok'],
-
     ['uang', 'uak'],
+    
+    ['iau', 'iauh'],
+    ['uai'],
+
+    ['iaunn'],
+    ['uainn'],
 
     ['m'],
     ['ng', 'ngh'],

@@ -11,7 +11,7 @@ def generate_puj_dict(puj_list_file, puj_dict_file):
 # encoding: utf-8
 #
 # Teochew PUJ 潮州白話字
-# 維護於 https://github.com/tsunhua/teochew-character/teochew.puj.dict.yaml
+# 維護於 https://github.com/hokkien-writing/teochew-character/teochew.puj.dict.yaml
 #
 ---
 name:	teochew.puj

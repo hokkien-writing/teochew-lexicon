@@ -77,7 +77,7 @@ FINALS = [
 CIRCLED_NUMBERS = ["⓪", "①", "②", "③", "④", "⑤", "⑥", "⑦", "⑧", "⑨"]
 
 
-def generate_puj_table(puj_list_file, puj_table_file):
+def generate_character_table(puj_list_file, character_table_file):
     puj_map = {}
     with open(puj_list_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
@@ -87,10 +87,10 @@ def generate_puj_table(puj_list_file, puj_table_file):
                 simple_puj, explanations = line.split(" ", 1)
                 puj = Puj(simple_puj, explanations)
                 puj_map[simple_puj] = puj
-    with open(puj_table_file, 'w', encoding='utf-8') as f:
+    with open(character_table_file, 'w', encoding='utf-8') as f:
         f.writelines(f'''---
-title: "潮汕話同音字表 v{today()}"
-author: "github.com/tsunhua/teochew-character"
+title: "潮州話同音字表 v{today()}"
+author: "github.com/hokkien-writing/teochew-character"
 keywords: ["潮汕話","潮州話","白話字"]
 ---
 
@@ -142,5 +142,5 @@ def map_to_circled_numbers(number):
 
 
 if __name__ == '__main__':
-    generate_puj_table("../puj_list.txt", "../puj_table.md")
+    generate_character_table("../puj_list.txt", "../潮州話同音字表.md")
     pass

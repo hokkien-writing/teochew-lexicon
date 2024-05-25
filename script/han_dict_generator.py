@@ -18,10 +18,10 @@ def generate_han_dict(puj_list_file, han_dict_file):
 
     with open(han_dict_file, 'w') as file:
         file.writelines(f'''# Rime dictionary
-# encoding:	utf-8
+# encoding: utf-8
 #
 # Teochew Han 潮州話漢字
-# 維護於 https://github.com/tsunhua/teochew-character/teochew.han.dict.yaml
+# 維護於 https://github.com/hokkien-writing/teochew-character/teochew.han.dict.yaml
 #
 ---
 name:	teochew.han

@@ -413,7 +413,7 @@
 湊 tshou3
 粗 tshou1
 醋 tshou3
-簇 tsok8
+簇 tsok8 tshok4
 促 tshok4
 躥 tshuan3
 篡 tshuan3
@@ -804,7 +804,7 @@
 閣 koh4
 隔 keh4
 鉻 kak4
-個 kai5 kai7 ko6
+個 kai5 ko6
 各 kak4
 給 kip4
 根 kurn1
@@ -2048,7 +2048,7 @@
 漆 tshak4
 柒 chhit4
 沏 chhiet4
-其 khi5
+其 khi5 kai7
 棋 ki5
 奇 khi5 khia1 ki1
 歧 chinn1 khi5

@@ -960,6 +960,7 @@ mek8 陌 貊
 meng2 錳 猛 皿
 meng5 盲 萌 盟 明 螟 鳴 銘 名 冥 暝 瞑 酩
 meng6 孟 命
+menn2 猛
 menn5 芒 盲 冥 暝
 mi1 眯 乜 咪
 mi2 美 靡
@@ -1380,7 +1381,7 @@ siam5 蟬 禪
 siam6 禪
 siang1 墒 商 湯 相 鑲 襄 湘 殤 觴
 siang2 想 鯗
-siang3 相
+siang3 相 信
 siang5 上 裳 翔 祥 詳 嫦 嘗(~試)
 siang6 上 尚 像 象
 siann1 聲

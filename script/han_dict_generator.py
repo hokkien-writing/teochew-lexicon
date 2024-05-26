@@ -28,12 +28,14 @@ name:	teochew.han
 version:	"{today()}"
 sort:	by_weight
 use_preset_vocabulary:	true
+import_tables:
+  - teochew.puj
 ...
 ''')
         for simple_puj in puj_map:
             puj = puj_map[simple_puj]
             for han in puj.explanations:
-                line = f"{han}\t{puj.keyboard()}\n"
+                line = f"{han}\t{puj.keyboard()}\t100\n"
                 file.write(line)
 
 

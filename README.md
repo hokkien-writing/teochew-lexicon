@@ -16,6 +16,20 @@
 1. 修改 [han_list.txt](han_list.txt)後提交 PR。
 2. 在 issue 中提出問題或建議。
 
+`han_list.txt` 中詞條格式爲：
+
+```
+漢字 PUJ{異體}(例詞)
+```
+
+例如：
+
+```
+斫 tok4{斲}(~斷)
+```
+
+* 注意：所有標點符號均爲西文模式。
+
 ## 用途
 
 1. 生成輸入法詞典，作爲拍字之用，見項目 [rime-teochew](https://github.com/hokkien-writing/rime-teochew)。

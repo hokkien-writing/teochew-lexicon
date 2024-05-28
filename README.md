@@ -1,4 +1,4 @@
-# 潮州話詞庫 (teochew-character）
+# 潮州話詞庫 (teochew-lexicon）
 
 ## 簡介
 

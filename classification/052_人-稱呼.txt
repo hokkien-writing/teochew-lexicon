@@ -18,9 +18,9 @@
 囝, kiann2, 子女, L0, 考釋
 大官, ta1-kuann1, 公公, L0, 考釋
 阿公, a1-kong1, 公公(面稱), L0, 考釋
-大家, ta1-ke|tua7-ke1, 婆婆, L0, 考釋
+大家, ta1-ke1|tua7-ke1, 婆婆, L0, 考釋
 阿媽, a1-ma2, 婆婆(面稱), L0, 考釋
-大家官, ta1-ke1-kuann|tua7-ke1-kuann1, 公婆, L0, 考釋
+大家官, ta1-ke1-kuann1|tua7-ke1-kuann1, 公婆, L0, 考釋
 新婦, sin1-pu6, 媳婦, L0, 考釋
 翁姐, ang1-chia2, 夫妻, L0, 考釋
 翁姐囝, ang1-chia2-kiann2, 小兩口, L0, 考釋
@@ -34,7 +34,7 @@
 同門, tang5-mng5, 連襟, L0, 考釋
 親情, chhin1-chiann6, 親戚, L0, 考釋
 人客|儂客, nang5-kheh4, 客人, L0, 汕頭話讀本|考釋
-孤老, ku1-lau|kou2-lau2, 孤寡老人, L0, 考釋
+孤老, ku1-lau2|kou2-lau2, 孤寡老人, L0, 考釋
 單丁, tuann1-teng1, 獨生子, L0, 考釋
 丈夫囝, ta1-pou1-kiann2, 男孩, L0, 考釋
 阿舍, a1-sia3, 富少, L2, 考釋

@@ -1,13 +1,13 @@
-心性, Sim-sèⁿ, 脾氣, L0, 考釋
-歡喜, Huaⁿ-hí, 高興, L0, 汕頭話讀本
-快活, Khùaⁿ-uáh, 歡快, L0, 汕頭話讀本
-爽快, Sóng-khuài, 歡快, L0, 汕頭話讀本
-奇異, Khî-ĩ, 驚奇, L1, 汕頭話讀本
-驚愕, Kiaⁿ-ngo̍h, 驚呆, L1, 汕頭話讀本
-愊, Pek, 生氣, L0, 考釋
-偪側, Pek-chhek, 易怒, L0, 考釋
-適意, Sek-î, 樂意, L0, 考釋
-心憧憧, Sim-tông-tông, 心神不定, L1, 考釋
-雜集|雜疾, Tsa̍p-chi̍p, 不舒坦, L0, 
-衝性, Chèng-sêⁿ, 發脾氣, L0, 考釋
-衋心, Kek-sim, 痛心, L0, 考釋
+心性, sim1-senn3, 脾氣, L0, 考釋
+歡喜, huann1-hi2, 高興, L0, 汕頭話讀本
+快活, khuann3-uah2, 歡快, L0, 汕頭話讀本
+爽快, song2-khuai3, 歡快, L0, 汕頭話讀本
+奇異, khi5-i6, 驚奇, L1, 汕頭話讀本
+驚愕, kiann1-ngoh8, 驚呆, L1, 汕頭話讀本
+愊, pek4, 生氣, L0, 考釋
+偪側, pek4-chhek4, 易怒, L0, 考釋
+適意, sek4-i5, 樂意, L0, 考釋
+心憧憧, sim1-tong5-tong5, 心神不定, L1, 考釋
+雜集|雜疾, tsap8-chip8, 不舒坦, L0, 
+衝性, cheng3-senn5, 發脾氣, L0, 考釋
+衋心, kek4-sim1, 痛心, L0, 考釋

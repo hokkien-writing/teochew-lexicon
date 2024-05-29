@@ -1,11 +1,11 @@
-掌更儂, Chiéⁿ-keⁿ-nâng, 守夜人, L0, 汕頭話讀本
-司阜, Sai-pẽ, 師傅, L0, 汕頭話讀本
-工錢, Kang-chiⁿ, 工資, L1, 汕頭話讀本
-割工錢, Kuah kang-chiⁿ, 扣工資, L1, 汕頭話讀本
-伙頭|火頭, Húe-thâu, 廚師, L1, 汕頭話讀本|考釋
-職任, Cheh-jĩm, 職務, L1, 汕頭話讀本
-乞食, Khṳt-chiáh, 乞丐, L0, 汕頭話讀本|考釋
-訟師, Sõng-sṳ, 律師, L1, 汕頭話讀本
-督工, Tok-kang, 監工, L1, 汕頭話讀本
-作工, Tsoh-kang, 工作, L0, 汕頭話讀本
-花娘, Hue-niêⁿ, 妓女, L2, 考釋
+掌更儂, chienn2-kenn1-nang5, 守夜人, L0, 汕頭話讀本
+司阜, sai1-pe6, 師傅, L0, 汕頭話讀本
+工錢, kang1-chinn1, 工資, L1, 汕頭話讀本
+割工錢, kuah4 kang1-chinn1, 扣工資, L1, 汕頭話讀本
+伙頭|火頭, hue2-thau5, 廚師, L1, 汕頭話讀本|考釋
+職任, cheh4-jim6, 職務, L1, 汕頭話讀本
+乞食, khurt4-chiah2, 乞丐, L0, 汕頭話讀本|考釋
+訟師, song6-sur1, 律師, L1, 汕頭話讀本
+督工, tok4-kang1, 監工, L1, 汕頭話讀本
+作工, tsoh4-kang1, 工作, L0, 汕頭話讀本
+花娘, hue1-nienn5, 妓女, L2, 考釋

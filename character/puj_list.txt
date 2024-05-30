@@ -721,7 +721,7 @@ kim3 禁
 kim6 妗
 kin2 緊
 kinn3 見
-kinn5 舷
+kinn5 舷 墘
 kiok4 鞠 粥
 kiong1 恭 躬 共 穹
 kiong2 拱
@@ -1002,9 +1002,9 @@ muann2 滿
 muann5 瞞 鰻
 muat8 末
 mue2 每
-mue5 糜
 mue6 昧 寐 妹 魅
 mueh8 物
+muenn5 糜
 mui2 鎂 美
 mui5 微
 mut8 沒
@@ -1031,6 +1031,7 @@ ng5 黃 磺
 ngai5 皚 呆 崖 涯 捱(~苦)
 ngai6 艾 岸
 ngak8 鄂 噩 鱷 岳(~父) 嶽(三山五~)
+ngam1 啱
 ngam5 癌 巖
 ngan2 眼
 ngan3 唁
@@ -1508,6 +1509,7 @@ tak8 達 毒 獨 度 值
 tam1 耽 湛 聃
 tam6 淡
 tan1 擔 丹 鄲 坍 殫
+tan2 疸
 tan3 旦 誕 蛋
 tan5 陳
 tan6 但 憚 撣
@@ -1545,7 +1547,7 @@ thah4 塔
 thah8 疊
 thai1 篩 苔
 thai3 大 傣 泰 酞 太 態 汰 鈦
-thai5 抬 臺(~灣) 治 台(兄~,戲~) 颱(風~) 檯(寫字~)
+thai5 抬 臺(~灣) 治 台(兄~,戲~) 颱(風~) 檯(寫字~) 刣
 thai6 待
 thak4 塞 撻 踢 拓
 thak8 讀
@@ -1762,7 +1764,7 @@ tsat8 實
 tsau1 遭 糟
 tsau2 蚤 走
 tsau3 竈 奏
-tsau6 悼 淖 造 皁 罩
+tsau6 悼 淖 造 皁 罩 皂
 tsha1 岔 差 搓 喳
 tsha2 炒
 tsha3 詫
@@ -1811,7 +1813,7 @@ tshou3 湊 醋 揍
 tshou5 愁
 tshu1 雛 趨
 tshu2 處 取 娶
-tshu3 處 措 趣
+tshu3 處 措 趣 厝
 tshu5 滁
 tshua2 歪
 tshua3 蔡
@@ -1871,6 +1873,7 @@ tsu6 聚 住 駐
 tsua1 撾 抓
 tsua2 紙
 tsua5 蛇
+tsuah8 絀
 tsuak8 蜀 濁 鐲
 tsuan1 湍 專
 tsuan2 轉
@@ -1989,11 +1992,12 @@ zok8 辱 褥
 zong2 冗
 zong5 仍 戎 茸 絨
 zu2 乳 愈(~來~好) 癒(病~)
-zu5 茹 蠕 儒 孺 如 榆 俞 愉 渝 逾{踰}(~越)
+zu5 茹 蠕 儒 孺 如 榆 俞 愉 渝 逾{踰}(~越) 覦
 zu6 喻 裕 籲(呼~)
 zuah8 熱
 zuan2 轉 纂
 zuat8 說 悅
+zue5 挼
 zue6 銳 睿
 zui5 唯 惟 濰 維
 zui6 遺

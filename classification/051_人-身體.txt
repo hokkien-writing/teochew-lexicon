@@ -1,10 +1,10 @@
-頭毛, thau5-monn5, 頭髮, L0, 汕頭話讀本|考釋
+頭毛, thau5-mo5, 頭髮, L0, 汕頭話讀本|考釋
 面, min7, 臉, L0, 汕頭話讀本
 面皮, min7-phue5, 臉皮, L0, 考釋
 目睭, mak2-chiu1, 眼睛, L1, 汕頭話讀本
 目仁, mak2-jin5, 眼球, L0, 汕頭話讀本
 目眉, mak2-bai5, 眉毛, L0, 汕頭話讀本
-目眥毛, mak2-chhi3-monn5, 眼睫毛, L1, 汕頭話讀本|考釋
+目眥毛, mak2-chhi3-mo5, 眼睫毛, L1, 汕頭話讀本|考釋
 目睭皮, mak2-chiu1-phue5, 眼皮, L2, 汕頭話讀本
 鼻空, phinn7-khang1, 鼻孔, L0, 汕頭話讀本
 喙, tshui3, 嘴, L0, 汕頭話讀本

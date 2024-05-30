@@ -2,8 +2,8 @@
 無行, bo5-heng6, 缺德, L0, 考釋
 名頭, miann1-thau5, 名聲, L0, 考釋
 名色, miann1-sek4, 名譽, L0, 考釋
-小禮, siou2-li2, 羞耻, L0, 汕頭話讀本
-見笑, kien3-siou3, 羞耻, L0, 汕頭話讀本
+小禮, siau2-li2, 羞耻, L0, 汕頭話讀本
+見笑, kien3-siau3, 羞耻, L0, 汕頭話讀本
 𠢕(U+20895)|賢, gau5, 能幹, L0, 汕頭話讀本|考釋
 勥, khiang3, 厲害, L0, 汕頭話讀本
 力|勤, lat2, 勤勞, L0, 汕頭話讀本|考釋
@@ -45,7 +45,7 @@
 本等, pun2-teng2, 本分, L0, 考釋
 痞囝, phai2-kiann2, 痞子, L0, 考釋
 刁厥, tiau1-khiak4, 刁潑, L0, 考釋
-翹楚, khiou5-tsho2, 出眾, L0, 汕頭話讀本|考釋
+翹楚, khiau5-tsho2, 出眾, L0, 汕頭話讀本|考釋
 跳脫, thiau3-thut4, 脫俗, L0, 考釋
 無中用, bo5-teng3-eng7, 不中用, L0, 考釋
 闊達, khuah4-tak8, (心胸)寬廣, L0, 

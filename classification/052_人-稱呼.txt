@@ -3,8 +3,8 @@
 孥囝, nounn1-kiann2, 孩子, L0, 汕頭話讀本|考釋
 阿娘, a1-nienn5, 夫人, L1, 汕頭話讀本
 阿娘囝, a1-nienn5-kiann2, 小姐, L1, 汕頭話讀本
-唐人|唐儂, tng5-nang5, 中國人, L2, 汕頭話讀本
-畨人|畨儂, huan1-nang5, 野蠻人, L2, 汕頭話讀本
+唐人, tng5-nang5, 中國人, L2, 汕頭話讀本
+番人|畨人, huan1-nang5, 野蠻人, L2, 汕頭話讀本
 烏面儂, ou1-min7-nang5, 黑人, L2, 汕頭話讀本
 浪蕩儂, lo2-tong7-nang5, 流浪者, L2, 汕頭話讀本
 落神婆, loh2-sin5-phua5, 女巫, L1, 汕頭話讀本

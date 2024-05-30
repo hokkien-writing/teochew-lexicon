@@ -1,8 +1,8 @@
 厝, tshu3, 家, L0, 汕頭話讀本
 內, lai6, 家, L0, 考釋
 厝頂, tshu3-teng2, 房頂, L0, 汕頭話讀本
-地骹, ti7-kha1, 基礎, L0, 汕頭話讀本
-塗骹, thou5-kha1, 地面, L0, 汕頭話讀本
+地骹|地腳, ti7-kha1, 基礎, L0, 汕頭話讀本
+塗骹|塗腳, thou5-kha1, 地面, L0, 汕頭話讀本
 寬埕, khuann1-tiann5, 廣場, L0, 汕頭話讀本
 睇書房, thoinn2-tsur1-pang5, 閱讀室, L1, 汕頭話讀本
 食房, chiah2-pang5, 餐廳, L1, 汕頭話讀本

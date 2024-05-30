@@ -11,8 +11,8 @@
 火石, hue2-chieh2, 打火石, L0, 汕頭話讀本
 鹽硝, iam2-siau1, 硝石, L0, 汕頭話讀本
 硝, siau1, 硝石, L0, 汕頭話讀本
-白𥐥|白矾, peh2-huan5, 明礬, L0, 汕頭話讀本
-生𥐥|生矾, chhenn1-huan5, 綠礬, L0, 汕頭話讀本
+白矾|白𥐥, peh2-huan5, 明礬, L0, 汕頭話讀本
+生矾|生𥐥, chhenn1-huan5, 綠礬, L0, 汕頭話讀本
 鐵碎, thih4-tshui3, 鐵屑, L0, 汕頭話讀本
 鐵棍, thih4-kun3, 鐵棒, L0, 汕頭話讀本
 銅薄, tang5-poh2, 銅板, L0, 汕頭話讀本

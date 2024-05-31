@@ -1,9 +1,9 @@
 案, uann3, 案件, L0, 汕頭話讀本
 被告, pi6-ko3, 被告, L0, 汕頭話讀本
-犯律, huam6-lut2, 犯法, L0, 汕頭話讀本
+犯律, huam6-lut8, 犯法, L0, 汕頭話讀本
 擔承, tam1-seng5, 保釋, L0, 汕頭話讀本
 受賄, siu6-iu6, 受賄, L0, 汕頭話讀本
-食錢, chiah2-chinn5, 受賄, L0, 汕頭話讀本
+食錢, chiah8-chinn5, 受賄, L0, 汕頭話讀本
 定罪, tiann6-tsue6, 判刑, L0, 汕頭話讀本
 賞格, sienn2-keh4, 通緝令, L1, 汕頭話讀本
 頭儂, thau5-nang5, 頭目, L1, 汕頭話讀本

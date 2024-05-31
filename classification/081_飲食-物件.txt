@@ -2,7 +2,7 @@
 暖爐, zuan2-lou5, 火鍋, L0, 考釋
 食槅, chiah8-keh4, 飯盒, L1, 考釋
 手巾, chhiu2-kurn1, 餐巾, L0, 汕頭話讀本
-食床, chiah2-tshng5, 餐桌, L1, 汕頭話讀本
+食床, chiah8-tshng5, 餐桌, L1, 汕頭話讀本
 飯床, png7-tshng5, 飯桌, L0, 考釋
 湯匙, thng1-si5, 湯勺, L0, 汕頭話讀本
 甌, au1, 湯碗, L0, 汕頭話讀本

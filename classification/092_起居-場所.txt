@@ -5,10 +5,10 @@
 塗骹|塗腳, thou5-kha1, 地面, L0, 汕頭話讀本
 寬埕, khuann1-tiann5, 廣場, L0, 汕頭話讀本
 睇書房, thoinn2-tsur1-pang5, 閱讀室, L1, 汕頭話讀本
-食房, chiah2-pang5, 餐廳, L1, 汕頭話讀本
-伙食房, hue2-sit2-pang5, 廚房, L2, 汕頭話讀本
-臥房, ut2-pang5, 臥室, L1, 汕頭話讀本
-洗浴房, soi2-ek2-pang3, 浴室, L1, 汕頭話讀本
+食房, chiah8-pang5, 餐廳, L1, 汕頭話讀本
+伙食房, hue2-sit8-pang5, 廚房, L2, 汕頭話讀本
+臥房, ut8-pang5, 臥室, L1, 汕頭話讀本
+洗浴房, soi2-ek8-pang3, 浴室, L1, 汕頭話讀本
 貯貨房, tun1-hue3-pang5, 儲藏室, L2, 汕頭話讀本
 批館, phoi1-kuan2, 郵局, L2, 汕頭話讀本
 信關, sin3-kuan1, 郵局, L2, 汕頭話讀本

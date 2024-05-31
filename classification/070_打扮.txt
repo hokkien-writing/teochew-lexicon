@@ -13,9 +13,9 @@
 鈕, liu2, 鈕扣, L0, 汕頭話讀本
 鈕縫, liu2-phang7, 鈕扣孔, L0, 汕頭話讀本
 棕蓑, tsang1-sui1, 蓑衣, L1, 汕頭話讀本
-葵笠, koih2-loih2, 斗笠, L1, 汕頭話讀本
+葵笠, koih8-loih8, 斗笠, L1, 汕頭話讀本
 頷領, am6-niann2, 衣領, L0, 汕頭話讀本
-褲橛, khou3-kueh2, 短褲, L0, 汕頭話讀本
+褲橛, khou3-kueh8, 短褲, L0, 汕頭話讀本
 褲帶, khou3-tua7, 腰帶, L0, 汕頭話讀本
 鞋拖, oi5-thua1, 拖鞋, L0, 汕頭話讀本
 金器, kim1-khui3, 金飾, L1, 汕頭話讀本

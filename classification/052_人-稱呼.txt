@@ -1,3 +1,5 @@
+家己, ka1-ki7, 自己, L0
+家己儂, ka1-ki7-nang5, 自己人, L0
 丈夫, ta1-pou1, 男人, L0, 汕頭話讀本|考釋
 諸娘|珠娘, tsur1-nienn5, 女人, L0, 汕頭話讀本|考釋
 孥囝, nounn1-kiann2, 孩子, L0, 汕頭話讀本|考釋
@@ -7,7 +9,7 @@
 番人|畨人, huan1-nang5, 野蠻人, L2, 汕頭話讀本
 烏面儂, ou1-min7-nang5, 黑人, L2, 汕頭話讀本
 浪蕩儂, lo2-tong7-nang5, 流浪者, L2, 汕頭話讀本
-落神婆, loh2-sin5-phua5, 女巫, L1, 汕頭話讀本
+落神婆, loh8-sin5-phua5, 女巫, L1, 汕頭話讀本
 出外儂, tshut4-gua7-nang5, 陌生人, L0, 汕頭話讀本
 生分儂|生份儂, chhenn1-hun7-nang5, 陌生人, L0, 汕頭話讀本|考釋
 阿公, a1-kong1, 爺爺, L0, 考釋

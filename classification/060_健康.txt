@@ -69,7 +69,8 @@
 拍呃, pah4-oh4, 打嗝, L0, 考釋
 嘔噦, au2-ueh4, 嘔吐, L0, 考釋
 錯, tshoh4, 嗆, L0, 考釋
-黃𦅇(U+26147)瘦㾪, ng5-sng1, 面黃肌瘦, L0, 考釋
+黃𦅇(U+26147)瘦㾪, ng5-sng1-sou2-san2, 面黃肌瘦, L1, 考釋
+㾪骨落肉, san2-kut4-lak8-nek8, 瘦骨嶙峋, L0, 考釋
 肨, phong3, 脹, L0, 考釋
 胕腫, pu6-cheng2, 浮腫, L0, 考釋
 近覷, kurn6-tshur3, 近視, L0, 考釋

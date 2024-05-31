@@ -643,7 +643,7 @@
 琺 huap4
 藩 phuan1
 帆 phang5
-番 phuann1 huan1
+番|畨 phuann1 huan1
 翻 huan1
 樊 huan5
 礬 huam5
@@ -1207,7 +1207,8 @@
 矯 kiau2
 僥 ngiau5
 腳 kha1 kieh4
-跤 kha1 kieh4
+骹 kha1
+跤 kao1
 狡 kau2
 角 kak4 kieh4
 餃 kiau2
@@ -4109,7 +4110,7 @@
 表 piau2(~示) pie2(~兄)
 錶 pie1(手~)
 別 piet8(分~) pak4(~人)
-幷 peng6{并}(~州)
+幷|并 peng6(~州)
 併 peng6(合併)
 並 peng6(並立,並且)
 拚 piann3(拍~,~命)
@@ -4136,7 +4137,7 @@
 噹 tang1(叮~)
 蕩 tang6(坦~,掃~,遊~)
 盪 tang6(震~)
-雕 tiau1{鵰}
+雕|鵰 tiau1
 吊 tiau3(~燈)
 弔 tiau3(憑~)
 斗 tau2(一~酒)
@@ -4175,7 +4176,7 @@
 衚 hu5(~衕)
 糊 hu5(~塗) kou5(麵線~)
 餬 kou5(麵線~)
-譁 hua1{嘩}(諠~)
+譁|嘩 hua1(諠~)
 划 hua5(~算)
 劃 ueh8(計~)
 回 hue5(~頭)
@@ -4219,7 +4220,7 @@
 累 lui6(勞~,拖~) lui2(~積)
 纍 lui2(罪惡~~)
 里 li2(公~,鄰~)
-裏 lai6{裡}(~底,~衣)
+裏|裡 lai6(~底,~衣)
 栗 lak8(猴~)
 慄 lak8 liak8
 歷 leh8(經~)
@@ -4275,7 +4276,7 @@
 捨 sia3(取~)
 沈 sim2(~从文) tim5(浮~)
 瀋 sim2(~陽)
-升 seng1{陞}(~級,公~)
+升|陞 seng1(~級,公~)
 昇 seng1(東~)
 尸 si1(~位素餐)
 屍 si1(~體)
@@ -4319,14 +4320,14 @@
 嚥 ien3(吞~)
 佣 iong5(~金)
 傭 iong5(~人)
-湧 iong3{涌}(~現) eng2(海~)
+湧|涌 iong3(~現) eng2(海~)
 游 iu5(~泳)
 遊 iu5(~戲)
 于 ur1(~右任) u1(單~)
 於 ur1(屬~)
 余 ur5
 餘 ur5(剩~,~數)
-逾 zu5{踰}(~越)
+逾|踰 zu5(~越)
 郁 hiok4(文采~~,~達夫)
 鬱 ut4(抑~)
 吁 u1(長~短嘆)
@@ -4375,7 +4376,7 @@
 準 tsun2(標~,~備)
 幸 heng6(~災樂禍,寵~)
 倖 heng6(僥~,~存)
-斫 tok4{斲}(~斷)
+斫|斲 tok4(~斷)
 啜 tshueh4
 厝 tshu3
 絀 tsuah8

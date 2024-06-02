@@ -1,23 +1,23 @@
-a1 阿 鴉 丫 亞
+a1 阿(~爺) 鴉 丫 亞
 a2 拗
 a3 亞
 a7 啊
-ah4 押 鴨 呷
-ai1 埃 哎 唉 哀 挨(~打)
+ah4 押(抵~) 鴨 呷
+ai1 埃 唉 哀 挨(~打)
 ai2 藹 靄
 ai7 哎
-ainn3 艾 愛 欲(~食)
+ainn3 艾(~滋病) 愛 欲(~食)
 ak4 沃 抑 軋 惡(罪~)
 am1 庵
 am2 飲
 am3 暗 黯
-an1 氨 安 胺
+an1 氨 安(平~) 胺
 an3 按 案 宴 晏 鼴
 ang1 骯 翁
-ang3 盎 甕
+ang3 盎(~然) 甕
 ang5 洪 紅
 ann7 餡
-ap4 押 呷
+ap4 押(~韻) 呷
 ap8 盒 匣
 au1 凹 歐 鷗 毆 漚 區 坳 甌 鏖
 au2 毆 嘔 拗
@@ -82,25 +82,25 @@ chenn1 爭
 chenn2 井 阱
 chenn5 晴
 chenn6 靜
-chhe1 叉 岔 差 尺
+chhe1 叉 岔 差(官~) 尺
 chhe2 扯
 chhe3 廁
 chhe5 查
 chheh4 策 冊
 chhek4 側 測 斥 僳 戚 粟 彳
-chheng1 稱 清
-chheng3 襯 稱
+chheng1 稱(~呼) 清
+chheng3 襯 稱(~職)
 chheng5 橙 情
-chheng7 穿
+chheng7 穿(~衫褲)
 chhenn1 青 氰 生 星 腥 蜻
 chhenn2 醒
-chhi1 差 癡 棲 妻 鰓 淒(~涼) 悽(~慘)
-chhi2 恥 侈
-chhi3 刺 試 弒
+chhi1 差(參~) 癡 棲 妻 鰓 淒(~涼) 悽(~慘)
+chhi2 恥 齒 侈
+chhi3 刺(魚~) 試 弒
 chhi5 遲 馳 齊 薺
 chhi6 市
 chhi7 飼
-chhia1 車 奢 賒
+chhia1 車(水~) 奢 賒
 chhia2 且
 chhiah4 赤
 chhiak4 戳 綽 鵲 雀 芍
@@ -108,15 +108,15 @@ chhiam1 殲 懺 讖 簽(~名) 籤(~詩)
 chhiam5 潛
 chhiang1 昌 猖 嗆 戕
 chhiang2 廠 敞 嗆
-chhiang3 唱 倡
-chhiang5 場 常 長 腸 薔 爿
+chhiang3 唱(~和) 倡
+chhiang5 場(排~) 常(無~時) 長(~度) 腸(直~) 薔 爿
 chhiann2 請
 chhiann5 成
 chhiau1 悄 鍬
 chhiau2 嘲 悄 峭 俏 稍
-chhiau5 朝 瞧 晁
-chhie3 唱 笑
-chhieh4 尺 淖
+chhiau5 朝(~代) 瞧 晁
+chhie3 唱(~歌) 笑
+chhieh4 尺(寸~) 淖
 chhieh8 席
 chhien1 扦 釺 遷 纖 阡 韆(鞦~)
 chhien2 淺
@@ -132,20 +132,19 @@ chhim2 寢
 chhim3 沁
 chhim5 侵 尋
 chhin1 親
-chhin3 稱 秤 凊
-chhin5 臣 陳 秦
+chhin3 秤 凊
+chhin5 臣 陳(~皮) 秦
 chhinn1 鮮
-chhinn2 齒
 chhinn5 尋
 chhip4 緝 輯
 chhit4 七 柒 拭
-chhiu1 瞅 初 揪 鍬 秋(~分) 鞦(~韆) 鬚(鬍~)
+chhiu1 瞅 初(~九) 揪 鍬 秋(~分) 鞦(~韆) 鬚(鬍~)
 chhiu2 手 醜(~陋)
 chhiu3 漱
 chhiu5 酬 仇 囚 售
 chhiu7 樹
 chi1 膣
-chi2 此 姊 詣 脂 址 指 止 趾 旨 稚 紫 籽 子 祇 祉 芷 霽 只(~是)
+chi2 此(~搭) 姊 詣 脂 址 指 止 趾 旨 稚 紫 籽 子 祇 祉 芷 霽 只(~是)
 chi3 掣 熾 擠 祭 劑 濟 際 識 摯 至 幟 痣 齏 志(~向) 誌(事~,墓~銘) 制(~度) 製(~造)
 chi6 巳 舐
 chia1 遮
@@ -160,16 +159,16 @@ chiam1 尖 漸 贍 瞻 詹 占(~卜)
 chiam3 佔(~領)
 chiam6 漸 塹 暫
 chiang1 將 樟 章 彰 漳 張
-chiang2 長
+chiang2 長(~大)
 chiang3 將 獎 漲 脹 瘴 障 嶂
 chiang6 匠 杖 丈 仗
 chiann1 晶 精 正
 chiann2 整
 chiann3 正
-chiann5 成 情
+chiann5 成(做~) 情
 chiap4 接
 chiap8 捷 睫 洽
-chiau1 朝 礁 焦 招 昭
+chiau1 朝(今~) 礁 焦 招 昭
 chiau2 鳥
 chiau3 照
 chiauh4 雀
@@ -179,13 +178,12 @@ chie3 照
 chieh4 質 借(~用,~勢)
 chieh8 石
 chien1 箋 煎 濺 羶
-chien2 趁 踐 餞 濺 燼 疹 診 殄 畛 翦
+chien2 趁(~機) 踐 餞 濺 燼 疹 診 殄 畛 翦
 chien3 顫 剪 戰
 chienn1 漿 樟 章
 chienn2 蔣 槳 掌
 chienn3 醬
 chienn6 上 癢
-chienn7 上
 chiet4 即 浙
 chih4 接 折(拍~) 摺(存~,~衫褲)
 chih8 舌 折(拗~,~腰,~服)
@@ -350,7 +348,7 @@ hou3 戽
 hou5 侯 葫 狐 鬍(~鬚)
 hou6 戶 雨 后(皇~)
 hou7 互
-hounn2 不 虎
+hounn2 虎
 hounn5 唬
 hu1 夫 敷 膚 孵 俘 腐 呼 乎 孚
 hu2 俯 釜 腑 府 父 許 栩 缶
@@ -588,7 +586,7 @@ kheng3 慶 罄
 kheng5 莖 鯨 痙 擎 扃
 khenn1 坑 吭
 khi1 欺 崎
-khi2 齒 起 啓 杞
+khi2 齒(~刷) 起 啓 杞
 khi3 器 氣 棄 汽 亟
 khi5 期 其 奇 歧 祈 祁 沂 亓 祇 祺 耆 鰭 麒
 khi7 忌
@@ -613,7 +611,7 @@ khien1 虔
 khien2 遣 譴 犬
 khien5 乾(~坤)
 khienn1 腔
-khiet4 撅 契 孑 挈 黠
+khiet4 喫 撅 契 孑 挈 黠
 khih4 屈 缺
 khim1 襟 欽 衿
 khim5 黔 琴 擒 禽
@@ -673,7 +671,7 @@ khun3 困(~難) 睏(早~)
 khun5 拳 羣
 khur3 去
 khur5 渠
-khurh4 喫 乞
+khurh4 吃(~~叫) 乞
 khurn5 勤 芹
 khurt4 乞
 khut4 倔 窟 屈
@@ -805,7 +803,7 @@ kun2 輥 滾
 kun3 棍
 kun5 裙
 kun6 郡
-kur1 車 居
+kur1 車(~馬炮) 居
 kur2 櫃 矩 舉 齲 枸
 kur3 鋸
 kur5 据(拮~)
@@ -924,7 +922,7 @@ lun2 忍
 lun3 嫩
 lun5 掄 輪 倫 淪 綸 侖(~理) 崙(~崙)
 lun6 論
-lur2 您 汝 你 妳
+lur2 汝
 lur5 勞 驢 閭
 lur6 呂 鋁 侶 慮 濾
 lut4 脫
@@ -1027,8 +1025,8 @@ nenn2 冷
 ng1 秧
 ng2 尹
 ng5 黃 磺
-ngai5 皚 呆 崖 涯 捱(~苦)
-ngai6 艾 岸
+ngai5 皚 呆(癡~) 崖 涯 捱(~苦)
+ngai6 艾(自怨自~) 岸
 ngak8 鄂 噩 鱷 岳(~父) 嶽(三山五~)
 ngam1 啱
 ngam5 癌 巖
@@ -1056,9 +1054,9 @@ ngiap8 孽 業
 ngiau1 貓
 ngiau5 僥 堯
 ngien2 研
-ngien3 願(～食)
+ngien3 願(~食)
 ngien5 研 妍
-ngiet4 齧
+ngiet4 喫 齧
 ngim5 黔 吟
 ngo2 我
 ngo5 蛾 峨 俄 娥 哦 梧 吾 虞 愚 隅
@@ -1073,7 +1071,7 @@ nguan6 願(心~)
 nguinn5 巍 危
 nguinn6 詭 僞
 ngurn5 靳 銀
-ngurt4 喫 疙 迄 訖 屹
+ngurt4 吃(~驚) 疙 迄 訖 屹
 ni1 奶 呢
 ni2 女 染 弭 獼 彌(~補) 瀰(~漫)
 ni3 泥
@@ -1105,11 +1103,11 @@ nou1 奴 孥
 nou5 奴 孥
 nuann7 爛
 nui2 餒
-o1 阿 呵 蝸 渦 窩 噢 媧 屙 鏖
-o2 啊 襖
+o1 阿(山~) 呵 蝸 渦 窩 噢 媧 屙 鏖
+o2 襖
 o3 奧 懊 澳
 o5 荷 菏
-o6 啊 荷 哦 臥
+o6 荷 哦 臥
 o7 啊 哦
 oh4 惡(~讀)
 oh8 學
@@ -1121,45 +1119,44 @@ oih8 狹
 oinn5 閒|閑
 ok4 握 沃 屋 齷
 ong1 嗡 翁
-ong3 盎 齆
+ong3 盎(~司) 齆
 ong6 擁
 ou1 鷗 鎢 烏
 ou5 湖 胡(~適)
 ou7 芋
-pa1 芭 扒 叭 吧 笆 疤 巴 爸 葩
-pa2 靶 把 飽
+pa1 芭 叭 吧 笆 疤 巴 爸 葩
+pa2 靶 把(~守) 飽
 pa3 壩 霸 豹
-pa5 叭 爸
 pa6 罷
 pai2 擺(~攤) 襬(衣~)
 pai3 拜
 pai5 排 牌 徘
 pai7 敗
-pak4 捌 八 剝 北 膊 輻 幅 腹 亳 別(~人)
+pak4 八 剝 北 膊 輻 幅 腹 亳 別(~人)
 pak8 縛
 pan1 斑 班 頒
 pan2 扳 版 板(木~) 闆(老~)
 pan3 扮
 pan7 辦
 pang1 邦 幫 梆 崩 繃 蹦 方 肪 楓 彭
-pang2 榜 膀 綁 耪
+pang2 榜 膀(肩~) 綁 耪
 pang3 放
 pang5 房 馮
 pang6 棒 謗
 pat4 識
 pau1 苞 胞 包 孢
-pau2 保 堡 褓 鴇
+pau2 保(太~) 堡 褓 鴇
 pau6 暴 鮑 爆 瀑
 pe2 把
 pe5 扒 耙 爬 琶 杷
 pe6 父
 peh4 柏 百 佰 伯 掰
-peh8 白 鉑 帛
-pek4 柏 薄 逼 伯 迫
+peh8 白 帛
+pek4 柏 薄(~近) 逼 迫
 peng2 秉 炳
 peng5 迸
 peng6 幷|并(~州) 併(合併) 並(並立,並且)
-penn3 把 柄
+penn3 柄
 penn5 棚 平
 penn7 病
 pha1 趴 拋
@@ -1174,21 +1171,21 @@ phan1 攀
 phan3 盼
 phang1 芳 蜂 香
 phang2 紡
-phang5 膀 磅 傍 帆 航 龐 旁 彭 篷 彷(彷~)
+phang5 膀(~胱) 磅(~礴) 傍 帆 航 龐 旁 彭 篷 彷(彷~)
 phang7 縫
 phann3 怕 冇
 phau1 褒 拋 刨 泡
 phau2 跑
 phau3 炮 泡
 phau5 咆 刨 炮 袍 庖 狍
-phau6 抱
+phau6 抱(~不平)
 phe3 帕
 phek4 碧 霹 劈 魄 辟(復~) 闢(開~)
 pheng1 烹 拼(~凑)
 pheng3 騁 聘
 pheng5 砰 抨 硼 朋 坪 萍 平 憑 評 怦
 phenn5 澎 彭 膨 平
-phi1 被 披
+phi1 披
 phi2 否 痞 丕
 phi3 鄙 譬
 phi5 脾 疲 貔 陂
@@ -1197,10 +1194,10 @@ phiah4 僻 癖
 phiah8 僻
 phiann3 聘
 phiann5 坪
-phiau1 標 膘 飄 漂 瓢 飆 驃
+phiau1 標(~緻) 膘 飄 漂 瓢 飆 驃
 phie3 票
 phie5 萍
-phien1 編 扁 篇 偏 翩
+phien1 編 扁(~舟) 篇 偏 翩
 phien3 片 騙
 phin2 貶
 phin5 瀕 頻 貧 蘋 瓶 屏
@@ -1218,7 +1215,7 @@ phoi1 批
 phoinn7 稗 辦
 phok4 爆 撲 仆(前~後繼) 朴(~樹) 樸(~素)
 phong2 捧 搿
-phong3 膀 碰
+phong3 碰
 phong5 縫 蓬 篷 鵬
 phou1 鋪(~路)
 phou2 甫 脯 剖 圃 普 浦 譜
@@ -1229,7 +1226,6 @@ phu5 浮 莆 葡 菩 蒲 蜉
 phua3 破
 phua5 婆
 phuah4 撥 撇 瞥 潑
-phuak4 般 撥
 phuan1 藩
 phuan3 拌 絆 畔 判 胖
 phuan5 般 盤 磐
@@ -1240,18 +1236,18 @@ phuann6 伴
 phue1 壞 胚 坯
 phue3 配
 phue5 裴 皮
-phue6 被
+phue6 被(~席)
 phueh8 𠱀
 phui2 啡 呸
 phui3 啡 屁
 phun1 潘
 phun3 噴
 phun5 墳 盆
-pi1 碑 悲 卑 蓖 砒 陂
+pi1 碑 蓖 砒 陂
 pi2 稗 比 彼 毗 俾 畀
 pi3 毖 庇 痹 臂 費 祕 泌 匕 背(~包) 揹(~個衫包)
 pi5 琵 啤 脾 枇
-pi6 備 憊 被 斃 幣 閉 敝 陛
+pi6 備 憊 被(~告) 斃 幣 閉 敝 陛
 pi7 蔽 弊 避
 piah4 壁
 piann1 兵 冰
@@ -1261,31 +1257,31 @@ piau2 殍 表(~示)
 pie1 標 錶(手~)
 pie2 表(~兄)
 pie3 漂
-pien1 鞭 邊
-pien2 貶 扁 匾
-pien3 變 遍
-pien6 瓣 便 卞 辨 辯
+pien1 鞭(~策) 邊(無~)
+pien2 貶 扁(~擔) 匾
+pien3 變(~化) 遍
+pien6 瓣 便(~利) 卞 辨 辯
 piet8 蹩 別(分~)
 pih4 鱉 憋
 pin1 彬 斌 濱 賓 乒
 pin2 品 屏 匾
 pin3 遍 擯 髕 鬢
 pin5 平
-pinn1 鞭 邊 辮
+pinn1 鞭(馬~) 邊(厝~) 辮(留~)
 pinn2 扁
-pinn3 變
-pinn6 辮
+pinn3 變(~面)
+pinn6 辮(~辮)
 pit4 筆 必
 pit8 畢 癟
 piu1 彪
 png1 方
 png7 飯
 po1 玻 菠 波 坡
-po2 保 寶
+po2 保(~護) 寶
 po3 報
-po5 薄 婆
+po5 薄(~荷) 婆
 poh4 駁
-poh8 薄 鉑 箔 舶 泊 魄
+poh8 薄(銅~) 鉑 箔 舶 泊 魄
 poih4 捌 八
 poih8 拔
 poinn1 斑
@@ -1303,16 +1299,16 @@ pou7 哺 步
 pu1 晡
 pu3 怖 富 背(手~) 佈(宣~)
 pu5 煲 瓠
-pu6 捕 哺 婦
+pu6 捕 哺(~育) 婦
 pu7 伏
 pua3 播 簸
 puah4 鉢
-puah8 拔 跋
+puah8 跋
 puan6 叛
 puann1 搬 般
 puann3 半
 puann5 盤
-puat8 拔 跋 勃 脖 渤 荸 魃
+puat8 拔(選~) 跋(~涉) 勃 脖 渤 荸 魃
 pue1 杯 飛
 pue3 輩 貝 背(~誦)
 pue5 培 賠 陪
@@ -1322,9 +1318,9 @@ pui1 悲 卑 壞
 pui5 肥
 pui7 吠
 pun1 奔 分
-pun2 苯 本 笨
-pun3 笨 糞 夯 畚
-pun6 笨
+pun2 苯 本
+pun3 糞 夯 畚
+pun6 笨(粗~)
 put4 不
 sa1 抄 莎 砂 沙
 sa3 哨
@@ -1332,7 +1328,7 @@ sa6 傻 啥
 sai1 腮 鰓 篩 師 獅 思 私 西 犀
 sai2 使 屎 駛
 sai3 灑 塞 賽 曬 使 婿
-sai5 豺
+sai5 豺(~狗)
 sai6 柿
 sak4 撒 薩 塞 剎 蝨
 sam1 三 杉
@@ -1353,16 +1349,16 @@ sek8 熟
 seng1 聲 生 甥 牲 勝 腥 猩 惺 旌 升|陞(~級,公~) 昇(東~)
 seng2 省
 seng3 勝 聖
-seng5 成 乘 誠 承 丞 榕 松(~樹)
-seng6 乘 盛
+seng5 成(~功) 乘(~法) 誠 承(~認) 丞 榕 松(~樹)
+seng6 乘(~機) 盛
 senn1 生 牲
 senn2 省
 senn3 性 姓
 set4 拭
-si1 廁 棲 施 詩 思 私 司 絲 西 硒 鷥 尸(~位素餐) 屍(~體)
+si1 棲 施 詩 思 私 司 絲 西 硒 鷥 尸(~位素餐) 屍(~體)
 si2 弛 矢 始 死 豕
 si3 世 勢 肆 四
-si5 匙 辭 時
+si5 匙 辭(~職) 時
 si6 是 侍 氏 恃 視 峙
 si7 示 誓 逝 嗜 噬 視
 sia1 斜
@@ -1374,7 +1370,7 @@ sia7 射 謝
 siah4 錫 削
 siah8 席
 siak4 屑
-siam1 參 森 苫
+siam1 參(人~) 森 苫
 siam2 苫 閃 陝
 siam3 滲
 siam5 蟬 禪
@@ -1382,11 +1378,11 @@ siam6 禪
 siang1 墒 商 湯 相 鑲 襄 湘 殤 觴
 siang2 想 鯗
 siang3 相 信
-siang5 上 裳 翔 祥 詳 嫦 嘗(~試)
+siang5 常(反~) 上 裳 翔 祥 詳 嫦 嘗(~試)
 siang6 上 尚 像 象
 siann1 聲
 siann3 聖
-siann5 城 成
+siann5 城 成(三~)
 siann7 盛
 siap4 澀 倏 霎
 siap8 涉 拾 泄
@@ -1407,7 +1403,7 @@ sien6 單 擅 膳 善 繕 腎 鱔 撣(~族)
 sienn1 傷 廂 鑲 箱
 sienn2 賞
 sienn3 相 像 肖
-sienn5 常 償 嘗(品~) 嚐(品~)
+sienn5 常(正~) 償 嘗(品~) 嚐(品~)
 sienn6 想
 sienn7 尚
 siet4 契 設 楔 褻
@@ -1419,7 +1415,7 @@ sim5 忱
 sim6 甚 什
 sin1 砷 申 呻 伸 身 紳 先 薪 鋅 辛 新 莘
 sin3 芯 信 汛 訊 迅
-sin5 辰 晨 承 娠 神 繩 蠅 蜃
+sin5 辰 晨 承(~水) 娠 神 繩 蠅 蜃
 sin7 剩
 sinn3 扇(紙~)
 sip4 溼
@@ -1452,7 +1448,7 @@ song6 頌 訟 誦
 sou1 酥 蘇(~州) 甦(~醒)
 sou2 艘 擻
 sou23 瘦
-su1 尿 抒 輸 舒 需 須(必~)
+su1 抒 輸 舒 需 須(必~)
 su2 暑 曙 署 黍 墅 緒
 su3 庶 數 恕 素 塑 訴 絮
 su5 殊
@@ -1473,10 +1469,10 @@ suann1 山 汕
 suann2 產 散
 suann3 傘 散 汕 腺 線 霰
 suann5 腺
-sue1 哀 衰
+sue1 衰
 sue3 戍 帥 稅 說 歲 蛻
 sueh4 刷 說
-sui1 哀 尿 雖 綏 蓑
+sui1 雖 綏 蓑
 sui5 垂 誰 隋 隨 綏 遂 燧 蕤
 sui6 瑞 睡
 sui7 穗 隧
@@ -1488,56 +1484,56 @@ sun6 順
 sur1 師 斯 撕 嘶 思 私 司
 sur2 史
 sur3 賜 思 肆 四 泗 駟
-sur5 辭 詞 祠
+sur5 辭(~典) 詞 祠
 sur6 食 士 事 仕 嗣 伺 似 嶼 峙 祀
 sur7 事
 sut4 率 摔 屑 戌 恤 蟀
 sut8 術 述
-ta1 大 丈
+ta1 大(~官) 丈
 ta2 打
 ta5 禾
 tah4 搭
 tah8 踏
 tai1 呆
-tai2 歹 逮
-tai3 戴 代 貸 黛
-tai6 大 殆 逮 怠
+tai2 歹
+tai3 戴(擁~) 代(交~) 貸 黛
+tai6 大(~約) 殆 逮 怠
 tai7 事
 tak4 韃
 tak8 達 毒 獨 度 值
 tam1 耽 湛 聃
-tam6 淡
-tan1 擔 丹 鄲 坍 殫
+tam6 淡(~泊)
+tan1 擔(~保) 丹(仙~) 鄲 坍 殫
 tan2 疸
-tan3 旦 誕 蛋
+tan3 旦(一~) 誕 蛋
 tan5 陳
 tan6 但 憚 撣
-tang1 檔 東 冬 中 噹(叮~)
-tang2 黨 等 董
-tang3 擋 檔 凍 當(適~)
+tang1 東 冬 中 噹(叮~)
+tang2 黨 等(~待) 董
+tang3 擋(抵~) 檔 凍 當(適~)
 tang5 銅 童 筒 仝 同(相~)
 tang6 動 筒 重 宕 蕩(坦~,掃~,遊~) 盪(震~)
 tang7 洞
-tann1 擔 今
+tann1 擔(扁~) 今
 tann2 膽
-tann3 擔 石 呾
-tann6 氮 淡 擲
+tann3 擔(一~) 石 呾
+tann6 氮 淡(~水) 擲
 tann7 賺
 tap4 答 瘩
 tau1 兜 逗
-tau2 搗 倒 島 禱 抖 陡 找 斗(一~酒)
-tau3 晝 鬥(~鬥,~陣)
+tau2 搗 倒(~換) 島 禱 抖 陡 找 斗(一~酒)
+tau3 倒(~不如) 晝 鬥(~鬥,~陣)
 tau5 投
 tau6 蹈 導 稻 道 盜
 tau7 豆 痘 讀
 te5 茶
 teh4 壓
 tek4 德 嫡 竹 竺
-tek8 的 迪 敵 笛 狄 滌 翟 鹿 特 蟄 值 軸
+tek8 的(目~) 迪 敵 笛 狄 滌 翟 鹿 特 蟄 值 軸
 teng1 蹬 燈 登 丁 叮 釘 酊 徵(~求,~兆) 癥(~結)
-teng2 等 頂 戥
+teng2 等(相~) 頂 戥
 teng3 凳 盯 釘 訂 中
-teng5 塵 亭 重 婷
+teng5 塵(煙~) 亭 重 婷
 teng6 鄧 澱 錠 定 綻 鄭
 tenn3 詐
 tenn7 鄭
@@ -1545,7 +1541,7 @@ tha1 她 他 祂 它 牠
 thah4 塔
 thah8 疊
 thai1 篩 苔
-thai3 大 傣 泰 酞 太 態 汰 鈦
+thai3 傣 泰 酞 太 態 汰 鈦
 thai5 抬 臺(~灣) 治 台(兄~,戲~) 颱(風~) 檯(寫字~) 刣
 thai6 待
 thak4 塞 撻 踢 拓
@@ -1555,10 +1551,10 @@ tham3 探 嘆
 tham5 痰 潭 譚 談 撣(~灰) 撢(~灰) 壇(文~) 罈(酒~)
 than1 坍 癱
 than2 坦 毯 袒 忐
-than3 趁 賺
-than5 彈 檀
+than3 趁(~錢) 賺
+than5 彈(砲~) 檀
 thang1 通 蹚
-thang2 償 倘 躺 淌 趟 桶 帑
+thang2 倘 躺 淌 趟 桶 帑
 thang3 亙
 thang5 蟲 塘 搪 堂 棠 膛 唐 桐
 thang6 動
@@ -1572,8 +1568,8 @@ thek4 搐 剔 踢 惕 禿 彳 忑 忒
 theng1 窗 烴 汀
 theng2 懲 逞 艇 穎 挺 潁
 theng3 聽
-theng5 程 澄 瞪 騰 謄 廷 停 庭 婷 蜓
-theng6 等
+theng5 程(工~) 澄 瞪 騰 謄 廷 停 庭 婷 蜓
+theng6 等(~我)
 thenn1 撐
 thi2 體
 thi3 翅 締 替 嚏 涕 剃 屜 滯 睇
@@ -1586,12 +1582,12 @@ thiam5 恬
 thiang3 暢
 thiann1 廳 聽
 thiann3 痛
-thiann5 呈 程
+thiann5 呈(~現) 程(起~)
 thiap4 貼 帖
 thiau1 挑 迢
 thiau2 眺 窕
 thiau3 超 跳
-thiau5 調
+thiau5 調(~整)
 thiau6 柱
 thie1 挑
 thie3 糶
@@ -1600,7 +1596,7 @@ thien2 腆
 thien5 填 瞋
 thiet4 撤 徹 澈 轍
 thih4 鐵 忒
-thin5 陳
+thin5 陳(~列)
 thinn1 天 添
 thiok4 蓄 畜
 thiu1 抽
@@ -1618,14 +1614,14 @@ tho6 唾
 thoh4 魄 托(~舉) 託(委~,拜~)
 thoh8 駝
 thoi2 體
-thoi3 代 替
-thoih4 代
+thoi3 代(~理) 替
+thoih4 代(~職)
 thoinn2 睇
 thok4 禿 亍
 thong1 通
 thong2 寵 捅 統
 thong3 痛
-thong5 幢 侗 恫 洞 桐 酮 瞳 彤 童 仝 衕(衚~)
+thong5 幢(幢幡) 侗 恫 洞 桐 酮 瞳 彤 童 仝 衕(衚~)
 thong7 洞
 thou2 土
 thou3 吐 兔
@@ -1633,24 +1629,24 @@ thou5 塗(电~,~腳)
 thu5 躇 滁 儲 圖 徒 途 荼 塗(~改)
 thua1 拖
 thuah4 獺
-thuan5 傳 團(~結) 糰(飯~)
+thuan5 傳(~授) 團(~結) 糰(飯~)
 thuann1 攤 癱 灘
-thuann2 鏟
+thuann2 鏟(~草)
 thuann3 碳 炭
 thue1 頹
 thui1 梯 推
 thui2 腿
-thui5 錘
+thui5 錘(鐵~)
 thun1 吞 飩
 thun2 氽
-thun5 塵 囤 屯 臀 豚
+thun5 塵(筅~) 囤 屯 臀 豚
 thut4 脫 黜
 ti1 的 低 蜘 知 祗
-ti2 抵
-ti3 戴 帝 知 置 智 致(~使) 緻(細~)
-ti5 持 池 底 遞 治
+ti2 抵(~押)
+ti3 戴(~帽) 帝 知 置 智 致(~使) 緻(細~)
+ti5 持 池 底(~個) 遞 治
 ti6 逮 弟 隸 銻 彘
-ti7 的 地 治
+ti7 地(~點) 治
 tia1 爹 爺
 tiah4 嫡 摘
 tiah8 糴
@@ -1661,7 +1657,7 @@ tiam3 店 惦
 tiam5 甜 恬
 tiam7 恬
 tiann2 鼎
-tiann5 呈 庭
+tiann5 呈(~文) 庭
 tiann6 錠
 tiann7 定
 tiap8 蝶 諜
@@ -1669,16 +1665,16 @@ tiau1 碉 叼 凋 刁 貂 雕|鵰
 tiau3 吊(~燈) 弔(憑~)
 tiau5 條
 tiau6 兆 召
-tiau7 掉 調
+tiau7 掉 調(聲~)
 tie5 潮
 tieh8 着
-tien1 顛 滇 珍 巔
+tien1 顛(~簸) 滇 珍 巔
 tien2 碘 典 碾 腆 輾 展
-tien6 墊 電 甸 奠 澱 殿
+tien6 墊 電 甸 奠 澱(沈~) 殿(~後)
 tienn1 張
-tienn2 長
+tienn2 長(~長)
 tienn3 釣 帳 賬 脹
-tienn5 場
+tienn5 場(場~)
 tienn6 丈 趙
 tiet4 跌 迭 哲 秩 窒 桎 瓞 膣 蛭 蜇 輒
 tiet8 侄
@@ -1687,10 +1683,10 @@ tih8 碟
 tim1 郴 鴆
 tim5 沉 沈(浮~)
 tim6 朕
-tin1 顛
+tin1 顛(~倒)
 tin2 振
 tin3 鎮
-tin5 塵 陳 藤
+tin5 塵(~埃) 陳(鋪~) 藤
 tin7 陣
 tinn5 纏
 tinn6 漲
@@ -1703,44 +1699,43 @@ tiu6 稻 宙 晝 紂
 tiu7 住
 tng1 當(~家)
 tng2 轉
-tng3 擋 頓 當(安步~車)
-tng5 長 腸 塘 堂 唐
+tng3 擋(摒~) 頓 當(安步~車)
+tng5 長(~短) 腸(~粉) 塘 堂 唐
 tng6 斷 丈
-tng7 傳 段 緞
+tng7 傳(古~) 段 緞
 to1 刀 哆 多
-to2 倒 短 朵
-to3 戴 倒 地
+to2 倒(拍~) 短 朵
+to3 戴 倒(~茶) 地
 to5 垛 躲 朵 剁 逃 淘
 to6 跺 在
-to7 代 袋
+to7 代(古~) 袋
 toh4 卓 桌 琢 啄 棹
 toh8 掇 奪 擇 着
 toi1 堤
-toi2 抵 底
+toi2 抵 底(到~)
 toi5 題 蹄
 toinn6 第 佃
-toinn7 靛 殿
+toinn7 靛 殿(宮~)
 tok4 督 築 斫|斲(~斷)
 tok8 毒 犢 獨 逐 篤
 tom6 丼
 tong1 東 冬 中 忠
 tong2 董 懂
 tong3 棟 凍 疼 中
-tong5 幢
 tong6 動 重 仲
 tou1 都
 tou2 肚
 tou5 廚 圖 屠
 tou6 杜 肚 土
 tou7 鍍 度 渡
-tsa1 茬 查 碴 咱 喳 渣 猹 扎(~啤)
+tsa1 查 碴 咱 喳 渣 猹 扎(~啤)
 tsa2 昔 早 怎 昨
 tsa3 榨 咋 乍 炸 詐 窄 柞
 tsah8 閘 柵 炸
 tsai1 栽 災 知
 tsai2 宰 載 仔 滓
 tsai3 載 再
-tsai5 才 臍
+tsai5 才(秀~) 臍
 tsai6 在
 tsai7 哉
 tsak4 軋 鍘 作 扎(掙~) 紮(包~,駐~)
@@ -1754,7 +1749,7 @@ tsang1 贓 曾 莊 鬃 棕 臧 髒(骯~)
 tsang2 總
 tsang3 壯 糉
 tsang5 叢
-tsang6 藏 臟(~器)
+tsang6 藏(寶~) 臟(~器)
 tsang7 贈
 tsap4 匝 砸 札 眨 汁
 tsap8 集 十 拾 什 雜
@@ -1764,41 +1759,41 @@ tsau1 遭 糟
 tsau2 蚤 走
 tsau3 竈 奏
 tsau6 悼 淖 造 皁 罩 皂
-tsha1 岔 差 搓 喳
+tsha1 岔 差(~錯) 搓 喳
 tsha2 炒
 tsha3 詫
-tsha5 茬 搽 柴
+tsha5 搽 柴
 tshah4 插 歃
 tshai1 猜
 tshai2 睬 踩 采(神~) 採(開~,~納) 彩(~色) 綵(剪~)
 tshai3 菜
-tshai5 裁 材 才 財 豺
-tshak4 擦 察 錯 漆 膝
+tshai5 裁 材 才(剛~) 財 豺(~狼)
+tshak4 擦 察 錯(~雜) 漆 膝
 tshak8 鑿 賊
-tsham1 參 摻
+tsham1 參(~與) 摻
 tsham2 慘
 tsham3 滲
 tsham5 慚 攙 饞 讒
 tshan1 餐 孱
-tshan2 鏟
+tshan2 鏟(~平)
 tshan3 燦
 tshan5 殘 田
 tshan6 羼
-tshang1 蒼 倉 滄 蔥 蹌
+tshang1 蒼 倉(~皇) 滄 蔥 蹌
 tshang3 創
-tshang5 藏 纏
-tshau1 操 抄 鈔 吵 剿
-tshau2 草
-tshau3 操 臭 藻 澡 躁 噪 燥 臊
+tshang5 藏(蘊~)
+tshau1 操(~練) 抄 鈔 吵 剿
+tshau2 草(~木)
+tshau3 操(曹~) 臭 藻 澡 躁 噪 燥 臊
 tshau5 曹 巢
-tshng1 艙 倉 川 穿 瘡 村
-tshng3 刺
+tshng1 艙 倉(~庫) 穿(~耳) 瘡 村
+tshng3 刺(諷~)
 tshng5 牀
-tsho1 初 搓 臊
-tsho2 草 楚 礎
-tsho3 糙 錯
+tsho1 初(當~) 搓 臊
+tsho2 草(~稿) 楚 礎
+tsho3 糙 錯(~誤)
 tsho5 鋤 磋 挫
-tshoh4 撮 錯
+tshoh4 撮(一~) 錯(~喉)
 tshoh8 亍
 tshoinn1 仟 千(~萬)
 tshoinn2 筅
@@ -1811,19 +1806,19 @@ tshou1 粗
 tshou3 湊 醋 揍
 tshou5 愁
 tshu1 雛 趨
-tshu2 處 取 娶
-tshu3 處 措 趣 厝
+tshu2 處(~理) 取 娶
+tshu3 處(四~) 措 趣 厝
 tshu5 滁
 tshua2 歪
 tshua3 蔡
 tshua7 娶
-tshuan1 川 穿 皴
+tshuan1 川(山~) 穿(~鑿) 皴
 tshuan2 喘
 tshuan3 串 闖 躥 篡 竄 纂 釧
 tshuan5 醛 全 痊 栓 拴
 tshuang2 舛
 tshuann3 閂
-tshuat4 撮 掇 綴 拙 茁
+tshuat4 撮(~要) 掇 綴 拙 茁
 tshue1 吹 炊
 tshue2 髓
 tshue7 覓
@@ -1836,7 +1831,7 @@ tshun2 蠢 忖 舛
 tshun3 寸
 tshun5 淳 存
 tshur1 蛆
-tshur2 此 鼠
+tshur2 此(如~) 鼠
 tshur3 次
 tshur5 疵 茨 磁 雌 慈 瓷 徐 鷀
 tshut4 出 齣(一~戲)
@@ -1897,7 +1892,7 @@ tsun5 船 陣
 tsur1 書 芝 之 茲 諮 資 姿 滋 淄 孜 孳 齎 輜 鷀
 tsur2 煮 仔 籽 子
 tsur3 漬 恣
-tsur5 茨 薯
+tsur5 薯
 tsur6 自
 tsut4 率 摔 帥 卒
 tsut8 糯
@@ -1907,22 +1902,22 @@ tu3 著
 tu5 櫥
 tua3 帶
 tua6 舵
-tua7 大
+tua7 大(~人)
 tuah4 喝
 tuah8 辣
 tuan1 端
 tuan3 鍛 斷
 tuan6 段 斷 篆
-tuann1 丹 單
-tuann3 旦
+tuann1 丹(牡~) 單(~獨)
+tuann3 旦(花~)
 tuann5 壇(天~)
 tuann6 惰 懶
-tuann7 彈
+tuann7 彈(~琴)
 tue3 綴
 tue6 兌
 tui1 堆 椎 追
 tui3 對
-tui5 捶 錘
+tui5 捶 錘(~鍊)
 tui6 墮 墜
 tui7 隊
 tun1 堆 墩 噸 蹲 敦 囤 屯 諄
@@ -1930,7 +1925,7 @@ tun2 盾 躉
 tun5 脣
 tun6 頓 鈍 遁
 tur1 豬
-tur5 鋤 除
+tur5 鋤(~頭) 除
 tut8 術 凸 突
 u1 呼 嗚 烏 污 捂 迂 盂 圩 竽 于(單~) 吁(長~短嘆)
 u2 五 雨 禹 宇 羽
@@ -1952,7 +1947,7 @@ uang1 汪
 uang2 枉 往
 uang5 蝗 皇 凰 王
 uang6 王 旺
-uann1 鞍 安
+uann1 鞍 安(~心)
 uann2 碗
 uann3 案 晏
 uann6 旱

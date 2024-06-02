@@ -33,7 +33,7 @@
 譗𧫡(U+27AE1), tah8-tih8, 囉嗦, L0, 考釋
 𤞚(U+2479A), siau2, 狂, L0, 考釋
 面䩍(U+4A4D)䩍青, min7-liau1-liau1-chenn1, 臉色蒼白, L0, 考釋
-䶕(U+4D95)牙, l01, 齙牙, 考釋, 
+䶕(U+4D95)牙, ba3-ge5, 齙牙, L1, 考釋
 條條, tiau5-tiau5, 井然, L0, 考釋
 條直, tiau5-tit8, 有條理, L0, 考釋
 垃圾相, nah4-sap4-sienn3, 不乾不淨, L0, 考釋

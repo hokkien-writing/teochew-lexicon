@@ -926,7 +926,7 @@ lur2 汝
 lur5 勞 驢 閭
 lur6 呂 鋁 侶 慮 濾
 lut4 脫
-lut8 律 率
+lut8 律 率 鷸
 m2 姥 拇 姆 母
 m6 毋 唔
 ma1 媽 嗎

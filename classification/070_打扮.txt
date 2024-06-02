@@ -24,7 +24,7 @@
 耳鈎, hinn6-kau1, 耳環, L0, 汕頭話讀本
 剃頭, thi3-thau5, 理髮, L0, 汕頭話讀本
 頭布, thau2-pou3, 頭巾, L0, 汕頭話讀本
-排塲, phai5-chhiang5, 華麗, L0, 汕頭話讀本
+排場|排塲, phai5-chhiang5, 華麗, L0, 汕頭話讀本
 衫裾, sann1-kur1, 衣襟, L1, 考釋
 襇, koinn2, 裙褶, L1, 考釋
 襊, tsue7, 褶皺, L1, 考釋

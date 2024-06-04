@@ -1,4 +1,4 @@
-粉鳥, hun2-chiau2, 鴿子, L0, 汕頭話讀本
-貓頭鳥, ngiau1-thau5-chiau2, 貓頭鷹, L1, 汕頭話讀本
-燕鳥, inn3-chiau2, 燕子, L0, 汕頭話讀本
-鵪鶉, ang1-tshun1, 鵪鶉, L1, 斐姑娘字典
+粉鳥, hun2-chiau2, 鴿子, k00, 汕頭話讀本
+貓頭鳥, ngiau1-thau5-chiau2, 貓頭鷹, k10, 汕頭話讀本
+燕鳥, inn3-chiau2, 燕子, k00, 汕頭話讀本
+鵪鶉, ang1-tshun1, 鵪鶉, k10, 斐姑娘字典

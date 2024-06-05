@@ -1654,7 +1654,7 @@
 潞  lu6
 祿  lok8
 錄  lok8
-陸  lek8,k10,~路,~-lou7  lok8,,k10,~續,~-sok8  lak8
+陸  lek8,k10,~路,~-lou7  lok8,k10,~續,~-sok8  lak8
 戮  lok8
 驢  lur5
 呂  lur6
@@ -4363,7 +4363,7 @@
 霑  tiam1,,雨露均~,hou6-lou7-kurn1-~
 占  chiam1,,~卜,~-pok4
 佔  chiam3,k10,~領,~-niann2
-折  chih4,k00,拍~,phah4-~  chih8,,拗~,a2-~,~腰,~-ie1,~服,-~-hok8
+折  chih4,k00,拍~,phah4-~  chih8,,拗~,a2-~,~腰,~-ie1,~服,~-hok8
 摺  chih4,k10,存~,tshun5-~,~衫褲,~-sann1-khou3
 征  cheng1,k11,~服,~-hok8
 徵  teng1,k10,~求,~-khiu5,~兆,~-tiau6

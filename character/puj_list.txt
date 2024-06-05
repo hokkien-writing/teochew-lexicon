@@ -186,7 +186,7 @@ chienn3  醬
 chienn6  上,k01  癢
 chiet4  即,k00  浙
 chih4  接,k00  折,k00,拍~,phah4-~  摺,k10,存~,tshun5-~,~衫褲,~-sann1-khou3
-chih8  舌,k10  折,,拗~,a2-~,~腰,~-ie1,~服,-~-hok8
+chih8  舌,k10  折,,拗~,a2-~,~腰,~-ie1,~服,~-hok8
 chim1  斟
 chim2  枕
 chim3  浸
@@ -889,7 +889,7 @@ loi2  禮,k00
 loi5  犁  黎
 loi7  籬
 loih8  笠
-lok8  貉  酪  烙  磊  麓  碌  祿  錄  陸,,k10,~續  戮  洛  駱  絡  骼
+lok8  貉  酪  烙  磊  麓  碌  祿  錄  陸,k10,~續,~-sok8  戮  洛  駱  絡  骼
 long2  籠  壟  攏,k00
 long5  窿  隆  囊  膿  濃,k10  農,k10  朧  矓
 long6  弄,k00

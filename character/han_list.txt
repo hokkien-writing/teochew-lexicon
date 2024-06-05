@@ -62,7 +62,7 @@
 班  pan1,k10
 搬  puann1,k10
 扳  pan2
-般  phuan5,k00 puann1
+般  phuan5,k00  puann1
 頒  pan1
 版  pan2  poinn2
 扮  pan3,k10
@@ -385,7 +385,7 @@
 捶  tui5
 錘  thui5,,鐵~,thih4-~  tui5,,~鍊,~-lien7
 鍊  lien7
-垂  sui5,k10a
+垂  sui5,k10
 春  tshun1,k00
 椿  tshun1
 醇  sun5
@@ -873,7 +873,7 @@
 關  kuan1,k00  kuenn1,k01
 官  kuann1,k10
 冠  kuan3,k10  kuan1
-觀  kuan1,k10 kuan3,k12
+觀  kuan1,k10  kuan3,k12
 管  kuan2,k00  kng2,k02
 館  kuan2,k10
 罐  kuan3

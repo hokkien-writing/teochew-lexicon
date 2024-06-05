@@ -6,7 +6,7 @@ ah4  押,k10,抵~,ti2-~  鴨,k10  呷
 ai1  埃  唉,k02  哀,k11  挨,k12,~打,~-ta2
 ai2  藹  靄
 ai7  哎,k02
-ainn3  艾,~滋病,~-tsur1-penn7  愛,k00  欲,k00,~食,~-chiah8
+ainn3  艾,,~滋病,~-tsur1-penn7  愛,k00  欲,k00,~食,~-chiah8
 ak4  沃  抑,k10  軋  惡,k00,罪~,tsue6-~
 am1  庵
 am2  飲,k11
@@ -14,7 +14,7 @@ am3  暗,k00  黯
 an1  氨  安,k11,平~,pheng5-~  胺
 an3  按,k00  案  宴  晏  鼴
 ang1  骯  翁
-ang3  盎,~然,~-jien5  甕
+ang3  盎,,~然,~-jien5  甕
 ang5  洪,k11  紅,k00
 ann7  餡
 ap4  押,k12,~韻,~-un7  呷
@@ -42,7 +42,7 @@ bo7  帽  磨
 boi2  買,k00
 boi6  袂,k00  𠁞,k00
 boi7  賣,k01
-bou2  牡  畝  母,諸~,tsa1-~
+bou2  牡  畝  母,,諸~,tsa1-~
 bou5  模
 bou7  戊
 bu2  撫  武  舞,k10  侮  鵡
@@ -82,7 +82,7 @@ chenn1  爭,k00
 chenn2  井  阱
 chenn5  晴,k00
 chenn6  靜,k10
-chhe1  叉,k10  岔  差,官~,kuann1-~  尺
+chhe1  叉,k10  岔  差,,官~,kuann1-~  尺
 chhe2  扯
 chhe3  廁,k00
 chhe5  查,k10
@@ -94,9 +94,9 @@ chheng5  橙,k10  情,k00
 chheng7  穿,k00,~衫褲,~-sann1-khou3
 chhenn1  青,k00  氰  生,k02  星,k00  腥  蜻
 chhenn2  醒
-chhi1  差,參~,tsham1-~  癡  棲  妻,k10  鰓  淒,~涼,~-liang5  悽,~慘,~-tsham2
+chhi1  差,,參~,tsham1-~  癡  棲  妻,k10  鰓  淒,,~涼,~-liang5  悽,,~慘,~-tsham2
 chhi2  恥,k10  齒  侈
-chhi3  刺,魚~,hur5-~  試,k00  弒
+chhi3  刺,,魚~,hur5-~  試,k00  弒
 chhi5  遲  馳  齊  薺
 chhi6  市
 chhi7  飼
@@ -104,17 +104,17 @@ chhia1  車,k00,水~,tsui2-~  奢  賒
 chhia2  且,k00
 chhiah4  赤,k00
 chhiak4  戳  綽  鵲  雀  芍
-chhiam1  殲  懺  讖  簽,k00,~名,~-miann5  籤,~詩,~-si1
+chhiam1  殲  懺  讖  簽,k00,~名,~-miann5  籤,,~詩,~-si1
 chhiam5  潛
 chhiang1  昌  猖  嗆  戕
 chhiang2  廠,k10  敞  嗆
-chhiang3  唱,~和,~-hua5  倡,k10
-chhiang5  場,排~,pai5-~  常,無~時,bo5-~-si5  長,k10,~度,~-tou7  腸,直~,tit8-~  薔  爿,k22
+chhiang3  唱,,~和,~-hua5  倡,k10
+chhiang5  場,,排~,pai5-~  常,,無~時,bo5-~-si5  長,k10,~度,~-tou7  腸,,直~,tit8-~  薔  爿,k22
 chhiann2  請,k00
 chhiann5  成
 chhiau1  悄  鍬
 chhiau2  嘲  悄,k10  峭  俏  稍
-chhiau5  朝,~代,~-thoi3  瞧  晁
+chhiau5  朝,,~代,~-thoi3  瞧  晁
 chhie3  唱,k00,~歌,~-ko1  笑,k00
 chhieh4  尺,k00,寸~,tshun3-~  淖
 chhieh8  席,k01
@@ -133,12 +133,12 @@ chhim3  沁
 chhim5  侵,k10  尋,k00
 chhin1  親,k00
 chhin3  秤  凊,k10
-chhin5  臣  陳,~皮,~-phue5  秦
+chhin5  臣  陳,,~皮,~-phue5  秦
 chhinn1  鮮,k00
 chhinn5  尋
 chhip4  緝  輯
 chhit4  七,k00  柒  拭,k10
-chhiu1  瞅  初,k10,~九,~-kau2  揪  鍬  秋,k00,~分,~-pun1  鞦,~韆,~-chhien1  鬚,鬍~,hou5-~
+chhiu1  瞅  初,k10,~九,~-kau2  揪  鍬  秋,k00,~分,~-pun1  鞦,,~韆,~-chhien1  鬚,,鬍~,hou5-~
 chhiu2  手,k00  醜,k10,~陋,~-lou6
 chhiu3  漱,k10
 chhiu5  酬  仇,k10  囚  售
@@ -148,14 +148,14 @@ chi2  此,k00,~搭,~-tah4  姊  詣  脂  址,k00  指,k00  止,k00  趾  旨,k1
 chi3  掣  熾  擠  祭  劑  濟  際  識  摯  至,k00  幟,k10  痣  齏  志,k00,~向,~-hiang3  誌,k10,事~,墓~銘,sur7-~-,-mo6-~-meng5  制,k00,~度,~-tou7  製,k10,~造,~-tsau6
 chi6  巳  舐,k10
 chia1  遮,k10
-chia2  姐,翁~,ong1-~  者,k00  鍺
+chia2  姐,,翁~,ong1-~  者,k00  鍺
 chia3  蔗,k10  炙
 chia6  籍,k10  藉,k10,~口,~-khau2,狼~,lang5-~
 chia7  謝
 chiah4  跡,k10  脊  隻,k00,一~鳥,iau1-~-chiau2
 chiah8  食,k00
 chiak4  嚼  爵  芍  勺  酌  灼
-chiam1  尖,k10  漸  贍  瞻  詹  占,~卜,~-pok4
+chiam1  尖,k10  漸  贍  瞻  詹  占,,~卜,~-pok4
 chiam3  佔,k10,~領,~-niann2
 chiam6  漸  塹  暫,k00
 chiang1  將,k00  樟  章,k10  彰  漳  張,k00
@@ -165,7 +165,7 @@ chiang6  匠  杖  丈,k11  仗,k10
 chiann1  晶  精  正,k01
 chiann2  整,k00
 chiann3  正,k00
-chiann5  成,做~,tso3-~  情
+chiann5  成,,做~,tso3-~  情
 chiap4  接,k10
 chiap8  捷  睫  洽
 chiau1  朝,k10,今~,kim1-~  礁  焦  招,k00  昭
@@ -186,7 +186,7 @@ chienn3  醬
 chienn6  上,k01  癢
 chiet4  即,k00  浙
 chih4  接,k00  折,k00,拍~,phah4-~  摺,k10,存~,tshun5-~,~衫褲,~-sann1-khou3
-chih8  舌,k10  折,拗~,a2-~,~腰,~-ie1,~服,-~-hok8
+chih8  舌,k10  折,,拗~,a2-~,~腰,~-ie1,~服,-~-hok8
 chim1  斟
 chim2  枕
 chim3  浸
@@ -233,7 +233,7 @@ gueh8  鑰  月,k00
 gui7  魏,k10
 gur2  語,k00
 gur6  馭  禦,k10,抵~,ti2-~
-gur7  御,~用,~-eng7
+gur7  御,,~用,~-eng7
 ha1  哈,k00
 ha3  孝
 hah4  瓣  哈
@@ -313,7 +313,7 @@ hin5  眩
 hin7  見  現,k00
 hinn5  舷  弦
 hinn6  耳,k10
-hiok4  旭  毓  馥  郁,文采~~,bun5-tshai2-~-~,~達夫,-~-tak8-hu1
+hiok4  旭  毓  馥  郁,,文采~~,bun5-tshai2-~-~,~達夫,-~-tak8-hu1
 hiong1  匈  洶  凶,k11,~惡,~-ak4,~~,~-~  兇,k10,~手,~-chhiu2
 hiong5  雄,k10
 hip4  翕,k12
@@ -336,27 +336,27 @@ hoi6  蟹
 hoinn5  還,k00
 hoinn6  閡
 hok4  輻  福,k00  複,k00,重~,teng5-~,~雜,~-tsap8
-hok8  伏,k10  服,k00  袱  覆,k00  或,k10  惑,k10  域  復,k10,~仇,~-chhiu5,恢~,khue1-~  覆,k01,反~,huan2-~,~蓋,~-khoinn3
-hong1  封  峯  鋒  風,k10  烽  轟  烘  丰,k10,~采,~-tshai2  豐,k10,~盛,~-seng6  哄,~堂大笑,~-thang5-tua7-chhie3
-hong2  蚌  俸  哄,~騙,~-phien3
-hong3  諷  訌  哄,~搶,~-chhienn2  鬨,起~,khi2-~
+hok8  伏,k10  服,k00  袱  覆,k01,反~,huan2-~,~蓋,~-khoinn3  或,k10  惑,k10  域  復,k10,~仇,~-chhiu5,恢~,khue1-~
+hong1  封  峯  鋒  風,k10  烽  轟  烘  丰,k10,~采,~-tshai2  豐,k10,~盛,~-seng6  哄,,~堂大笑,~-thang5-tua7-chhie3
+hong2  蚌  俸  哄,,~騙,~-phien3
+hong3  諷  訌  哄,,~搶,~-chhienn2  鬨,,起~,khi2-~
 hong5  逢,k10  縫  烘  虹,k10  鴻  洪,k10  宏  弘  紅  肱
 hong6  奉  鳳
 hou1  呼
 hou2  否
 hou3  戽
-hou5  侯  葫  狐  鬍,~鬚,~-chhiu1
-hou6  戶,k00  雨,k00  后,皇~,huang5-~
+hou5  侯  葫  狐  鬍,,~鬚,~-chhiu1
+hou6  戶,k00  雨,k00  后,,皇~,huang5-~
 hou7  互
 hounn2  虎,k10
 hounn5  唬
 hu1  夫,k10  敷  膚,k00  孵  俘  腐  呼  乎  孚
 hu2  俯  釜  腑  府  父  許,k22  栩  缶
 hu3  赴  副  賦  傅  付,k00  訃  咐,k10
-hu5  扶,k00  符,k00  和  瑚  壺  葫  蝴  狐  弧,k10  芙  胡,k10,~說,~-sueh4,~椒,-~-chie1  衚,~衕,~-thong5  糊,k10,~塗,~-thu5
+hu5  扶,k00  符,k00  和  瑚  壺  葫  蝴  狐  弧,k10  芙  胡,k10,~說,~-sueh4,~椒,-~-chie1  衚,,~衕,~-thong5  糊,k10,~塗,~-thu5
 hu6  輔,k10  阜  負,k00  附,k10  婦,k00  護,k00  互,k00  滬  酗  煦  瓠  駙
 hu7  夫  腐
-hua1  花  華  譁|嘩,諠~,suan1-~
+hua1  花  華  譁|嘩,,諠~,suan1-~
 hua5  禾  和,k10  華  划,k10,~算,~-sng3
 hua6  禍,k00
 huah4  喝
@@ -365,7 +365,7 @@ huai5  槐  徊  懷,k10  淮
 huai6  壞
 huam3  泛
 huam5  礬  凡,k00
-huam6  釩  凡  犯,k10  患  梵  范,范仲淹,huam6-tong6-im1  範,k10,規~,kui1-~
+huam6  釩  凡  犯,k10  患  梵  范,,范仲淹,huam6-tong6-im1  範,k10,規~,kui1-~
 huan1  番|畨,k10  翻,k00  歡  獾
 huan2  反,k00  返,k10  緩
 huan3  販  換  喚  瘓  煥  渙  幻
@@ -383,7 +383,7 @@ huat8  罰,k10  筏  伐  乏  閥  穴
 hue1  花,k00  華  化  灰,k10
 hue2  火,k00  伙,k10,~食,~-chiah8  夥,k10,~伴,~-phuann6
 hue3  化,k00  悔,k10  晦  誨  貨,k00  歲,k00
-hue5  和  蛔  回,k00,~頭,~-thau5  迴,巡~,~轉,sun5-~-,-~-zuan2
+hue5  和  蛔  回,k00,~頭,~-thau5  迴,,巡~,~轉,sun5-~-,-~-zuan2
 hue6  會,k10  燴  匯,k10,~款,~-khuan2  彙,k10,詞~,sur5-~
 hueh4  血,k10
 huenn5  橫,k00
@@ -448,7 +448,7 @@ ieh4  約,k00
 ieh8  藥,k00
 ien1  蔫  焉  淵  嫣  鳶
 ien2  遠,k00
-ien3  燕  嚥,吞~,thun1-~
+ien3  燕  嚥,,吞~,thun1-~
 ien5  紈
 ien6  涎  羨  蜒  延,k00  衍  援  筵  胤
 ien7  焉
@@ -458,7 +458,7 @@ ienn7  樣,k00
 im1  淹,k10  蔭  音,k00  陰,k00
 im2  飲,k10
 im5  淫
-in1  煙,k10  茵,k10  因,k00  姻  甄  胭  咽,~喉,~-au5
+in1  煙,k10  茵,k10  因,k00  姻  甄  胭  咽,,~喉,~-au5
 in2  引,k00  隱,k10  蚓
 in3  印,k10  應
 in5  鉛  沿,k00  演,k00  寅  縈
@@ -472,9 +472,9 @@ iok8  峪  育,k00  浴  欲,k10,暢所~言,thiang3-so2-~-ngan5,搖搖~墜,-ie5-
 iong1  臃  癰  雍
 iong2  踴  蛹  永,k00  勇,k10
 iong3  擁,k00  詠  泳  恿  湧|涌,k10,~現,~-hin7
-iong5  蓉  榮,k10  融,k00  熔  溶  容,k00  瑩  螢  熒  盈  庸  榕  縈  佣,k10,~金,~-kim1  傭,~人,~-nang5
+iong5  蓉  榮,k10  融,k00  熔  溶  容,k00  瑩  螢  熒  盈  庸  榕  縈  佣,k10,~金,~-kim1  傭,,~人,~-nang5
 ip4  揖  邑
-it4  噎  一,k10  乙,k10  咽,哽~,kenn2-~
+it4  噎  一,k10  乙,k10  咽,,哽~,kenn2-~
 it8  逸  佚  軼
 iu1  優,k00  憂,k10
 iu2  酉  有  友,k00  誘  肘  牖  鮪  黝
@@ -525,7 +525,7 @@ kam1  甘,k00  監  泔
 kam2  感,k00
 kam3  監  檻  鑑  尷
 kam5  含
-kan1  竿  間,k00,中~,tong-~  艱  乾,k00,~灱,~-ta1,~杯,~-pue1  干,k10,天~地支,thinn1-~-ti7-chinn1,無相~,bo5-siang1-~  杆,k12,欄~,lan5-~  奸,~臣,~-chhin5  姦,強~,khiang5-~
+kan1  竿  間,k00,中~,tong-~  艱  乾,k00,~灱,~-ta1,~杯,~-pue1  干,k10,天~地支,thinn1-~-ti7-chinn1,無相~,bo5-siang1-~  杆,k12,欄~,lan5-~  奸,,~臣,~-chhin5  姦,,強~,khiang5-~
 kan2  稈  柬  揀  簡,k00  澗
 kan3  旰  幹,k11,樹~,chhiu7-~-,~部,~-pou6,才~,tshai5-~
 kang1  岡  剛,k00  缸  肛  綱  崗  工,k00  功,k10  公  江,k10  扛  蚣
@@ -560,13 +560,13 @@ keng5  瓊
 keng6  警  競
 kenn1  耕  庚  羹  經,k01  賡
 kenn2  埂  梗  哽
-kenn3  更  勁  粳  頸  徑,路~,lou7-~,半~,puann3-~  逕,~入,~-jip8
+kenn3  更  勁  粳  頸  徑,,路~,lou7-~,半~,puann3-~  逕,,~入,~-jip8
 kha1  腳,k11  骹,k00  尻,k10,~川,~-tshuan1
 kha2  卡,k00  豈  巧,k00  咔
 khai1  開,k10
 khai2  楷  凱
 khai3  概,k10  溉  慨  暨
-khak4  嘎  霍  殼  榷  確,k00  恪  麴,鼠~草,tshur2-~-tsho2
+khak4  嘎  霍  殼  榷  確,k00  恪  麴,,鼠~草,tshur2-~-tsho2
 kham1  堪  勘  湛  戡  龕
 kham2  檻  坎  砍  嵌
 khan1  刊,k10  牽  纖
@@ -577,9 +577,9 @@ khang3  抗,k00  亢  炕  吭
 khap4  蓋  磕  刻  掐  恰  盍
 khau1  摳  尻
 khau2  考,k00  拷  烤  口,k10
-khau3  靠,k00  寇  哭,k00  叩  扣,k00,~除,~-tur5  釦,鈕~,niu2-~
+khau3  靠,k00  寇  哭,k00  叩  扣,k00,~除,~-tur5  釦,,鈕~,niu2-~
 kheh4  喀  客,k00
-khek4  擊  刻,k00  蛐  曲,k00,戲~,~折,hi3-~-,-~-chih4  麴,酒~,chiu2-~
+khek4  擊  刻,k00  蛐  曲,k00,戲~,~折,hi3-~-,-~-chih4  麴,,酒~,chiu2-~
 kheng1  兢  筐  卿
 kheng2  肯,k00  啃
 kheng3  慶,k10  罄
@@ -609,7 +609,7 @@ khiau5  喬  僑  翹  蕎
 khieh8  挈
 khien1  虔
 khien2  遣  譴  犬
-khien5  乾,~坤,~-khun1
+khien5  乾,,~坤,~-khun1
 khienn1  腔,k00
 khiet4  喫  撅  契  孑  挈  黠  据
 khih4  缺
@@ -642,7 +642,7 @@ khou2  苦,k00  許
 khou3  寇  庫,k00  褲  蔻
 khu1  拘  丘  邱  區,k00  軀,k10  驅,k10  樞
 khu6  臼
-khua1  垮  挎  跨  夸,~父,~-pe6  誇,浮~,~張,phu5-~-,-~-chiang1
+khua1  垮  挎  跨  夸,,~父,~-pe6  誇,,浮~,~張,phu5-~-,-~-chiang1
 khua3  掛,k10  胯
 khuah4  闊,k10
 khuai3  筷  快
@@ -664,13 +664,13 @@ khui2  軌
 khui3  季,k00  氣
 khui5  葵  馗
 khui6  饋  愧  潰
-khun1  坤  昆,~蟲,~-thang5  崑,~崙,~-lun5
+khun1  坤  昆,,~蟲,~-thang5  崑,,~崙,~-lun5
 khun2  窘  菌,k10  墾  懇  捆
 khun3  困,k00,~難,~-lan5  睏,k10,早~,tsa2-~
 khun5  拳,k10  羣,k00
 khur3  去,k00
 khur5  渠,k10
-khurh4  吃,~~叫,~-~-kie3  乞,k01
+khurh4  吃,,~~叫,~-~-kie3  乞,k01
 khurn5  勤,k10  芹
 khurt4  乞,k00
 khut4  倔  窟  屈,k10
@@ -689,7 +689,7 @@ kiam1  兼,k00
 kiam2  檢  鹼  撿  減,k00
 kiam3  劍
 kiam5  鹼  鹹,k10,~水魚,~-tsui2-hur5
-kiang1  疆  羌  僵,~硬,~-ngenn6  殭,~屍,~-si1  姜,~子牙,~-tsur2-ge5
+kiang1  疆  羌  僵,,~硬,~-ngenn6  殭,,~屍,~-si1  姜,,~子牙,~-tsur2-ge5
 kiang2  強
 kiann1  京,k10  驚,k00  經
 kiann2  今  仔  囝,k00
@@ -709,7 +709,7 @@ kieh4  腳  角
 kien1  堅,k10  捐  鵑  娟
 kien3  見,k00  建  絹
 kien6  鍵,k10  健,k10  建,k00  毽  犍
-kienn1  薑,~薯,~-tsur5
+kienn1  薑,,~薯,~-tsur5
 kiet4  吉  潔,k10
 kiet8  傑,k10  竭,k10  桀
 kih4  砌
@@ -757,7 +757,7 @@ kong3  槓  汞  貢
 kou1  辜  菇  估,k00  沽  孤,k10  姑,k00  枯
 kou2  苟  估  鼓  古,k00  股,k10  嘏  牯
 kou3  妒  垢  構,k10  購,k10  夠,k00  顧  僱
-kou5  糊,麵線~,minn7-suann3-~  餬,麵線~,minn7-suann3-~
+kou5  糊,,麵線~,minn7-suann3-~  餬,,麵線~,minn7-suann3-~
 ku1  辜  咕  孤  龜  駒  佝
 ku2  古  蠱  賈  韭  久,k00
 ku3  故,k10  顧,k10  固,k10  灸  句,k00
@@ -768,12 +768,12 @@ kua2  剮  寡
 kua3  蓋  掛  褂  旰,k00
 kuah4  噶  割  葛  渴,k00
 kuai1  乖,k10  鮭
-kuai2  拐,~騙,~-phien3  柺,k10,老人~,lau6-nang5-~
+kuai2  拐,,~騙,~-phien3  柺,k10,老人~,lau6-nang5-~
 kuai3  怪,k00  劊  會,k22  繪  儈  檜  膾
 kuak4  郭
-kuan1  關,k00  冠  觀,k10 kuan3  綸
+kuan1  關,k00  冠  觀,k10  綸
 kuan2  管,k00  館,k10
-kuan3  冠,k10  罐  慣,k00  灌  貫,k00  眷  券  摜  盥
+kuan3  冠,k10  觀,k12  罐  慣,k00  灌  貫,k00  眷  券  摜  盥
 kuan6  倦  捲,k10,~煎,席~,~-tsuann1-,-chhieh8-~
 kuang1  胱  光,k00  觥  誑  鰥
 kuang2  耿  廣,k00  炯  迥
@@ -802,15 +802,15 @@ kun2  輥  滾,k10
 kun3  棍
 kun5  裙
 kun6  郡
-kur1  車,~馬炮,~-be2-phau5  居,k00
+kur1  車,,~馬炮,~-be2-phau5  居,k00
 kur2  櫃  矩  舉  齲  枸
 kur3  鋸
-kur5  据,拮~,khiet4-~
+kur5  据,,拮~,khiet4-~
 kur6  拒  巨,k10  距  踞  炬  據,k00,根~,kurn1-~
 kurn1  根,k00  跟,k00  巾  筋  斤,k00  均,k00  鈞
 kurn2  僅  謹
 kurn3  靳
-kurn5  凝,油~~,iu5-~-~
+kurn5  凝,,油~~,iu5-~-~
 kurn6  近,k00
 kut4  骨,k00
 kut8  猾  滑  掘
@@ -821,7 +821,7 @@ lai5  萊  來,k00  梨,k10  狸
 lai6  裏  內,k00  裏|裡,k00,~底,~-toi2,~衣,~-i1
 lai7  來
 lak4  碌  落
-lak8  樂,k00  力,k00  六,k00  陸  栗,猴~,kau5-~  慄
+lak8  樂,k00  力,k00  六,k00  陸  栗,,猴~,kau5-~  慄
 lam2  艦  攬,k10  覽,k10  纜
 lam5  藍,k00  婪  淋  南,k00  男,k00  襤
 lam6  濫
@@ -853,7 +853,7 @@ liah8  掠
 liak8  撂  略,k00  慄
 liam1  拈  粘  黏
 liam2  斂  殮
-liam5  鐮  廉  黏  帘,酒~,chiu2-~  簾,~簾,~-liam5
+liam5  鐮  廉  黏  帘,,酒~,chiu2-~  簾,,~簾,~-liam5
 liam6  廿  念,k00,信~,sin3-~
 liam7  唸,k10,~經,~-kenn1
 liang2  倆  兩,k00  輛  魎
@@ -862,7 +862,7 @@ liang6  量,k00  晾  亮,k00  諒,k10  靚,k00
 liap8  粒,k00
 liau2  了,k10,~斷,~-tuan6  瞭,k10,明~,meng5-~,~解,~-koi3
 liau3  了,k00,到~,kau3-~
-liau5  撈  撩  聊,k00  僚  療  燎  寥  遼  潦  鐐  獠  醪  瞭,~望,~-mo7
+liau5  撈  撩  聊,k00  僚  療  燎  寥  遼  潦  鐐  獠  醪  瞭,,~望,~-mo7
 liau7  廖  料,k00
 lie5  撈
 lien2  臉
@@ -889,11 +889,11 @@ loi2  禮,k00
 loi5  犁  黎
 loi7  籬
 loih8  笠
-lok8  貉  酪  烙  磊  麓  碌  祿  錄  陸,k10,~續  戮  洛  駱  絡  骼
+lok8  貉  酪  烙  磊  麓  碌  祿  錄  陸,,k10,~續  戮  洛  駱  絡  骼
 long2  籠  壟  攏,k00
 long5  窿  隆  囊  膿  濃,k10  農,k10  朧  矓
 long6  弄,k00
-lou2  摟  惱  鹵,~鹽,~-iam5  滷,k10,~卵,~-nng6
+lou2  摟  惱  鹵,,~鹽,~-iam5  滷,k10,~卵,~-nng6
 lou5  盧  廬  爐  鱸  鸕
 lou6  陋
 lou7  露,k10  路,k00
@@ -909,20 +909,20 @@ luan3  戀
 luan5  巒  攣  孿  灤
 luan6  亂,k00
 luat4  劣,k10  閱,k10
-lui2  蕾  磊  儡  壘  蕊  累,~積,~-cheh4  纍,k11,罪惡~~,tsue6-ak4-~-~
+lui2  蕾  磊  儡  壘  蕊  累,,~積,~-cheh4  纍,k11,罪惡~~,tsue6-ak4-~-~
 lui5  雷,k00  鐳  蕾  擂  羸
 lui6  淚,k10  累,k00,勞~,拖~,lau5-~-,-thua1-~
 lui7  類,k00
 lun2  忍
 lun3  嫩
-lun5  掄  輪,k00  倫  淪  綸  侖,~理,~-li2  崙,~崙,~-lun5
+lun5  掄  輪,k00  倫  淪  綸  侖,,~理,~-li2  崙,,~崙,~-lun5
 lun6  論,k00
 lur2  汝,k00
 lur5  勞,k11  驢  閭
 lur6  呂  鋁  侶  慮  濾
 lut4  脫
 lut8  律,k00  率,k00,速~,sok4-~  鷸
-m2  姥  拇  姆  母,丈母,tienn6-~
+m2  姥  拇  姆  母,,丈母,tienn6-~
 m6  毋,k00  唔,k00
 ma1  媽,k00  嗎,k00
 ma2  媽,k01,~祖,~-tsou2  瑪  碼  螞  馬  嗎,k22,~啡,~-hui
@@ -959,7 +959,7 @@ mi5  眯,k22  醚  糜  迷,k00
 mi6  媚  謎  袂
 miann5  名,k00
 miann7  命,k01
-miau2  藐  秒,k10  杳  渺,k10,~茫,~-mang5  淼,煙波浩~,in1-po1-hau1-~
+miau2  藐  秒,k10  杳  渺,k10,~茫,~-mang5  淼,,煙波浩~,in1-po1-hau1-~
 miau5  錨  苗,k10  描,k10  瞄
 miau6  妙,k10
 mien2  冕  免,k00  勉,k10  娩  緬  敏,k10  憫  閔
@@ -970,7 +970,7 @@ min5  氓  眠,k10  民,k00  抿  泯
 min7  面,k00,~子,~-tsur2
 minn5  棉,k10  綿
 minn7  麵,k10,~粉,~-hun2
-mit8  覓  蜜  密,k10  冪  滅,k10  默,k10  蔑,輕~,khin1-~  衊,污~,u1-~
+mit8  覓  蜜  密,k10  冪  滅,k10  默,k10  蔑,,輕~,khin1-~  衊,,污~,u1-~
 mng2  晚,k00
 mng5  門,k00  們
 mng7  問,k00
@@ -983,12 +983,12 @@ moh8  膜  漠
 mok8  沒  莫  漠  寞,k10  木  睦  牧  穆  疫,k10  沐
 mong2  某  晚
 mong3  貿
-mong5  芒  檬  摸  謀  蠓  蒙,k10,~古,~-kou2,啟~,khi2-~,~難,~-lan7  濛,~煙,~-in1  矇,~矓,~-long5,~騙,-~-phien3  朦,~朧,~-long5
+mong5  芒  檬  摸  謀  蠓  蒙,k10,~古,~-kou2,啟~,khi2-~,~難,~-lan7  濛,,~煙,~-in1  矇,,~矓,~-long5,~騙,-~-phien3  朦,,~朧,~-long5
 mong6  茂  舞
 mou3  瞀
 mou5  謀  牟
 mou6  茂,k10  瞀  袤
-mua5  麻,k00,~煩,~-huan5,~醉,~-tsui3  痲,~瘋,~-huang1
+mua5  麻,k00,~煩,~-huan5,~醉,~-tsui3  痲,,~瘋,~-huang1
 muann2  滿,k00
 muann5  瞞  鰻,k10
 muat8  末,k10
@@ -1019,8 +1019,8 @@ nek8  匿  溺  肉,k00
 ng1  秧
 ng2  尹
 ng5  黃,k00  磺
-ngai5  皚  呆,癡~,chhi1-~  崖  涯,k10  捱,k10,~苦,~-khou2
-ngai6  艾,自怨自~,tsur6-uan3-tsur6-~  岸
+ngai5  皚  呆,,癡~,chhi1-~  崖  涯,k10  捱,k10,~苦,~-khou2
+ngai6  艾,,自怨自~,tsur6-uan3-tsur6-~  岸
 ngak8  鄂  噩  鱷  岳,k11,~父,~-pe6  嶽,k10,山~,suann1-~
 ngam1  啱
 ngam5  癌  巖
@@ -1055,7 +1055,7 @@ ngo2  我
 ngo5  蛾  峨  俄  娥  哦  梧  吾  虞  愚  隅
 ngo6  晤  悟  遇,k00  寓  寤
 ngoih4  齧
-ngoinn2  研,~平,~-penn5
+ngoinn2  研,,~平,~-penn5
 ngou2  藕  偶,k00  五  午,k10  伍  牾
 ngou6  五,k00  伍
 nguan2  阮  玩  頑
@@ -1064,11 +1064,11 @@ nguan6  願,k00,心~,sim1-~
 nguinn5  巍  危
 nguinn6  詭  僞
 ngurn5  靳  銀,k00
-ngurt4  吃,~驚,~-kiann1  疙  迄  訖  屹
+ngurt4  吃,,~驚,~-kiann1  疙  迄  訖  屹
 ni1  奶  呢,k00
-ni2  女  染  弭  獼  彌,~補,~-pou2  瀰,~漫,~-buan6
+ni2  女  染  弭  獼  彌,,~補,~-pou2  瀰,,~漫,~-buan6
 ni3  泥
-ni5  呢,~喃,~lam5  妮  泥  尼  年,k00
+ni5  呢,,~喃,~lam5  妮  泥  尼  年,k00
 ni6  奶  膩
 niang5  娘
 niann2  嶺  領
@@ -1112,16 +1112,16 @@ oih8  狹
 oinn5  閒|閑,k00
 ok4  握  沃  屋,k10  齷
 ong1  嗡  翁
-ong3  盎,~司,~-si1  齆
+ong3  盎,,~司,~-si1  齆
 ong6  擁
 ou1  鷗  鎢  烏,k00
-ou5  湖,k10  胡,~適,~-sek4
+ou5  湖,k10  胡,,~適,~-sek4
 ou7  芋
 pa1  芭  叭  吧  笆  疤  巴,k00  爸,k00  葩
 pa2  靶  把,k00,~守,~-siu2  飽,k00
 pa3  壩  霸  豹
 pa6  罷
-pai2  擺,~攤,~-thuann1  襬,衣~,i1-~
+pai2  擺,,~攤,~-thuann1  襬,,衣~,i1-~
 pai3  拜,k00
 pai5  排,k00  牌  徘
 pai7  敗,k00
@@ -1137,14 +1137,14 @@ pang3  放,k00
 pang5  房,k00  馮
 pang6  棒,k00  謗
 pau1  苞  胞  包,k10  孢
-pau2  保,太~,thai3-~  堡  褓  鴇
+pau2  保,,太~,thai3-~  堡  褓  鴇
 pau6  暴,k00  鮑  爆,k10  瀑
 pe2  把,k00
 pe5  扒  耙  爬,k00  琶  杷
 pe6  父,k00
 peh4  柏  百,k00  佰  伯,k00  掰
 peh8  白,k00  帛
-pek4  柏  薄,~近,~-kurn6  逼,k00  迫,k00
+pek4  柏  薄,,~近,~-kurn6  逼,k00  迫,k00
 peng2  秉  炳
 peng5  迸
 peng6  幷|并,k22,~州,~-chiu1  併,k00,合~,hah8-peng6  並,k00,~立,~-lip8,~且,~-chhia2
@@ -1162,17 +1162,17 @@ phan1  攀
 phan3  盼
 phang1  芳  蜂,k10
 phang2  紡
-phang5  膀,~胱,~-kuang1  磅,~礴,~-poh8  傍,k00  帆,k10  航,k22  龐  旁  彭  篷  彷,彷~,phang5-~
+phang5  膀,,~胱,~-kuang1  磅,,~礴,~-poh8  傍,k00  帆,k10  航,k22  龐  旁  彭  篷  彷,,彷~,phang5-~
 phang7  縫
 phann3  怕  冇,k10
 phau1  褒  拋  刨  泡
 phau2  跑,k00
 phau3  砲  炮  泡,k00
 phau5  咆  刨  炮  袍  庖  狍
-phau6  抱,~不平,~-put4-pheng5
+phau6  抱,,~不平,~-put4-pheng5
 phe3  帕
 phek4  碧  霹  劈  魄  辟,k12,復~,hok8-~  闢,k10,開~,khai1-~
-pheng1  烹  拼,k00  拼,k10,~湊,~-tshou3
+pheng1  烹  拼,k10,~湊,~-tshou3
 pheng3  騁  聘,k10
 pheng5  砰  抨  硼  朋,k00  坪  萍  平,k00  憑,k00  評,k00  怦
 phenn5  澎  彭  膨  平
@@ -1188,7 +1188,7 @@ phiann5  坪
 phiau1  標,k00,~緻,~-ti3  膘  飄,k10  漂,k10  瓢  飆  驃
 phie3  票
 phie5  萍
-phien1  編,k00  扁,~舟,~-chiu1  篇,k10  偏,k10  翩
+phien1  編,k00  扁,,~舟,~-chiu1  篇,k10  偏,k10  翩
 phien3  片,k00  騙,k10
 phin2  貶
 phin5  瀕  頻,k00  貧  蘋,k00  瓶,k10  屏
@@ -1204,7 +1204,7 @@ pho6  抱,k10
 phoh4  粕
 phoi1  批,k00
 phoinn7  稗  辦
-phok4  爆  撲  仆,前~後繼,tsoinn5-~-au6-ki3  朴,~樹,~-chhiu7  樸,~素,~-su3
+phok4  爆  撲  仆,,前~後繼,tsoinn5-~-au6-ki3  朴,,~樹,~-chhiu7  樸,,~素,~-su3
 phong2  捧,k00  搿
 phong3  碰,k10
 phong5  縫  蓬  篷  鵬
@@ -1219,7 +1219,7 @@ phua5  婆,k00
 phuah4  撥,k10  撇  瞥  潑,k10
 phuan1  藩
 phuan3  拌  絆  畔  判,k00  胖
-phuan5  般,k00 puann1  盤,k11  磐
+phuan5  般,k00  盤,k11  磐
 phuann1  番|畨  潘
 phuann2  頗
 phuann3  判
@@ -1245,7 +1245,7 @@ piann1  兵,k00  冰,k00
 piann2  丙,k01  餅
 piann3  拚,k00,拍~,phah4-~,~命,-~-miann7
 piau2  殍  表,k00,~示,~-si7
-pie1  標  錶,手~,chhiu2-~
+pie1  標  錶,,手~,chhiu2-~
 pie2  表,k01,~兄,~-hiann1
 pie3  漂
 pien1  鞭,k10,~策,~-chheh4  邊,k10,無~,bo5-~
@@ -1258,10 +1258,10 @@ pin1  彬  斌  濱  賓,k00  乒
 pin2  摒  品,k00  屏  匾
 pin3  遍  擯  髕  鬢
 pin5  平
-pinn1  鞭,k11,馬~,be2-~  邊,k11,厝~,tshu3-~  辮,留~,liu5-~
+pinn1  鞭,k11,馬~,be2-~  邊,k11,厝~,tshu3-~  辮,,留~,liu5-~
 pinn2  扁,k02
 pinn3  變,k02,~面,~-min7
-pinn6  辮,~辮,~-pinn1
+pinn6  辮,,~辮,~-pinn1
 pit4  筆,k10  必,k00
 pit8  畢,k10  癟
 piu1  彪
@@ -1270,7 +1270,7 @@ png7  飯,k00
 po1  玻,k10  菠,k10  波,k00  坡
 po2  保,k00,~護,~-hu6  寶,k00
 po3  報,k00
-po5  薄,~荷,~-o5  婆
+po5  薄,,~荷,~-o5  婆
 poh4  駁
 poh8  礴  薄,k10,銅~,tang5-~  鉑  箔  舶  泊  魄
 poih4  捌  八,k00
@@ -1278,8 +1278,8 @@ poih8  拔
 poinn1  斑
 poinn2  版  反  板
 poinn5  畔  爿,k00
-pok4  卜,~卦,~-khue3
-pok8  蔔,~蔔,~-pok8  僕,奴~,風塵~~,nou5-~-,-hong1-tin5-~-~
+pok4  卜,,~卦,~-khue3
+pok8  蔔,,~蔔,~-pok8  僕,,奴~,風塵~~,nou5-~-,-hong1-tin5-~-~
 pong5  泵  乓
 pong7  磅  鎊
 pou1  埠  夫,k11  埔
@@ -1290,15 +1290,15 @@ pou7  哺  步,k00
 pu1  晡
 pu3  怖  富,k10  背,k22,手~,chhiu2-~  佈,k01,宣~,suan1-~
 pu5  煲,k10  瓠
-pu6  捕  哺,~育,~-iok8  婦
+pu6  捕  哺,,~育,~-iok8  婦
 pua3  播,k10  簸
 puah4  鉢
 puah8  跋
 puan6  叛
-puann1  搬,k10
+puann1  搬,k10  般
 puann3  半,k00
 puann5  盤,k10
-puat8  拔,選~,suan2-~  跋,~涉,~-siap8  勃  脖  渤  荸  魃
+puat8  拔,,選~,suan2-~  跋,,~涉,~-siap8  勃  脖  渤  荸  魃
 pue1  杯,k00  飛,k10
 pue3  輩  貝  背,k10,~誦,~-song6
 pue5  培,k10  賠,k10  陪,k10
@@ -1318,7 +1318,7 @@ sa6  傻  啥
 sai1  腮  鰓  篩  師  獅  思  私  西,k00  犀
 sai2  使,k00  屎  駛,k10
 sai3  灑  塞  賽,k10  曬  使  婿
-sai5  豺,~狗,~-kau2
+sai5  豺,,~狗,~-kau2
 sai6  柿
 sak4  撒  薩  塞  剎  蝨
 sam1  三,k01  杉
@@ -1336,11 +1336,11 @@ sau3  掃,k00  梢  哨  嗽  嘯
 se1  紗  些,k00  裟
 sek4  瑟  色,k00  識  式,k00  適  釋,k10  飾,k11  碩  昔  析,k00  矽  晰  息,k10  悉,k10  夕  熄  汐  媳  植,k10  殖,k12  擲  晳  皙  穡  窸  蟋
 sek8  熟,k00
-seng1  聲  生,k00  甥  牲  勝  腥  猩  惺  旌  升|陞,k00,~級,公~,~-khip4-,-kong1-~  昇,東~,tang1-~
+seng1  聲  生,k00  甥  牲  勝  腥  猩  惺  旌  升|陞,k00,~級,公~,~-khip4-,-kong1-~  昇,,東~,tang1-~
 seng2  省,k01
 seng3  勝,k10  聖
-seng5  成,k00,~功,~-kong1  乘,k00,~法,~-huap4  誠,k10  承,k10,~認,~-jin7  丞  榕,k10  松,~樹,~-chhiu7
-seng6  乘,~機,~-ki1  盛,k10
+seng5  成,k00,~功,~-kong1  乘,k00,~法,~-huap4  誠,k10  承,k10,~認,~-jin7  丞  榕,k10  松,,~樹,~-chhiu7
+seng6  乘,,~機,~-ki1  盛,k10
 senn1  生,k01  牲
 senn2  省,k00
 senn3  性,k00  姓,k00
@@ -1360,7 +1360,7 @@ sia7  射,k10  謝,k00
 siah4  錫  削
 siah8  席,k00
 siak4  屑
-siam1  參,人~,nang5-~  森,k10  苫
+siam1  參,,人~,nang5-~  森,k10  苫
 siam2  苫  閃  陝
 siam3  滲
 siam5  蟬  禪
@@ -1387,9 +1387,9 @@ sieh4  惜,k00
 sieh8  勺  石  液
 sien1  仙  秈
 sien2  銑  洗  鮮,k01  癬  蘚  跣
-sien3  煽  搧,~面龐,~-min7-phang5  煽,~風點火,~-hong1-tiam2-hue2
+sien3  煽,,~風點火,~-hong1-tiam2-hue2  搧,,~面龐,~-min7-phang5
 sien5  闡,k10  單
-sien6  單  擅  膳  善  繕  腎  鱔  撣,~族,~-tsok8
+sien6  單  擅  膳  善  繕  腎  鱔  撣,,~族,~-tsok8
 sienn1  傷,k00  廂  鑲  箱
 sienn2  賞
 sienn3  相,k10  像,k10  肖
@@ -1400,12 +1400,12 @@ siet4  契  設,k00  楔  褻
 sih4  薛
 sih8  食  蝕
 sim1  芯  新  心,k00
-sim2  沁  審  嬸  慎  沈  瀋,~陽,~-iang5
+sim2  沁  審  嬸  慎  沈  瀋,,~陽,~-iang5
 sim5  忱
 sim6  甚,k00  什,k00
 sin1  砷  申,k10  呻  伸,k10  身,k00  紳  先  薪  鋅  辛,k00  新,k00  莘
 sin3  芯  信,k00  汛  訊  迅,k10
-sin5  辰  晨,k00  承,~水,~-tsui2  娠  神,k11  繩  蠅  蜃
+sin5  辰  晨,k00  承,,~水,~-tsui2  娠  神,k11  繩  蠅  蜃
 sin7  剩
 sinn3  扇,k10,紙~,tsua2-~
 sip4  溼
@@ -1433,7 +1433,7 @@ sok8  贖  孰  屬,k00  俗  續,k00
 song1  鬆,k00,輕~,khin1-~
 song2  聳  慫
 song3  宋
-song5  嵩  松,~樹,~-chhiu7
+song5  嵩  松,,~樹,~-chhiu7
 song6  頌  訟  誦
 sou1  酥  蘇,k11,~州,~-chiu1  甦,k10,~醒,~-chhenn2
 sou2  艘  擻
@@ -1463,7 +1463,7 @@ sue1  衰
 sue3  戍  帥  稅  說  歲  蛻
 sueh4  刷,k10  說,k10
 sui1  雖,k00  綏  蓑
-sui5  垂,k10a  誰,k10  隋  隨,k00  綏  遂  燧  蕤
+sui5  垂,k10  誰,k10  隋  隨,k00  綏  遂  燧  蕤
 sui6  瑞  睡,k10
 sui7  穗  隧
 sun1  孫,k10  絢
@@ -1479,7 +1479,7 @@ sur6  食  士  事,k22  仕  嗣  伺  似,k10  嶼  峙  祀
 sur7  事,k00
 sut4  摔  屑  戌  恤  蟀
 sut8  術,k10  述,k00
-ta1  大,~官,~-kuann1  丈,k22
+ta1  大,,~官,~-kuann1  丈,k22
 ta2  打
 ta5  禾
 tah4  搭,k10
@@ -1492,7 +1492,7 @@ tai7  事,k10
 tak4  韃
 tak8  達,k00  毒,k10  獨  度  值,k00
 tam1  耽  湛  聃
-tam6  淡,~泊,~-poh8
+tam6  淡,,~泊,~-poh8
 tan1  擔,k00,~保,~-po2  丹,k10,仙~,sien1-~  鄲  坍  殫
 tan2  疸
 tan3  旦,k00,一~,iau1-~  誕  蛋
@@ -1500,19 +1500,19 @@ tan5  陳
 tan6  但,k00  憚  撣
 tang1  東,k00  冬,k00  中,k01  噹,k12,叮~,teng1-~
 tang2  黨,k10  等,k10,~待,~-thai6  董
-tang3  擋,抵~,ti2-~  檔  凍  當,k00,適~,sek4-~
+tang3  擋,,抵~,ti2-~  檔  凍  當,k00,適~,sek4-~
 tang5  銅  童  筒  仝  同,k00,相~,siang1-~
 tang6  動  筒  重,k00  宕  蕩,k10,坦~,than2-~,掃~,sau3-~,遊~,iu5-~  盪,k10,震~,chin2-~
 tang7  洞,k10
-tann1  擔,扁~,pien2-~  今
+tann1  擔,,扁~,pien2-~  今
 tann2  膽,k00
-tann3  擔,一~,iau1-~  石  呾,k00
+tann3  擔,,一~,iau1-~  石  呾,k00
 tann6  氮  淡,k10,~水,~-tsui2  擲
 tann7  賺
 tap4  答,k00  瘩
 tau1  兜  逗
-tau2  搗  倒,k00,~換,~-uann7  島,k10  禱  抖,k00  陡  找  斗,一~酒,iau1-~-chiu2
-tau3  倒,~不如,~-put4-zu5  晝  鬥,k10,~鬥,~陣,~-tau3-,-~-tin7
+tau2  搗  倒,k00,~換,~-uann7  島,k10  禱  抖,k00  陡  找  斗,,一~酒,iau1-~-chiu2
+tau3  倒,,~不如,~-put4-zu5  晝  鬥,k10,~鬥,~陣,~-tau3-,-~-tin7
 tau5  投,k10
 tau6  蹈  導,k10  稻  道,k00  盜
 tau7  豆,k10  痘  讀
@@ -1523,7 +1523,7 @@ tek8  的,k10,目~,mak8-~  迪  敵,k10  笛  狄  滌  翟  鹿  特,k00  蟄  
 teng1  蹬  燈,k10  登,k00  丁,k00  叮  釘  酊  徵,k10,~求,~-khiu5,~兆,~-tiau6  癥,k11,~結,~-kat4
 teng2  等,k00,相~,siang1-~  頂,k00  戥,k10
 teng3  凳  盯  釘  訂,k10  中,k22
-teng5  塵,煙~,in1-~  亭  重,k10  婷
+teng5  塵,,煙~,in1-~  亭  重,k10  婷
 teng6  鄧  澱  錠  定  綻  鄭
 tenn3  詐,k12
 tenn7  鄭
@@ -1532,13 +1532,13 @@ thah4  塔
 thah8  疊
 thai1  篩  苔
 thai3  傣  泰  酞  太,k00  態  汰  鈦
-thai5  抬  臺,k10  台,k12,兄~,hiann1-~,戲~,hi3-~  颱,k10,風~,hong1-~  臺,k12,~灣,~-uan1  檯,k10,寫字~,sia2-ji7-~  刣,k10
+thai5  抬  臺,k12,~灣,~-uan1  台,k12,兄~,hiann1-~,戲~,hi3-~  颱,k10,風~,hong1-~  檯,k10,寫字~,sia2-ji7-~  刣,k10
 thai6  待,k00
 thak4  塞  撻  踢  拓
 thak8  讀,k10
 tham1  貪,k10
 tham3  探,k10  嘆
-tham5  痰  潭  譚  談,k00  撣,~灰,~-hue1  撢,~灰,~-hue1  壇,文~,bun5-~  罈,酒~,chiu2-~
+tham5  痰  潭  譚  談,k00  撣,,~灰,~-hue1  撢,,~灰,~-hue1  壇,,文~,bun5-~  罈,,酒~,chiu2-~
 than1  坍  癱
 than2  坦  毯  袒  忐
 than3  趁,k02,~錢,~-chinn5  賺
@@ -1559,7 +1559,7 @@ theng1  窗,k00  烴  汀
 theng2  懲  逞  艇  穎  挺  潁
 theng3  聽
 theng5  程,k00,工~,kang1-~  澄  瞪  騰,k10  謄  廷  停,k00  庭  婷  蜓
-theng6  等,~我,~-ua2
+theng6  等,,~我,~-ua2
 thenn1  撐
 thi2  體,k00
 thi3  翅  締  替  嚏  涕  剃  屜  滯,k10  睇,k22
@@ -1572,7 +1572,7 @@ thiam5  恬
 thiang3  暢,k10
 thiann1  廳,k10  聽,k00
 thiann3  痛
-thiann5  呈,k10,~現,~-hin7  程,起~,khi2-~
+thiann5  呈,k10,~現,~-hin7  程,,起~,khi2-~
 thiap4  貼,k10  帖
 thiau1  挑  迢
 thiau2  眺  窕
@@ -1605,13 +1605,13 @@ thoh4  魄  托,k11,~舉,~-kur2  託,k10,委~,ui2-~,拜~,pai3-~
 thoh8  駝
 thoi2  體
 thoi3  代,k00,~理,~-li2  替,k00
-thoih4  代,~職,~-cheh4
+thoih4  代,,~職,~-cheh4
 thoinn2  睇,k00
 thok4  禿
 thong1  通,k00
 thong2  寵  捅  統,k00
 thong3  痛
-thong5  幢,幢幡,thong5-幡  侗  恫  洞  桐  酮  瞳  彤  童,k10  仝  衕,衚~,hu5-~
+thong5  幢,,幢幡,thong5-幡  侗  恫  洞  桐  酮  瞳  彤  童,k10  仝  衕,,衚~,hu5-~
 thong7  洞
 thou2  土,k00
 thou3  吐  兔
@@ -1619,21 +1619,21 @@ thou5  塗,k10,電~,tien6-~,~腳,-~-kha1
 thu5  躇  滁  儲,k10  圖,k00  徒  途,k10  荼  塗,k10,~改,~-koi2
 thua1  拖
 thuah4  獺
-thuan5  傳,k10,~授,~-siu6  團,k00,~結,~-kat4  糰,飯~,png7-~
+thuan5  傳,k10,~授,~-siu6  團,k00,~結,~-kat4  糰,,飯~,png7-~
 thuann1  攤  癱  灘
-thuann2  鏟,~草,~-tsho2
+thuann2  鏟,,~草,~-tsho2
 thuann3  碳  炭
 thue1  頹
 thui1  梯,k10  推
 thui2  腿,k10
-thui5  錘,鐵~,thih4-~
+thui5  錘,,鐵~,thih4-~
 thun1  吞,k10  飩
 thun2  氽
-thun5  塵,筅~,tshoinn2-~  囤  屯  臀  豚
+thun5  塵,,筅~,tshoinn2-~  囤  屯  臀  豚
 thut4  脫,k10  黜
 ti1  的  低,k00  蜘  祗
 ti2  抵,k10,~押,~-ah4
-ti3  戴,~帽,~-bo7  帝  知,k00  置,k00  智,k00  致,k00,~使,~-sai3  緻,k10,細~,soi3-~
+ti3  戴,,~帽,~-bo7  帝  知,k00  置,k00  智,k00  致,k00,~使,~-sai3  緻,k10,細~,soi3-~
 ti5  池  底,k00,~個,~-kai5  遞  治,k22
 ti6  逮  弟,k00  隸  銻  彘
 ti7  地,k00,~點,~-tiam2  治,k00
@@ -1641,13 +1641,13 @@ tia1  爹,k00  爺
 tiah4  嫡  摘,k00
 tiah8  糴,k11
 tiak4  耋
-tiam1  掂  硯  砧  玷  沾,~染,~-jiam2  霑,雨露均~,hou6-lou7-kurn1-~
+tiam1  掂  硯  砧  玷  沾,,~染,~-jiam2  霑,,雨露均~,hou6-lou7-kurn1-~
 tiam2  點,k00
 tiam3  店,k00  惦
 tiam5  甜,k00  恬
 tiam7  恬
 tiann2  鼎,k10
-tiann5  呈,~文,~-bun5  庭
+tiann5  呈,,~文,~-bun5  庭
 tiann6  錠
 tiann7  定,k00
 tiap8  蝶  諜
@@ -1655,14 +1655,14 @@ tiau1  碉  叼  凋  刁  貂  雕|鵰,k10
 tiau3  吊,k10,~燈,~-teng1  弔,k11,憑~,pheng5-~
 tiau5  條,k00
 tiau6  兆,k10  召,k10
-tiau7  掉,k00  調,聲~,seng1-~
+tiau7  掉,k00  調,,聲~,seng1-~
 tie5  潮,k10
 tieh8  着,k00
-tien1  顛,~簸,~-pua3  滇  珍,k10  巔,k10
+tien1  顛,,~簸,~-pua3  滇  珍,k10  巔,k10
 tien2  碘  典,k10  碾  腆  輾  展,k00
-tien6  墊  電,k00  甸  奠  澱,沈~,sim2-~  殿,~後,~-au6
+tien6  墊  電,k00  甸  奠  澱,,沈~,sim2-~  殿,,~後,~-au6
 tienn1  張,k01
-tienn2  長,家~,ke1-~
+tienn2  長,,家~,ke1-~
 tienn3  釣  帳  賬  脹
 tienn5  場,k00,場~,tienn5-~
 tienn6  丈,k10  趙
@@ -1671,12 +1671,12 @@ tiet8  侄
 tih4  滴,k10  蒂
 tih8  碟,k00
 tim1  郴  鴆
-tim5  沉,k10  沈,浮~,phu5-~
+tim5  沉,k10  沈,,浮~,phu5-~
 tim6  朕
-tin1  顛,~倒,~-tau2
+tin1  顛,,~倒,~-tau2
 tin2  振
 tin3  鎮,k10
-tin5  塵,k10,~埃,~-ai1  陳,鋪~,phou1-~  藤
+tin5  塵,k10,~埃,~-ai1  陳,,鋪~,phou1-~  藤
 tin7  陣,k00
 tinn5  纏
 tinn6  漲
@@ -1689,13 +1689,13 @@ tiu6  稻  宙,k10  晝  紂
 tiu7  住,k10
 tng1  當,k01,~家,~-ke1
 tng2  轉,k01
-tng3  擋,摒~,pin2-~  頓  當,k22,安步~車,an1-pou7-~-chhia1
+tng3  擋,,摒~,pin2-~  頓  當,k22,安步~車,an1-pou7-~-chhia1
 tng5  長,k10,~短,~-to2  腸,k10,~粉,~-hun2  塘  堂  唐
 tng6  斷  丈,k12
-tng7  傳,古~,ku2-~  段,k00  緞
+tng7  傳,,古~,ku2-~  段,k00  緞
 to1  刀,k00  哆  多,k10
-to2  倒,拍~,phah4-~  短,k00  朵
-to3  戴  倒,~茶,~-te5  地
+to2  倒,,拍~,phah4-~  短,k00  朵
+to3  戴  倒,,~茶,~-te5  地
 to5  垛  躲  朵  剁  逃,k10  淘
 to6  跺  在,k00
 to7  代,k11,古~,ku2-~  袋,k00
@@ -1705,8 +1705,8 @@ toi1  堤
 toi2  抵  底,k10,到~,kau3-~
 toi5  題,k10  蹄
 toinn6  第,k00  佃
-toinn7  靛  殿,宮~,keng1-~
-tok4  督  築,k10  斫|斲,~斷,~-tuan3
+toinn7  靛  殿,,宮~,keng1-~
+tok4  督  築,k10  斫|斲,,~斷,~-tuan3
 tok8  毒  犢  獨,k00  逐,k00  篤
 tom6  丼,k22
 tong1  東  冬  中,k00  忠
@@ -1718,17 +1718,17 @@ tou2  肚,k10
 tou5  廚,k10  圖,k01  屠
 tou6  杜  肚  土
 tou7  鍍  度,k00  渡,k00
-tsa1  查  碴  咱  喳  渣  猹  扎,~啤,~-pi5
+tsa1  查  碴  咱  喳  渣  猹  扎,,~啤,~-pi5
 tsa2  昔  早,k00  怎,k00  昨,k00
 tsa3  榨  咋  乍  炸,k10  詐,k10  窄,k00  柞
 tsah8  閘  柵  炸
 tsai1  栽,k10  災  知,k01
 tsai2  宰  載  仔  滓
 tsai3  載,k10  再,k00
-tsai5  才,秀~,siu3-~  臍
+tsai5  才,,秀~,siu3-~  臍
 tsai6  在
 tsai7  哉
-tsak4  軋  鍘  作,k00  扎,掙~,cheng1-~  紮,包~,pau1-~,駐~,tsu6-~
+tsak4  軋  鍘  作,k00  扎,,掙~,cheng1-~  紮,,包~,pau1-~,駐~,tsu6-~
 tsam1  針,k10
 tsam2  斬  嶄
 tsam3  蘸  湛
@@ -1739,7 +1739,7 @@ tsang1  贓  曾  莊  鬃  棕  臧  髒,k10,骯~,ang1-~
 tsang2  總
 tsang3  壯  糉
 tsang5  叢,k10
-tsang6  藏,寶~,po2-~  臟,k10,~器,~-khi3
+tsang6  藏,,寶~,po2-~  臟,k10,~器,~-khi3
 tsang7  贈,k10
 tsap4  匝  砸  札  眨  汁,k10
 tsap8  集  十,k00  拾  什  雜,k00
@@ -1757,33 +1757,33 @@ tshah4  插,k10  歃
 tshai1  猜,k00
 tshai2  睬  踩  采,k10,神~,sin5-~  採,k00,開~,khai1-~,~納,~-nap8  彩,k00,~色,~-sek4  綵,k10,剪~,chien3-~
 tshai3  菜,k10
-tshai5  裁  材,k10  才,k00,剛~,kang1-~  財,k00  豺,~狼,~-lang5
-tshak4  擦,k00  察,k10  錯,~雜,~-tsap8  漆  膝
+tshai5  裁  材,k10  才,k00,剛~,kang1-~  財,k00  豺,,~狼,~-lang5
+tshak4  擦,k00  察,k10  錯,,~雜,~-tsap8  漆  膝
 tshak8  鑿  賊
 tsham1  參,k00,~與,~-ur2  摻
 tsham2  慘,k10
 tsham3  滲
 tsham5  慚  攙  饞  讒
 tshan1  餐,k10  孱
-tshan2  鏟,~平,~-pheng5
+tshan2  鏟,,~平,~-pheng5
 tshan3  燦
 tshan5  殘,k10  田
 tshan6  羼
-tshang1  蒼  倉,~皇,~-huang5  滄  蔥  蹌
+tshang1  蒼  倉,,~皇,~-huang5  滄  蔥  蹌
 tshang3  創
 tshang5  藏,k10,蘊~,un2-~
 tshau1  操,k00,~練,~-lien7  抄,k10  鈔,k10  吵  剿
 tshau2  草,k02,~木,~-mok8
-tshau3  操,曹~,tshau5-~  臭  藻  澡  躁  噪  燥  臊
+tshau3  操,,曹~,tshau5-~  臭  藻  澡  躁  噪  燥  臊
 tshau5  曹  巢
-tshng1  艙  倉,k10,~庫,~-khou3  穿,~耳,~-hinn6  瘡  村,k00
-tshng3  刺,諷~,hong3-~
+tshng1  艙  倉,k10,~庫,~-khou3  穿,,~耳,~-hinn6  瘡  村,k00
+tshng3  刺,,諷~,hong3-~
 tshng5  牀,k00
 tsho1  初,k00,當~,tng1-~  搓  臊
 tsho2  草,k10,~稿,~-ko2  楚,k10  礎,k10
 tsho3  糙  錯,k00,~誤,~-gou7
 tsho5  鋤  磋  挫
-tshoh4  撮,一~,iau1-~  錯,~喉,~-au5
+tshoh4  撮,,一~,iau1-~  錯,,~喉,~-au5
 tshoh8  亍
 tshoinn1  仟  千,k00,~萬,~-buan7
 tshoinn2  筅
@@ -1808,7 +1808,7 @@ tshuan3  串,k10  闖  躥  篡  竄  纂  釧
 tshuan5  醛  全,k00  痊  栓  拴
 tshuang2  舛
 tshuann3  閂
-tshuat4  撮,~要,~-iau3  掇  綴  拙  茁
+tshuat4  撮,,~要,~-iau3  掇  綴  拙  茁
 tshue1  吹,k10  炊
 tshue2  髓
 tshue7  覓,k00
@@ -1898,16 +1898,16 @@ tuah4  喝
 tuan1  端,k00
 tuan3  鍛,k10  斷,k10
 tuan6  段  斷  篆
-tuann1  丹,牡~,bou2-~  單,k00,~獨,~-tok8
-tuann3  旦,花~,hue1-~
-tuann5  壇,天~,thinn1-~
+tuann1  丹,,牡~,bou2-~  單,k00,~獨,~-tok8
+tuann3  旦,,花~,hue1-~
+tuann5  壇,,天~,thinn1-~
 tuann6  惰,k10
-tuann7  彈,~琴,~-khim5
+tuann7  彈,,~琴,~-khim5
 tue3  綴,k10
 tue6  兌
 tui1  堆,k10  椎  追,k00
 tui3  對,k00
-tui5  捶  錘,~鍊,~-lien7
+tui5  捶  錘,,~鍊,~-lien7
 tui6  墮  墜
 tui7  隊,k00
 tun1  堆  墩  噸  蹲  敦  囤  屯  諄
@@ -1915,9 +1915,9 @@ tun2  盾  躉
 tun5  脣
 tun6  頓  鈍  遁
 tur1  豬,k10
-tur5  鋤,~頭,~-thau5  除,k00
+tur5  鋤,,~頭,~-thau5  除,k00
 tut8  術  凸  突,k00
-u1  呼  嗚  烏  污  捂  迂  盂  圩  竽  于,k22,單~,tuann1-~  吁,長~短嘆,chhiang5-~-to2-tham3
+u1  呼  嗚  烏  污  捂  迂  盂  圩  竽  于,k22,單~,tuann1-~  吁,,長~短嘆,chhiang5-~-to2-tham3
 u2  五,k22  雨,k22  禹  宇,k10  羽
 u3  塢  惡,k10,可~,kho2-~
 u5  吾  五,k22  娛,k10
@@ -1959,7 +1959,7 @@ ui7  胃,k10  位,k00
 uinn3  畏,k10
 un1  瘟  溫,k00  醞
 un2  穩,k00  蘊  䘼,k10  殞  韞
-un5  焚  耘  鄖  勻,k10  云,人~亦~,nang5-~-ek8-~
+un5  焚  耘  鄖  勻,k10  云,,人~亦~,nang5-~-ek8-~
 un6  隕
 un7  運,k00  韻
 ur1  于,k22,~右任,~-iu6-jim6  於,k00,屬~,sok8-~
@@ -1976,7 +1976,7 @@ zok8  辱  褥
 zong2  冗
 zong5  仍  戎  茸  絨
 zu2  乳  愈,k00,~來~好,~-lai5-~-ho2  癒,k10,病~,penn7-~
-zu5  茹  蠕  儒  孺  如,k00  榆  俞  愉  渝  逾|踰,~越,~-uat8  覦
+zu5  茹  蠕  儒  孺  如,k00  榆  俞  愉  渝  逾|踰,,~越,~-uat8  覦
 zu6  喻,k00  裕  籲,k10,呼~,hu1-~
 zuah8  熱,k01
 zuan2  轉,k22  纂

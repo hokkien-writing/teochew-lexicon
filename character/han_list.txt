@@ -76,10 +76,12 @@
 幫  pang1,k00
 梆  pang1
 榜  pang2,k10
-膀  phang5,,~胱,  pang2,k10,肩~,koinn1-~
+膀  phang5,,~胱,~-kuang1  pang2,k10,肩~,koinn1-~
+胱  kuang1
 綁  pang2,k10
 棒  pang6,k00
-磅  phang5,,~礴,  pong7
+磅  phang5,,~礴,~-poh8  pong7
+礴  poh8
 蚌  hong2
 鎊  pong7
 傍  phang5,k00
@@ -381,8 +383,9 @@
 吹  tshue1,k10
 炊  tshue1
 捶  tui5
-錘  thui5,,鐵~,thih4-~  tui5,,~鍊,
-垂  sui5,k10
+錘  thui5,,鐵~,thih4-~  tui5,,~鍊,~-lien7
+鍊  lien7
+垂  sui5,k10a
 春  tshun1,k00
 椿  tshun1
 醇  sun5
@@ -465,9 +468,11 @@
 憚  tan6
 淡  tann6,k10,~水,~-tsui2  tam6,,~泊,~-poh8
 誕  tan3
-彈  than5,k10,砲~,  tuann7,,~琴,~-khim5
+彈  than5,k10,砲~,phau3-~  tuann7,,~琴,~-khim5
+砲  phau3
 蛋  tan3
-擋  tang3,,抵~,ti2-~  tng3,,摒~,
+擋  tang3,,抵~,ti2-~  tng3,,摒~,pin2-~
+摒  pin2
 黨  tang2,k10
 檔  tang3
 刀  to1,k00
@@ -2470,6 +2475,7 @@
 嘶  soinn1  sur1
 思  sur1,k00  sur3  si1  sai1
 私  sur1,k00  sai1  si1
+俬  si1
 司  si1,k10  sur1
 絲  si1
 死  si2,k10
@@ -2979,8 +2985,8 @@
 緒  su2
 續  sok8,k00
 軒  hurn1
-喧  suan1  suang1
-宣  suan1,k10  suang1
+喧  suan1
+宣  suan1,k10
 懸  hien5  huinn5  kuinn5
 玄  hien5
 選  suan2
@@ -4116,7 +4122,7 @@
 併  peng6,k00,合~,hah8-peng6
 並  peng6,k00,~立,~-lip8,~且,~-chhia2
 拚  piann3,k00,拍~,phah4-~,~命,-~-miann7
-拼  pheng1,k10,~凑,
+拼  pheng1,k10,~湊,~-tshou3
 卜  pok4,,~卦,~-khue3
 蔔  pok8,,~蔔,~-pok8
 布  pou3,k10,~料,~-liau7
@@ -4178,7 +4184,8 @@
 衚  hu5,,~衕,~-thong5
 糊  hu5,k10,~塗,~-thu5  kou5,,麵線~,minn7-suann3-~
 餬  kou5,,麵線~,minn7-suann3-~
-譁|嘩  hua1,,諠~,
+譁|嘩  hua1,,諠~,suan1-~
+諠  suan1
 划  hua5,k10,~算,~-sng3
 劃  ueh8,k10,計~,koi3-~
 回  hue5,k00,~頭,~-thau5
@@ -4192,7 +4199,7 @@
 几  ki2,k10,茶~,te5-~
 幾  ki1,k00,~何,~-ho5,~乎,~-hu1  kui2,k01,~個人,~-kai5-nang5
 家  ke1,k00,人~,nang5-~  ka1,k01,~己,~-ki7  khia1,k10,私~,sai1-~
-傢  ke1,k10,~俬,
+傢  ke1,k10,~俬,-~si1
 奸  kan1,,~臣,~-chhin5
 姦  kan1,,強~,khiang5-~
 僵  kiang1,,~硬,~-ngenn6
@@ -4205,7 +4212,8 @@
 儘  chin6,k10,~可能,~-kho2-leng5
 徑  kenn3,,路~,lou7-~,半~,puann3-~
 逕  kenn3,,~入,~-jip8
-据  kur5,,拮~,
+据  kur5,,拮~,khiet4-~
+据  khiet4
 據  kur6,k00,根~,kurn1-~
 卷  kng2,k10,試~,chhi3-~
 捲  kuan6,k10,~煎,席~,~-tsuann1-,-chhieh8-~
@@ -4318,7 +4326,8 @@
 須  su1,k00,必~,pit4-~
 鬚  chhiu1,,鬍~,hou5-~
 旋  suan5,k00,~轉,~-zuan2,黑~風,hek4-~-hong1  suan6,k01,~尿,~-jie7  tsng7,k22
-咽  in1,,~喉,~-au5  it4,,哽~,
+咽  in1,,~喉,~-au5  it4,,哽~,kenn2-~
+哽  kenn2
 嚥  ien3,,吞~,thun1-~
 佣  iong5,k10,~金,~-kim1
 傭  iong5,,~人,~-nang5

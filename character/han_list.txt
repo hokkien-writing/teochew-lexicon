@@ -2054,7 +2054,8 @@
 漆  tshak4
 柒  chhit4
 沏  chhiet4
-其  khi5,k00  kai7,k01
+其  khi5,k00  kai5,k01
+个  kai5,k00
 棋  ki5
 奇  khi5,k00  khia1  ki1
 歧  chinn1  khi5
@@ -4102,7 +4103,7 @@
 齬  tshok4
 齷  ok4
 龕  kham1
-𠁞  boi6,k00
+𠀾|𠁞  boi6,k00
 𠱀  phueh8,k10
 佮  kah4,k00
 挨  oi1,k10,~着,~-tieh8  ai1,k12,~打,~-ta2

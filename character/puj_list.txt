@@ -1001,7 +1001,7 @@ mut8  沒,k10,沈~,tim5~
 na1  南
 na2  拿  哪,k21  那,k21
 na5  藍  籃  林  哪,k22
-na7  哪,k22
+na7  哪,k22  若
 nah4  垃,k10
 nai2  乃  奶,k10
 nai6  賴,k10  氖  乃  耐,k00  奈,k10  癩  籟
@@ -1078,6 +1078,7 @@ niau3  皺
 nie2  兩,k02
 nienn5  糧,k10  梁  粱  量,k02  娘,k00
 nienn7  讓
+nih4  𥍉,,~目,~-mak8
 nin2  恁,k00
 niu2  扭  鈕  紐  妞
 niu6  謬

@@ -1864,6 +1864,7 @@
 鬧  nau6,k00  nau7  lau7
 淖  tsau6  chhieh4
 呢  ni1,k00  ni5,,~喃,~lam5
+𥍉  nih4,,~目,~-mak8
 餒  nui2
 內  lai6,k00
 嫩  lun3
@@ -2253,7 +2254,7 @@
 銳  zue6
 閏  zun7
 潤  zun6,k10
-若  jiak8,k00  jieh8,k01  je2
+若  jiak8,k00  jieh8,k01  je2  na7
 弱  jiak8,k00
 撒  suah4  sak4
 灑  sai3  soi2

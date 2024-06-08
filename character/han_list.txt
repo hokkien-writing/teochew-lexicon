@@ -3664,7 +3664,7 @@
 咧  lih8
 咪  mi1
 唔  m6,k00
-囉  lo1
+囉  lo5,k00
 嘏  kou2
 噩  ngak8
 噢  o1

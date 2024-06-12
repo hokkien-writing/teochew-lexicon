@@ -370,7 +370,7 @@
 川  tshuan1,k10,山~,suann1-~
 穿  tshuan1,k10,~鑿,~-tshak8  tshng1,,~耳,~-hinn6  chheng7,k00,~衫褲,~-sann1-khou3
 椽  uan5
-傳  thuan5,k10,~授,~-siu6  tng7,,古~,ku2-~
+傳  thuan5,k10,~授,~-siu6  tng7,,古~,kou2-~
 船  tsun5,k10
 喘  tshuan2
 串  tshuan3,k10
@@ -450,7 +450,7 @@
 戴  tai3,k11,擁~,iong3-~  ti3,,~帽,~-bo7  to3
 帶  tua3,k00
 殆  tai6
-代  thoi3,k00,~理,~-li2  to7,k11,古~,ku2-~  tai3,k10,交~,kau1-~  thoih4,,~職,~-cheh4
+代  thoi3,k00,~理,~-li2  to7,k11,古~,kou2-~  tai3,k10,交~,kau1-~  thoih4,,~職,~-cheh4
 貸  tai3,k10
 袋  to7,k00
 待  thai6,k00

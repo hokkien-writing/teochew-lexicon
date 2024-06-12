@@ -814,7 +814,7 @@ kurn6  近,k00
 kut4  骨,k00
 kut8  猾  滑  掘
 la1  垃  拉  喇  啦,k00
-lah8  拉,k22,亞伯~罕,a1-pek4-han2  蠟  臘  辣  獵  曆,k12,~日,~-jit8
+lah8  拉,k22,亞伯~罕,a1-pek4-~-han2  蠟  臘  辣  獵  曆,k12,~日,~-jit8
 lai3  來  賚
 lai5  萊  來,k00  梨,k10  狸
 lai6  內,k00  裏|裡,k00,~底,~-toi2,~衣,~-i1

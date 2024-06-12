@@ -1523,7 +1523,6 @@
 漓  li5
 理  li2,k00
 李  li2,k10
-裏  li2,k10  lai6
 鯉  li2
 禮  loi2,k00  li2
 莉  li6
@@ -1745,7 +1744,7 @@
 酶  bue5
 黴  bue5
 煤  bue5
-沒  mut8,k10,沈~,tim5~  mok8
+沒  mut8,k10,沈~,tim5-~  mok8
 眉  bai5,k10
 媒  bue5,k10
 鎂  mui2
@@ -4232,7 +4231,7 @@
 累  lui6,k00,勞~,lau5-~,拖~,thua1-~  lui2,,~積,~-cheh4
 纍  lui2,k11,罪惡~~,tsue6-ak4-~-~
 里  li2,k10,公~,kong1-~,鄰~,lin5-~
-裏|裡  lai6,k00,~底,~-toi2,~衣,~-i1
+裏|裡  li2,k10  lai6,k00,~底,~-toi2,~衣,~-i1
 栗  lak8,,猴~,kau5-~
 慄  lak8  liak8
 歷  leh8,k10,經~,keng1-~
@@ -4336,7 +4335,7 @@
 湧|涌  iong3,k10,~現,~-hin7  eng2,k10,海~,hai2-~
 游  iu5,k10,~泳,~-iong3
 遊  iu5,k10,~戲,~-hi3
-于  ur1,k22,~右任,~-iu6-jim6  u1,k22,單~,tuann1-~
+于  ur1,k22,~右任,~-iu6-jim6  u1,k22,單~,sien5-~
 於  ur1,k00,屬~,sok8-~
 余  ur5,k22
 餘  ur5,k00,剩~,sin7-~,~數,~-siau3

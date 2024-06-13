@@ -4337,7 +4337,7 @@
 湧|涌  iong3,k10,~現,~-hin7  eng2,k10,海~,hai2-~
 游  iu5,k10,~泳,~-iong3
 遊  iu5,k10,~戲,~-hi3
-于  ur1,k22,~右任,~-iu6-jim6  u1,k22,單~,sien5-~
+于  ur1,k22,~右任,~ iu6-jim6  u1,k22,單~,sien5-~
 於  ur1,k00,屬~,sok8-~
 余  ur5,k22
 餘  ur5,k00,剩~,sin7-~,~數,~-siau3

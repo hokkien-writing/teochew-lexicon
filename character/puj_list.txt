@@ -568,6 +568,7 @@ khai3  概,k10  溉  慨  暨
 khak4  嘎  霍  殼  榷  確,k00  恪  麴,,鼠~草,tshur2-~-tshau2
 kham1  堪  勘  湛  戡  龕
 kham2  檻  坎  砍  嵌
+kham5  嵁,,~硈,~-khiat8
 khan1  刊,k10  牽  纖
 khan3  看
 khan5  刊
@@ -601,6 +602,7 @@ khiam5  緘  鉗
 khiam6  儉
 khiang3  勥,k10
 khiang5  強,k00  襁
+khiat8  硈,,嵁~,kham5-~
 khiau1  橇  敲
 khiau2  巧
 khiau3  翹  竅

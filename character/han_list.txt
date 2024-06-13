@@ -4402,3 +4402,5 @@
 皂  tsau6
 啱  ngam1
 鷸  lut8
+嵁  kham5,,~硈,~-khiat8
+硈  khiat8,,嵁~,kham5-~

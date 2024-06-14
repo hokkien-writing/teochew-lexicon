@@ -284,7 +284,7 @@
 鈔  tshau1,k10
 朝  chiau1,k10,今~,kim1-~  chhiau5,,~代,~-to7
 嘲  chhiau2
-潮  tie5,k10
+潮  tie5,k10,~州,~-chiu
 巢  tshau5
 吵  tshau1
 炒  tsha2
@@ -2172,6 +2172,7 @@
 渠  khur5,k10
 取  tshu2,k00
 娶  tshua7,k10  tshu2
+𤆬  tshua7
 齲  kur2
 趣  tshu3,k00
 去  khur3,k00
@@ -2637,7 +2638,7 @@
 亭  teng5
 庭  theng5  tiann5
 艇  theng2
-通  thong1,k00  thang1
+通  thong1,k00,~身,~-sin1  thang1
 桐  thong5  thang5
 酮  thong5
 瞳  thong5
@@ -2734,6 +2735,7 @@
 萎  ui2
 委  ui2
 偉  ui2,k10
+煒  ui2,k10
 僞  nguinn6
 尾  bue2,k00
 緯  ui2
@@ -4398,7 +4400,7 @@
 挼  zue5
 刣  thai5,k10
 疸  tan2
-墘  kinn5,k00
+墘  kinn5,k00,海~,hai2-~
 皂  tsau6
 啱  ngam1
 鷸  lut8

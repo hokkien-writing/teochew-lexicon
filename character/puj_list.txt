@@ -720,7 +720,7 @@ kim3  禁,k10
 kim6  妗
 kin2  緊,k00
 kinn3  見,k01
-kinn5  舷  墘,k00
+kinn5  舷  墘,k00,海~,hai2-~
 kiok4  鞠  粥
 kiong1  恭,k10  躬  共  穹
 kiong2  拱
@@ -1609,7 +1609,7 @@ thoi3  代,k00,~理,~-li2  替,k00
 thoih4  代,,~職,~-cheh4
 thoinn2  睇,k00
 thok4  禿
-thong1  通,k00
+thong1  通,k00,~身,~-sin1
 thong2  寵  捅  統,k00
 thong3  痛
 thong5  幢,,~幡,-~huan1  侗  恫  洞  桐  酮  瞳  彤  童,k10  仝  衕,,衚~,hu5-~
@@ -1657,7 +1657,7 @@ tiau3  吊,k10,~燈,~-teng1  弔,k11,憑~,pheng5-~
 tiau5  條,k00
 tiau6  兆,k10  召,k10
 tiau7  掉,k00  調,,聲~,siann1-~
-tie5  潮,k10
+tie5  潮,k10,~州,~-chiu
 tieh8  着,k00
 tien1  顛,,~簸,~-pua3,~倒,~-tau2  滇  珍,k10  巔,k10
 tien2  碘  典,k10  碾  腆  輾  展,k00
@@ -1802,7 +1802,7 @@ tshu3  處,k10,四~,si3-~  措,k10  趣,k00  厝,k00
 tshu5  滁
 tshua2  歪
 tshua3  蔡
-tshua7  娶,k10
+tshua7  娶,k10  𤆬
 tshuan1  川,k10,山~,suann1-~  穿,k10,~鑿,~-tshak8  皴
 tshuan2  喘
 tshuan3  串,k10  闖  躥  篡  竄  纂  釧
@@ -1952,7 +1952,7 @@ ue7  畫,k10  話,k00
 ueh4  抉
 ueh8  畫  穢  劃,k10,計~,koi3-~
 ui1  威,k10  醫,k10  衣
-ui2  韋  葦  萎  委  偉,k10  緯  渭  韙
+ui2  韋  葦  萎  委  偉,k10  煒,k10  緯  渭  韙
 ui3  謂
 ui5  韋  違  桅  圍,k10  爲,k00
 ui6  謂

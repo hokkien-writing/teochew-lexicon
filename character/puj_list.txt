@@ -1657,7 +1657,7 @@ tiau3  吊,k10,~燈,~-teng1  弔,k11,憑~,pheng5-~
 tiau5  條,k00
 tiau6  兆,k10  召,k10
 tiau7  掉,k00  調,,聲~,siann1-~
-tie5  潮,k10,~州,~-chiu
+tie5  潮,k10,~州,~-chiu1
 tieh8  着,k00
 tien1  顛,,~簸,~-pua3,~倒,~-tau2  滇  珍,k10  巔,k10
 tien2  碘  典,k10  碾  腆  輾  展,k00

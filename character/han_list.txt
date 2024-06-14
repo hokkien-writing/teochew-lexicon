@@ -284,7 +284,7 @@
 鈔  tshau1,k10
 朝  chiau1,k10,今~,kim1-~  chhiau5,,~代,~-to7
 嘲  chhiau2
-潮  tie5,k10,~州,~-chiu
+潮  tie5,k10,~州,~-chiu1
 巢  tshau5
 吵  tshau1
 炒  tsha2

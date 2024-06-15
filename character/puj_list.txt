@@ -1017,7 +1017,6 @@ nau7  鬧
 ne2  冷
 nek8  匿  溺  肉,k00
 ng1  秧
-ng2  尹
 ng5  黃,k00  磺
 ngai5  皚  呆,,癡~,chhi1-~  崖  涯,k10  捱,k10,~苦,~-khou2
 ngai6  艾,,自怨自~,tsur6-uan3-tsur6-~  岸
@@ -1324,7 +1323,7 @@ sai6  柿
 sak4  撒  薩  塞  剎  蝨
 sam1  三,k01  杉
 san1  三  珊  山  刪,k00  柵
-san2  瘦
+san2  瘦  㾪
 san3  疝  霰
 sang1  雙,k00  鬆,k22
 sang2  嗓  㾪,k10
@@ -1437,8 +1436,7 @@ song3  宋
 song5  嵩  松,,~樹,~-chhiu7
 song6  頌  訟  誦
 sou1  酥  蘇,k11,~州,~-chiu1  甦,k10,~醒,~-chhenn2
-sou2  艘  擻
-sou23  瘦
+sou2  瘦  艘  擻
 su1  抒  輸,k10  舒,k10  需,k00  須,k00,必~,pit4-~
 su2  暑,k10  曙  署  黍  墅  緒
 su3  庶  數  恕  素  塑  訴,k00  絮
@@ -1970,7 +1968,7 @@ ur5  輿  予  余,k22  餘,k00,剩~,sin7-~,~數,~-siau3
 ur6  與,k12  譽  預  豫
 ur7  與,k22
 urn1  恩,k10
-urn2  隱
+urn2  尹  隱
 ut4  蔚  尉  斡  兀  熨  鬱,k10,抑~,ak4-~
 ut8  夗,k01
 zok8  辱  褥

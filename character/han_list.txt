@@ -2415,7 +2415,8 @@
 授  siu6
 售  chhiu5
 受  siu6,k00
-瘦  sou23  san2
+瘦  sou2  san2
+㾪  san2
 獸  siu3
 蔬  so1,k10
 樞  khu1
@@ -3176,7 +3177,7 @@
 淫  im5
 寅  in5
 飲  im2,k10  am2,k11
-尹  ng2
+尹  urn2
 引  in2,k00
 隱  in2,k10  urn2
 印  in3,k10

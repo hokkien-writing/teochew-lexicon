@@ -184,7 +184,7 @@ chienn1  漿  樟  章,k11
 chienn2  蔣  槳  掌,k00
 chienn3  醬
 chienn6  上,k01  癢
-chiet  節,,失~,sit-~
+chiet  節,,失~,sit4-~
 chiet4  即,k00  浙
 chih4  接,k00  折,k00,拍~,phah4-~  摺,k10,存~,tshun5-~,~衫褲,~ sann1-khou3
 chih8  舌,k10  折,,拗~,a2-~,~腰,~-ie1,~服,~-hok8
@@ -281,7 +281,7 @@ hek8  乏
 heng1  哼  亨  興,k10  胸,k10  匈  馨
 heng3  興
 heng5  恆  王  刑  型,k10  形,k00  行,k10  雄
-heng6  行,k11  杏  孕  幸,k00,~災樂禍,~-tsai1-lak8-hua6,寵~,thong2-~  倖,k10,僥~,hiau-~,~存,~-tshun5
+heng6  行,k11  杏  孕  幸,k00,~災樂禍,~-tsai1-lak8-hua6,寵~,thong2-~  倖,k10,僥~,hiau1-~,~存,~-tshun5
 hi1  熙  嘻  犧  稀  希,k00  烯  頤  兮  熹  禧  羲
 hi2  喜,k00
 hi3  戲,k10
@@ -716,7 +716,7 @@ kie3  叫,k00
 kie5  橋,k10  茄
 kie7  轎
 kieh4  腳  角
-kien1  堅,k10  捐  鵑  娟  慳,,~-lien6,~吝
+kien1  堅,k10  捐  鵑  娟  慳,,~吝,~-lien6
 kien3  見,k00  建  絹
 kien6  鍵,k10  健,k10  建,k00  毽  犍
 kienn1  薑,,~薯,~-tsur5

@@ -1235,7 +1235,7 @@
 階  kai1
 截  tsoih8
 劫  kiap4
-節  tsat4,k00  tsoih4,k01  chiet,,失~,sit-~
+節  tsat4,k00  tsoih4,k01  chiet,,失~,sit4-~
 桔  kit4
 傑  kiet8,k10
 捷  chiap8
@@ -4394,7 +4394,7 @@
 准  tsun2,k11,~許,~-hur2
 準  tsun2,k10,標~,phiau1-~,~備,~-pi6
 幸  heng6,k00,~災樂禍,~-tsai1-lak8-hua6,寵~,thong2-~
-倖  heng6,k10,僥~,hiau-~,~存,~-tshun5
+倖  heng6,k10,僥~,hiau1-~,~存,~-tshun5
 斫|斲  tok4,,~斷,~-tng6
 啜  tshueh4,k10
 厝  tshu3,k00
@@ -4418,7 +4418,7 @@
 壅  eng3
 縖  ha5
 寮  liau5
-慳  kien1,,~-lien6,~吝
+慳  kien1,,~吝,~-lien6
 嗇  siap4
 攲  khi1
 㾀  khiap4

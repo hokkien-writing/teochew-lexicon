@@ -184,8 +184,7 @@ chienn1  漿  樟  章,k11
 chienn2  蔣  槳  掌,k00
 chienn3  醬
 chienn6  上,k01  癢
-chiet  節,,失~,sit4-~
-chiet4  即,k00  浙
+chiet4  即,k00  節,,失~,sit4-~  浙
 chih4  接,k00  折,k00,拍~,phah4-~  摺,k10,存~,tshun5-~,~衫褲,~ sann1-khou3
 chih8  舌,k10  折,,拗~,a2-~,~腰,~-ie1,~服,~-hok8
 chim1  斟

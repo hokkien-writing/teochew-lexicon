@@ -490,7 +490,7 @@
 盜  tau6
 德  tek4
 得  tit4,k00
-的  tek8,k10,目~,mak8-~  ti1
+的  tek8,k10,目~,mak8-~  ti1  kai5,k00
 蹬  teng1
 燈  teng1,k10
 登  teng1,k00
@@ -705,7 +705,7 @@
 蜂  phang1,k10
 峯  hong1
 鋒  hong1
-風  hong1,k10,威~,ui1-~  huang1,k10,~颱,~-thai
+風  hong1,k10,威~,ui1-~  huang1,k10,~颱,~-thai1
 瘋  huang1
 烽  hong1
 逢  hong5,k10

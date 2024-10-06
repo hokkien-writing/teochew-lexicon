@@ -1563,7 +1563,7 @@
 梁  nienn5  liang5
 粱  nienn5  liang5
 良  liang5,k00
-兩  liang2,k00  no6,k01  nie2,k02
+兩  liang2,k00  no6,k01
 輛  liang2
 量  liang6,k00  liang5,k01  nienn5,k02
 晾  liang6
@@ -1697,7 +1697,7 @@
 洛  lok8
 駱  loh8  lok8
 絡  lok8
-媽  ma1,k00  ma2,k01,~祖,~-tsou2
+媽  ma1,k00  ma2,k01,~祖,~-tsou2  mann2,,~祖,~-tsou2
 瑪  ma2
 碼  be2,k00  ma2
 螞  ma2
@@ -1710,7 +1710,7 @@
 麥  beh8
 賣  boi7,k01
 邁  mai6
-脈  meh8
+脈  meh8  mehnn8
 瞞  muann5
 饅  buan6
 蠻  man5
@@ -1727,9 +1727,9 @@
 忙  mang5,k00
 莽  mang2
 貓  ngiau1,k00  mau1,k22
-茅  mau5  mo1
+茅  mau5  mo1  monn1
 錨  miau5
-毛  mo5,k00  mau5
+毛  mo5,k00  mau5  monn5
 矛  mau5
 鉚  bau2
 卯  bau2
@@ -1769,7 +1769,7 @@
 眯  mi1  mi5,k22
 醚  mi5
 靡  mi2
-糜  muenn5,k00  mi5
+糜  muenn5,k00  mi5  minn5
 迷  mi5,k00
 謎  mi6
 米  bi2,k00
@@ -1864,7 +1864,7 @@
 惱  nau2  lou2  lo2
 鬧  nau6,k00  nau7  lau7
 淖  tsau6  chhieh4
-呢  ni1,k00  ni5,,~喃,~lam5  ne7
+呢  ni1,k00  ni5,,~喃,~lam5  ne7  ninn5
 𥍉  nih4,,~目,~-mak8
 餒  nui2
 內  lai6,k00
@@ -2108,7 +2108,7 @@
 嗆  chhiang1  chhiang2
 腔  khienn1,k00
 羌  kiang1
-牆  chhienn5,k00
+牆|墻  chhienn5,k00
 薔  chhiang5
 強  khiang5,k00   kiang2
 勥  khiang3,k10
@@ -2142,12 +2142,12 @@
 禽  khim5,k10
 寢  chhim2
 沁  chhim3  sim2
-青  chhenn1,k00
+青|靑  chhenn1,k00
 輕  khin1,k00
 氫  khin1
 傾  khuan1  khuan2
 卿  kheng1
-清  chheng1,k00
+清|淸  chheng1,k00
 擎  kheng5  khia5
 晴  chenn5,k00
 氰  chhenn1
@@ -2800,7 +2800,7 @@
 霧  bu7
 晤  ngo6
 物  mueh8,k00
-勿  mai3,k00  but4
+勿  mai3,k00  but4  mainn3
 務  bu6,k10
 悟  ngo6
 誤  gou7,k10
@@ -3337,7 +3337,7 @@
 噪  tshau3
 造  tsau6,k00  tso6
 皁  tsau6
-竈  tsau3
+灶|竈  tsau3
 燥  tshau3
 責  cheh4
 擇  toh8,k10
@@ -4462,3 +4462,34 @@
 茭  kau6,,蓮~,noinn5-~
 朶  to5,,一~,chek8-~
 塚  thong2,,義~,ngi6-~
+㧕  liu2
+㶩  tim1
+䌜  nng5
+䭕  chiann2
+両  nie2  nienn2
+儎  tsai7
+冲  tshong1
+喙  tshui3
+嗶  pi1
+屐  kiah8
+愩  kong3
+朥  la5
+枋  pang1
+椗  teng3
+欉  tsang5
+煠  sah8
+癲  siou2
+箸  tur7
+緄  kun2
+菰  kou1
+薟  hiam1
+鉎  senn1
+銼  tsho3
+鏇  suan7
+鑤  pau3
+頷  am6
+鮡  thiou5
+𠕆  toinn7
+𢲵  chhiou1
+𤇢  pek4
+𦈢  hui5

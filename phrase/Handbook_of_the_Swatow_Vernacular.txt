@@ -693,7 +693,7 @@
 念路, liam7-lou7, , k10, 汕頭話讀本
 忽一下叫, huh4--che7-kie3, , k10, 汕頭話讀本
 怎呢, tso3-ninn5, , k10, 汕頭話讀本
-怎呢食, tso3-ninn5-chiah?8, , k10, 汕頭話讀本
+怎呢食, tso3-ninn5-chiah8, , k10, 汕頭話讀本
 思量成, sur1-nienn5-seng5, , k10, 汕頭話讀本
 恬恬, tiam7-tiam7, , k10, 汕頭話讀本
 恭喜, kiong1-hi2, , k10, 汕頭話讀本
@@ -2115,7 +2115,7 @@
 雞毛筅, koi1-monn5-tshoinn2, , k10, 汕頭話讀本
 雞翁, koi1-ang1, , k10, 汕頭話讀本
 雞鴨, koi1-ah4, , k10, 汕頭話讀本
-離別, li5-piet5, , k10, 汕頭話讀本
+離別, li5-piet8, , k10, 汕頭話讀本
 離經, li5-keng1, , k10, 汕頭話讀本
 難趁, oh4-than3, , k10, 汕頭話讀本
 難醫, oh4-ui1, , k10, 汕頭話讀本
@@ -2232,7 +2232,7 @@
 高麗菜, ko1-le6-tshai3, , k10, 汕頭話讀本
 鬥仇, tou3-chhiu5, , k10, 汕頭話讀本
 鬥恨, tou3-huru6, , k10, 汕頭話讀本
-鬧熱, lau6-jiet.8, , k10, 汕頭話讀本
+鬧熱, lau6-jiet8, , k10, 汕頭話讀本
 魔鬼, monn3-kui2, , k10, 汕頭話讀本
 魚卵, hur5-nng6, , k10, 汕頭話讀本
 魚囝, hur5-kainn2, , k10, 汕頭話讀本

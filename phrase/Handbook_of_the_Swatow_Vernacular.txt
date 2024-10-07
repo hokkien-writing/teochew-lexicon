@@ -626,7 +626,7 @@
 字白, ji5-peh8, , k10, 汕頭話讀本
 字號, ji7-ho7, , k10, 汕頭話讀本
 孥囝, nounn5-kiann2, , k10, 汕頭話讀本
-孥囝款, nounn1-kiann2-khuan2, , k10, 汕頭話讀本
+孥囝款, nounn5-kiann2-khuan2, , k10, 汕頭話讀本
 孫婦, sun1-pu6, , k10, 汕頭話讀本
 孵雞囝, pu7-koi1-kiann2, , k10, 汕頭話讀本
 學古, oh8-kou2, , k10, 汕頭話讀本

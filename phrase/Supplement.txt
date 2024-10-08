@@ -13,4 +13,4 @@
 雜疾, tsap8-chip8, 不舒坦, k00,
 頷幔, am6-muann1, 圍巾, k10,
 買配, bue2-phue3, 買菜, k00,
-車租, chia1-tsou1, 車費, k00,
+車租, chhia1-tsou1, 車費, k00,

@@ -810,7 +810,7 @@
 閣  koh4
 隔  keh4,k00
 鉻  kak4
-個  kai5,k00  ko6
+個|个  kai5,k00  ko6
 各  kak4,k00
 給  kip4,k10
 根  kurn1,k00
@@ -2837,7 +2837,7 @@
 洗  soi2,k00  sien2
 隙  khiah4
 戲  hi3,k10
-細  soi3,k00
+細  soi3,k00  soih4
 瞎  hak4
 蝦  he5,k10
 匣  ap8

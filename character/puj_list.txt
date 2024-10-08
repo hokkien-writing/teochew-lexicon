@@ -1480,7 +1480,7 @@ so3  疏
 soh4  索,k11  雪,k10
 soi2  灑  洗,k00
 soi3  細,k00
-soih4  細  襭,,使~,sai2-~
+soih4  細  襭
 soinn1  嘶  先,k00
 sok4  寂  叔  淑  束,k00  數,k21  漱  速,k00  塑  肅  縮,k10  索,k10  夙
 sok8  贖  孰  屬,k00  俗  續,k00

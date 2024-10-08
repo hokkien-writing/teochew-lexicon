@@ -1675,7 +1675,7 @@
 攣  luan5
 孿  luan5
 灤  luan5
-卵  nng6,k00  lang6
+卵  nng6,k00  lan6
 亂  luan6,k00  theng3,,~做,~-tso3
 掠  liah8
 略  liak8,k00
@@ -2505,7 +2505,7 @@
 嗽  sau3
 酥  sou1
 俗  sok8
-素  su3
+素  su3  sou7
 速  sok4,k00
 粟  chhek4
 塑  su3  suak4  sok4
@@ -4245,7 +4245,7 @@
 曆  leh8,k11,農~,long5-~  lah8,k12,~日,~-jit8
 帘  liam5,,酒~,chiu2-~
 簾  liam5,,~簾,~-liam5
-了  liou2,k10,~斷,~-tuan6  liou3,k00,到~,kau3 ~
+了  liou2,k10,~斷,~-tuan6  liou3,k00,到~,kau3-~  lo7
 瞭  liau2,k10,明~,meng5-~,~解,~-koi3  liau5,,~望,~-mo7
 鹵  lou2,,~鹽,~-iam5
 滷  lou2,k10,~卵,~-nng6
@@ -4510,3 +4510,8 @@
 吓  he6
 篋  kiap4
 徛  khia6
+岫  siu7
+鎏  liu7
+鎦  liu7
+𢭪  khieh4
+疕  phi2

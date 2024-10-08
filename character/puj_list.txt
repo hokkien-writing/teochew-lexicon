@@ -622,6 +622,7 @@ khiau1  橇  敲
 khiau2  巧
 khiau3  翹  竅
 khiau5  喬  僑  翹  蕎
+khieh4  𢭪
 khieh8  挈
 khien1  虔
 khien2  遣  譴  犬
@@ -851,11 +852,11 @@ lam5  藍,k00  婪  淋  南,k00  男,k00  襤
 lam6  濫
 lan2  懶
 lan5  欄  攔  闌  蘭,k10  瀾  讕  鱗  零  難,k00,困~,khun3-~
-lan6  爛
+lan6  爛  卵
 lan7  難,k01,逃~,to5-~
 lang2  囊
 lang5  琅  榔  狼,k10  廊  郎,k10  聾  籠  膿  濃  稂  踉
-lang6  朗,k10  浪,k00  卵  踉
+lang6  朗,k10  浪,k00  踉
 lat8  力,k00
 lau1  撈
 lau2  老  佬  姥  簍
@@ -900,15 +901,16 @@ lim5  琳  林,k10  霖  臨,k00  淋
 lin2  輦
 lin5  聯  磷  鄰  鱗  轔  麟
 liou2  了,k10,~斷,~-tuan6
-liou3  了,k00,到~,kau3 ~
+liou3  了,k00,到~,kau3-~
 lip8  立,k00
 liu1  溜
 liu2  柳  鈕  㧕
 liu3  溜  餾
 liu5  琉  榴  硫  留,k00  瘤  流,k00  六
+liu7  鎏  鎦
 lo2  裹  顆  潦  裸  腦  惱
 lo5  牢  蘿  螺  羅,k00  邏  鑼  籮  騾  囉,k00  醪  榔
-lo7  咯  狼,,~犺,~-ho1
+lo7  咯  狼,,~犺,~-ho1  了
 loh8  落,k00  駱
 loi2  禮,k00
 loi5  犁  黎
@@ -1220,7 +1222,7 @@ pheng3  騁  聘,k10
 pheng5  砰  抨  硼  朋,k00  坪  萍  平,k00  憑,k00  評,k00  怦
 phenn5  澎  彭  膨  平
 phi1  披
-phi2  否  痞  丕
+phi2  否  痞  丕  疕
 phi3  鄙  譬,k10
 phi5  脾  疲  貔  陂
 phi6  屁
@@ -1468,7 +1470,7 @@ siu2  首,k10  守,k10  黍  帚
 siu3  獸  宿  鏽  秀,k10  袖  繡  狩
 siu5  泅
 siu6  授  受,k00
-siu7  壽
+siu7  壽  岫
 sng1  桑  喪  霜  酸,k10
 sng2  耍,k10
 sng3  蒜  算,k00
@@ -1489,6 +1491,7 @@ song5  嵩  松,,~樹,~-chhiu7
 song6  頌  訟  誦
 sou1  酥  蘇,k11,~州,~-chiu1  甦,k10,~醒,~-chhenn2
 sou2  瘦  艘  擻
+sou7  素
 su1  抒  輸,k10  舒,k10  需,k00  須,k00,必~,pit4-~
 su2  暑,k10  曙  署  黍  墅  緒
 su3  庶  數  恕  素  塑  訴,k00  絮

@@ -841,7 +841,6 @@
 手腕, chhiu2-uan2, 手腕, k10, 汕頭話讀本
 才情, tshai5-chheng5, 才情, k10, 汕頭話讀本
 打扮, ta2-pan3, 打扮, k10, 汕頭話讀本
-打拍, phah4-phok8, 鼓掌, k00, 汕頭話讀本
 批信, phoi1-sin3, 信件, k00, 汕頭話讀本
 批擔, phoi1-tann1, 擔子, k10, 汕頭話讀本
 批皮, phoi1-phue5, 信封, k10, 汕頭話讀本
@@ -953,7 +952,7 @@
 擂腰, tui5-ie1, 捶背, k10, 汕頭話讀本
 擋毋條, tong3-m6-tiou5, 受不了, k10, 汕頭話讀本
 操練, tshau1-lien7, 操練, k10, 汕頭話讀本
-擔承, tam1-seng5, 承擔, k00, 汕頭話讀本
+擔承, tam1-seng5, 承擔|保釋, k00, 汕頭話讀本
 擔擔, tann1-tann3, 擔擔子, k10, 汕頭話讀本
 擔枷, tann1-ke5, 戴上枷鎖, k00, 汕頭話讀本
 擔認, tam1-jin7, 承擔, k10, 汕頭話讀本
@@ -1113,10 +1112,10 @@
 染的布, ninn2--kai5-pou3, 染的布, k10, 汕頭話讀本
 查睇, chhe5-thoinn2, 查看, k10, 汕頭話讀本
 柴杮抽, tsha5-phue3-thiu1, 柴杮抽, k10, 汕頭話讀本
-柴梳, tsha1-siu1, 柴梳, k10, 汕頭話讀本
-柴槌, tsha5-thui5, 柴棒, k10, 汕頭話讀本
-柴目, tsha5-mak8, 柴眼, k10, 汕頭話讀本
-柴秤, tsha5-chhin3, 柴秤, k10, 汕頭話讀本
+柴梳, tsha1-siu1, 木梳, k10, 汕頭話讀本
+柴槌, tsha5-thui5, 棍棒, k10, 汕頭話讀本
+柴目, tsha5-mak8, 木節, k10, 汕頭話讀本
+柴秤, tsha5-chhin3, 木秤, k10, 汕頭話讀本
 柴貢, tsha5-kong3, 愚蠢, k10, 汕頭話讀本
 柴鞋, tsha5-oi5, 木屐, k10, 汕頭話讀本
 柴頭, tsha5-thau5, 木頭人, k00, 汕頭話讀本
@@ -2045,7 +2044,7 @@
 規條, kui1-tiou5, 法律, k10, 汕頭話讀本
 規矩, kui1-kur2, 有禮貌, k00, 汕頭話讀本
 覓着, tshue7--tieh8, 找到, k10, 汕頭話讀本
-親像, chhin1-chhienn6, 相似, k00, 汕頭話讀本
+親像, chhin1-chhienn6, 好像|相似, k00, 汕頭話讀本
 親儂, chhin1-nang5, 親人, k10, 汕頭話讀本
 親姆, chhenn1-m2, 親家母, k10, 汕頭話讀本
 親家, chhin1-ke1, 親家, k10, 汕頭話讀本

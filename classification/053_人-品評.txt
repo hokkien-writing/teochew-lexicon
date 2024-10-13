@@ -35,13 +35,13 @@
 面䩍(U+4A4D)䩍青, min7-liau1-liau1-chenn1, 臉色蒼白, k00, 考釋
 䶕(U+4D95)牙, ba3-ge5, 齙牙, k10, 考釋
 條條, tiau5-tiau5, 井然, k00, 考釋
-條直, tiau5-tit8, 有條理, k00, 考釋
+條直, tiau5-tit8, 有條理|穩妥, k00, 考釋
 垃圾相, nah4-sap4-sienn3, 不乾不淨, k00, 考釋
 邋遢, lap4-thap4, 邋遢, k00, 考釋
 健, kiann7, 健壯, k00, 考釋
 後生, hau6-senn1, 年輕, k00, 考釋
 花貓, hue1-niaunn1, 花言巧語, k10, 汕頭話讀本
-花嘴, hue1-tshui3, 花言巧語, k10, 考釋
+花喙|花嘴, hue1-tshui3, 花言巧語, k10, 考釋
 本等, pun2-teng2, 本分, k00, 考釋
 痞囝, phai2-kiann2, 痞子, k00, 考釋
 刁厥, tiau1-khiak4, 刁潑, k00, 考釋
@@ -49,5 +49,4 @@
 跳脫, thiau3-thut4, 脫俗, k00, 考釋
 無中用, bo5-teng3-eng7, 不中用, k00, 考釋
 闊達, khuah4-tak8, (心胸)寬廣, k00,
-狹?, oih8-sueh4, (心胸)狹隘, k00,
 粗笨, tshou1-pun6, 粗笨, k00, 斐姑娘字典

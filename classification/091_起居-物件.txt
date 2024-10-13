@@ -2,20 +2,20 @@
 家私, ke1-si1, 家具, k00, 汕頭話讀本|考釋
 棹, toh4, 桌子, k00, 汕頭話讀本
 交椅, kau1-inn2, 靠背椅, k00, 汕頭話讀本|考釋
-骹踏椅|腳踏椅, kha1-tah8-inn2, 腳蹬, k10, 汕頭話讀本
-儂公囝, nang5-kong1-kiann2, 玩偶, k00, 汕頭話讀本
+腳踏椅, kha1-tah8-inn2, 腳蹬, k10, 汕頭話讀本
+儂公囝, nang5-kong1-kiann2, 玩偶, k00
 花干, hue1-kan1, 花瓶, k20, 汕頭話讀本
 奇巧物, khi5-kha2-mueh8, 奇珍異寶, k10, 汕頭話讀本
 氈, chinn1, 地毯, k00, 汕頭話讀本
-四方床, si3-pang1 tshng5, 方桌, k00, 汕頭話讀本
-圓床, inn5-tshng5, 圓桌, k10, 汕頭話讀本
-床頂, tshng5-teng2, 桌上, k10, 汕頭話讀本
-床布, tshng5-pou3, 桌布, k10, 汕頭話讀本
+四方牀|四方床, si3-pang1 tshng5, 方桌, k00, 汕頭話讀本
+圓牀|圓床, inn5-tshng5, 圓桌, k10, 汕頭話讀本
+牀頂|床頂, tshng5-teng2, 桌上, k10, 汕頭話讀本
+牀布|床布, tshng5-pou3, 桌布, k10, 汕頭話讀本
 撞枳, thng7-chi2, 桌球, k20, 汕頭話讀本
-拭骹其蓑|拭腳其蓑, chhit4-kha1 kai5 sui1, 門墊, k20, 汕頭話讀本
-眠床, min5-tshng5, 床, k00, 汕頭話讀本|考釋
+拭腳的蓑, chhit4-kha1 kai5 sui1, 門墊, k20, 汕頭話讀本
+眠牀|眠床, min5-tshng5, 床, k00, 汕頭話讀本|考釋
 褥, zok8, 床墊, k00, 汕頭話讀本
-炕床|匟床, khang3-tshng5, 炕, k10, 汕頭話讀本|考釋
+炕牀|炕床|匟床, khang3-tshng5, 炕, k10, 汕頭話讀本|考釋
 枕頭囊, chim2-thau5-long5, 枕頭套, k00, 汕頭話讀本
 齒刷, khi2-chhiu3, 牙刷, k00, 汕頭話讀本
 剃刀, thi3-to1, 剃鬚刀, k00, 汕頭話讀本
@@ -31,8 +31,8 @@
 餅藥, piann2-ieh8, (中國)肥皂, k10, 汕頭話讀本
 海茸, hai2-zong5, 海綿, k10, 汕頭話讀本
 芳水, phang1-tsui2, 香水, k00, 汕頭話讀本
-洗浴桶, soi2-ek8-thang2, 浴缸, k00, 汕頭話讀本
-骹桶|腳桶, kha1-thang2, 浴缸, k00, 汕頭話讀本
+洗浴桶, soi2-ek8-thang2, 洗澡盆, k00, 汕頭話讀本
+腳桶, kha1-thang2, 浴缸, k00, 汕頭話讀本
 燈盞, teng1-chuann2, 中式台燈, k10, 汕頭話讀本
 掃箒, sau3-siu2, 掃帚, k00, 汕頭話讀本
 糞斗, pun3-tau2, 簸箕, k00, 汕頭話讀本
@@ -57,7 +57,7 @@
 鑽囝, tshak8-kiann2, 錐子, k00, 汕頭話讀本
 斧頭, pou2-thau2, 斧頭, k00, 汕頭話讀本
 釘咬, teng1-ka6, 鉗子, k00, 汕頭話讀本
-蛺蝶, hiap8-tiap8, 鉸鏈, k10, 汕頭話讀本
+葉鍱, hiap8-tiap8, 鉸鏈, k10, 汕頭話讀本
 烏油, ou1-iu5, 柏油, k00, 汕頭話讀本
 油刷, iu5-sueh4, 漆刷, k00, 汕頭話讀本
 銅指, tang5-tsoinn2, 頂針, k10, 汕頭話讀本

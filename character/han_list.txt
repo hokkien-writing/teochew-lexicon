@@ -491,7 +491,7 @@
 盜  tau6
 德  tek4
 得  tit4,k00
-的  tek8,k10,目~,mak8-~  ti1  kai5,k11
+的  tek8,k10,目~,mak8-~  ti1
 蹬  teng1
 燈  teng1,k10
 登  teng1,k00
@@ -510,7 +510,7 @@
 翟  tek8
 嫡  tek4  tiah4
 抵  ti2,k10,~押,~-ah4  toi2
-底  ti5,k00,~個,~-kai5  toi2,k10,到~,kau3-~
+底  ti5,k00,~个,~-kai5  toi2,k10,到~,kau3-~
 地  ti7,k00,~點,~-tiam2  to3
 蒂  tih4
 第  toinn6,k00
@@ -812,7 +812,7 @@
 閣  koh4
 隔  keh4,k00
 鉻  kak4
-個|个  kai5,k00  ko6
+個  ko6
 各  kak4,k00
 給  kip4,k10
 根  kurn1,k00
@@ -2060,8 +2060,8 @@
 漆  tshat4
 柒  chhit4
 沏  chhiet4
-其  khi5,k00  kai5,k01
-个  kai5,k00
+其  khi5,k00
+个  kai5,k00,我~,ua2--~,汝~,lur2--~,伊~,i1--~
 棋  ki5
 奇  khi5,k00  khia1  ki1
 歧  chinn1  khi5
@@ -4125,7 +4125,7 @@
 板  pan2,k10,木~,bak8-~  poinn2
 闆  pan2,k00,老~,lau6-~
 背  pue3,k10,~誦,~-song6  pi3,k11,~包,~-pau1  pu3,k22,手~,chhiu2-~
-揹  pi3,k10,~個衫包,~ kai5 sann1-pau1
+揹  pi3,k10,~个衫包,~ kai5 sann1-pau1
 辟  phek4,k12,復~,hok8-~
 闢  phek4,k10,開~,khai1-~
 表  piau2,k00,~示,~-si7  pie2,k01,~兄,~-hiann1
@@ -4210,7 +4210,7 @@
 獲  uak8,k00,~得,~-tit4,不勞而~,put4-lau5-zur5-~
 穫  uak8,k10,收~,siu1-~
 几  ki2,k10,茶~,te5-~
-幾  ki1,k00,~何,~-ho5,~乎,~-hu1  kui2,k01,~個人,~-kai5 nang5
+幾  ki1,k00,~何,~-ho5,~乎,~-hu1  kui2,k01,~个人,~-kai5 nang5
 家  ke1,k00,人~,nang5-~  ka1,k01,~己,~-ki7  khia1,k10,私~,sai1-~
 傢  ke1,k10,~俬,~-si1
 奸  kan1,,~臣,~-chhin5
@@ -4522,5 +4522,4 @@
 𢭪  khieh4
 疕  phi2
 氼  bi3
-嘅  kai5,k00,我~,ua2--~,汝~,lur2--~,伊~,i1--~
 脞  tsho7

@@ -4130,7 +4130,8 @@
 闢  phek4,k10,開~,khai1-~
 表  piau2,k00,~示,~-si7  pie2,k01,~兄,~-hiann1
 錶  pie1,,手~,chhiu2-~
-別  piet8,k00,分~,hun1-~  pak4,k01,~人,~-nang5
+別  piet8,k00,分~,hun1-~  pak8,k01,~人,~-nang5  pak4,k02,毋~
+𧧸  pak4,k02,毋~
 幷|并  peng6,k22,~州,~-chiu1
 併  peng6,k00,合~,hah8-peng6
 並  peng6,k00,~立,~-lip8,~且,~-chhia2
@@ -4463,6 +4464,7 @@
 麫  minn7,,~包,~-pau1
 爁  na6,,~火,~-hue2
 橛  kueh8,,褲~,khou3-~
+𰉗  kueh8
 襭  soih4
 奩  liam5,,裝~,tsng1-~
 卺  kng2,,合~,hah8-~
@@ -4497,6 +4499,7 @@
 頷  am6
 鮡  thiou5
 𠕆  toinn7
+𠕇  toinn7
 𢲵  chhiou1
 𤇢  pek4
 𦈢  hui5

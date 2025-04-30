@@ -811,7 +811,7 @@ kue2  果,k10  菓,k10  裹  粿,k10  餜,k10
 kue3  掛  怪  過,k00
 kue5  葵
 kueh4  郭  刮
-kueh8  橛,,褲~,khou3-~
+kueh8  橛,,褲~,khou3-~  𰉗
 kuenn1  關|𨵿,k01
 kui1  規,k10  圭  硅  歸,k00  閨  窺  奎  皈  鮭
 kui2  鬼,k10  詭  機  傀  幾,k01,~个人,~-kai5 nang5
@@ -1169,8 +1169,8 @@ pai2  擺,,~攤,~-thuann1  襬,,衣~,i1-~
 pai3  拜,k00
 pai5  排,k00  牌  徘
 pai7  敗,k00
-pak4  八  剝  北,k00  膊  輻  幅,k00  腹  亳,k22  別,k01,~人,~-nang5
-pak8  縛
+pak4  八  剝  北,k00  膊  輻  幅,k00  腹  亳,k22  別,k02  𧧸,k02
+pak8  縛  別,k01,~人,~-nang5
 pan1  斑  班,k10  頒
 pan2  扳  版  板,k10,木~,bak8-~  闆,k00,老~,lau6-~
 pan3  扮,k10
@@ -1768,7 +1768,7 @@ toi1  堤
 toi2  抵  底,k10,到~,kau3-~
 toi5  題,k10  蹄
 toinn6  第,k00  佃
-toinn7  靛  殿,,宮~,keng1-~  𠕆
+toinn7  靛  殿,,宮~,keng1-~  𠕆  𠕇
 tok4  督  築,k10  斫|斲,,~斷,~-tng6
 tok8  毒  犢  獨,k00  讀,,褻~,siet4-~  逐,k00  篤
 tom6  丼,k22

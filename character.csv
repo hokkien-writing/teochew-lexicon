@@ -95,8 +95,8 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 乾,kuaⁿ,kuaⁿ1,k10,餅乾,piáⁿ-kuaⁿ,piann2-kuaⁿ1
 亂,luãn,luan6,k00,,,
 亂,thèng,theng3,,亂做,thèng-tsò,theng3-tso3
-了,liòu,liou3,k00,到了,kàu-liòu,kau3-liou3
-了,lióu,liou2,k10,了斷,lióu-tuãn,liou2-tuan6
+了,liàu,liau3,k00,到了,kàu-liàu,kau3-liau3
+了,liáu,liau2,k10,了斷,liáu-tuãn,liau2-tuan6
 了,lō,lo7,,,,
 予,ṳ́,ur2,,,,
 予,ṳ̂,ur5,,,,
@@ -2161,7 +2161,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 整,chiáⁿ,chiann2,k00,,,
 敵,te̍k,tek8,k10,,,
 敷,hu,hu1,,,,
-數,siòu,siou3,k00,,,
+數,siàu,siau3,k00,,,
 數,sok,sok4,k21,,,
 數,suak,suak4,k21,,,
 數,sù,su3,,,,
@@ -2392,7 +2392,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 柬,kán,kan2,,,,
 柯,kho,kho1,,,,
 柯,kua,kua1,,,,
-柱,thiõu,thiou6,,,,
+柱,thiãu,thiau6,,,,
 柳,liú,liu2,,,,
 柴,tshâ,tsha5,,,,
 柵,san,san1,,,,
@@ -2435,7 +2435,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 梏,khok,khok4,,,,
 梔,ki,ki1,,,,
 梗,kéⁿ,kenn2,,,,
-條,tiôu,tiou5,k00,,,
+條,tiâu,tiau5,k00,,,
 梟,hiau,hiau1,,,,
 梢,sau,sau1,,,,
 梢,sàu,sau3,,,,
@@ -3355,7 +3355,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 癰,iong,iong1,,,,
 癱,than,than1,,,,
 癱,thuaⁿ,thuann1,,,,
-癲,sióu,siou2,,,,
+癲,siáu,siau2,,,,
 癸,kùi,kui3,,,,
 登,teng,teng1,k00,,,
 發,huat,huat4,k00,發現,huat-hīn,huat4-hin7
@@ -3379,7 +3379,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 皸,kun,kun1,,,,
 皺,chiù,chiu3,,,,
 皺,niàu,niau3,,,,
-皺,jiòu,jiou3,,,,
+皺,jiàu,jiau3,,,,
 皿,méng,meng2,,,,
 盂,u,u1,,,,
 盅,cheng,cheng1,,,,
@@ -3508,7 +3508,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 硅,kui,kui1,,,,
 硈,khia̍t,khiat8,,嵁硈,khâm-khia̍t,kham5-khiat8
 硒,si,si1,,,,
-硝,siou,siou1,,,,
+硝,siau,siau1,,,,
 硫,liû,liu5,,,,
 硬,khiū,khiu7,,飯硬,pn̄g-khiū,png7-khiu7
 硬,ngẽⁿ,ngenn6,k00,,,
@@ -5565,7 +5565,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 餒,núi,nui2,,,,
 餓,gō,go7,,,,
 餘,ṳ̂,ur5,k00,剩餘,sīn-ṳ̂,sin7-ur5
-餘,ṳ̂,ur5,k00,餘數,ṳ̂-siòu,ur5-siou3
+餘,ṳ̂,ur5,k00,餘數,ṳ̂-siàu,ur5-siau3
 餚,ngâu,ngau5,,,,
 餜,kúe,kue2,k10,,,
 餞,chién,chien2,,,,
@@ -5670,7 +5670,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 魷,iû,iu5,,,,
 魷,jiû,jiu5,,,,
 鮑,pãu,pau6,,,,
-鮡,thiôu,thiou5,,,,
+鮡,thiâu,thiau5,,,,
 鮪,iú,iu2,,,,
 鮫,ka,ka1,k10,,,
 鮫,kau,kau1,,,,
@@ -5811,7 +5811,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 𡚸,bóu,bou2,,諸𡚸,tsa-bóu,tsa1-bou2
 𢭪,khieh,khieh4,,,,
 𢯰,tẽⁿ,tenn6,,一𢯰花,che̍k-tẽⁿ-hue,chek8-tenn6-hue1
-𢲵,chhiou,chhiou1,,,,
+𢲵,chhiau,chhiau1,,,,
 𤆬,tshuā,tshua7,,,,
 𤇢,pek,pek4,,,,
 𤰉,lã,la6,,,,

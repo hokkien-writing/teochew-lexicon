@@ -10,8 +10,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 阿妗,a-kĩm,a1-kim6,k00,舅母,maternal uncle's wife,考釋,人|稱呼
 阿舅,a-kũ,a1-ku6,k10,阿舅,maternal uncle|wife's brothers,汕頭話讀本,
 阿郞,a-nn̂g,a1-nng5,k10,阿郞,sister's husband,汕頭話讀本,
-阿媽,a-má,a1-ma2,k00,奶奶,,考釋,人|稱呼
-阿妹,a-mūeⁿ,a1-muenn7,k10,阿妹,sister,汕頭話讀本,
+阿媽,a-má,a1-ma2,k00,奶奶,grandmother,考釋,人|稱呼
+阿妹,a-mūe,a1-mue7,k10,阿妹,sister,汕頭話讀本,
 阿母,a-bó,a1-bo2,k10,阿母,mother,汕頭話讀本,
 阿姆,a-ḿ,a1-m2,k10,阿姆,elder paternal uncle's wife,汕頭話讀本,
 阿奶,a-náiⁿ,a1-nainn2,k10,阿奶,lady,汕頭話讀本,
@@ -64,7 +64,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 白話,pe̍h-ūe,peh8-ue7,k10,白話,colloquial|dialect,汕頭話讀本,
 白蜡,pe̍h-la̍h,peh8-lah8,k10,白蜡,"wax, insect, white",汕頭話讀本,
 白鷺絲,pe̍h-liāu-si,peh8-liau7-si1,k10,白鷺絲,stork,汕頭話讀本,
-白呢,pe̍h-nîⁿ,peh8-ninn5,k10,白呢,flannel,汕頭話讀本,
+白呢,pe̍h-nî,peh8-ni5,k10,白呢,flannel,汕頭話讀本,
 白鉛,pe̍h-în,peh8-in5,k10,鉛或鋅,spelter or zinc,汕頭話讀本,
 白肉,pe̍h-ne̍k,peh8-nek8,k00,肥肉,,考釋,飲食
 白糖,pe̍h-thn̂g,peh8-thng5,k10,白糖,"sugar, white",汕頭話讀本,
@@ -87,7 +87,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 拜五,pài-ngõu,pai3-ngou6,k10,星期五,friday,汕頭話讀本,時日
 拜一,pài-it,pai3-it4,k10,星期一,monday,汕頭話讀本,時日
 敗,phái,phai2,k00,壞,,汕頭話讀本,入門
-半暝,puàⁿ-mêⁿ,puann3-menn5,k00,半夜,,汕頭話讀本,時日
+半暝,puàⁿ-mê,puann3-me5,k00,半夜,,汕頭話讀本,時日
 半燒,lā-lûn-sie,la7-lun5-sie1,k10,半熱,tepid,汕頭話讀本,
 半天,puàⁿ-thiⁿ,puann3-thinn1,k10,半天,sky,汕頭話讀本,
 絆鞭,phuân-piⁿ,phuan5-pinn1,k10,絆鞭,coil,汕頭話讀本,
@@ -153,11 +153,11 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 辯駁,piẽn-poh,pien6-poh4,k10,辯駁,contradict,汕頭話讀本,
 辯論,piẽn-lũn,pien6-lun6,k10,辯論,discuss,汕頭話讀本,
 表伯,piè-peh,pie3-peh4,k10,表伯,"grandaunt's child, elder",汕頭話讀本,
-表姐妹,pié-ché-mūeⁿ,pie2-che2-muenn7,k10,表姐妹,paternal aunt's daughters|maternal aunt's daughters,汕頭話讀本,
+表姐妹,pié-ché-mūe,pie2-che2-mue7,k10,表姐妹,paternal aunt's daughters|maternal aunt's daughters,汕頭話讀本,
 表明,piáu-mêng,piau2-meng5,k10,表明,denote|show,汕頭話讀本,
 表叔,piè-chek,pie3-chek4,k10,表叔,"grandaunt's child, younger",汕頭話讀本,
 表兄弟,pié-hiaⁿ-tĩ,pie2-hiann1-ti6,k10,表兄弟,maternal uncle's sons|paternal aunt's sons|maternal aunt's sons,汕頭話讀本,
-表姊妹,pié-chí-mūeⁿ,pie2-chi2-muenn7,k10,表姊妹,maternal uncle's daughters,汕頭話讀本,
+表姊妹,pié-chí-mūe,pie2-chi2-mue7,k10,表姊妹,maternal uncle's daughters,汕頭話讀本,
 別,pat,pat4,k00,認識,,汕頭話讀本,教育
 冰霜,piaⁿ-sng,piann1-sng1,k10,冰霜,ice,汕頭話讀本,
 冰糖,piaⁿ-thn̂g,piann1-thng5,k10,冰糖,sugarcandy,汕頭話讀本,
@@ -207,7 +207,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 草場,tsháu-tiêⁿ,tshau2-tienn5,k10,草場,pasture,汕頭話讀本,
 草稿,tshó-kó,tsho2-ko2,k10,草稿,rough draft,汕頭話讀本,
 草寮,tsháu-liáu,tshau2-liau2,k10,草寮,booth,汕頭話讀本,
-草蟒,tsháu-méⁿ,tshau2-menn2,k10,草蟒,grasshopper,汕頭話讀本,
+草蟒,tsháu-mé,tshau2-me2,k10,草蟒,grasshopper,汕頭話讀本,
 草帽,tsháu-bō,tshau2-bo7,k10,草帽,a straw hat,汕頭話讀本,
 草蓆,tsháu-chhie̍h,tshau2-chhieh8,k10,草蓆,mats,汕頭話讀本,
 草鞋,tsháu-ôi,tshau2-oi5,k10,草鞋,straw sandals,汕頭話讀本,
@@ -499,7 +499,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 顛倒,tin-tò,tin1-to3,k10,顛倒,"contrary on the|on the contrary, on the other hand",汕頭話讀本,
 顛倒倒,tin-tò-táu,tin1-to3-tau2,k10,顛倒,turn upside down,汕頭話讀本,
 顛倒頭,tin-tò-thâu,tin1-to3-thau5,k10,顛倒,upside down,汕頭話讀本,
-癲,siáu,siau2,k00,瘋癲,,汕頭話讀本,健康
+癲,siáu,siau2,k00,瘋癲,mad,汕頭話讀本,健康
 典,tóiⁿ,toinn2,k10,抵押,mortgage,汕頭話讀本,職業|經商
 典契,tóiⁿ-khòi,toinn2-khoi3,k20,抵押契據,mortgage deed,汕頭話讀本,職業|經商
 典主,tóiⁿ-tsú,toinn2-tsu2,k20,抵押人,mortgagor,汕頭話讀本,職業|經商
@@ -515,7 +515,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 刁蹬,tiau-tùn,tiau1-tun3,k10,刁難,,考釋,人|行動
 刁厥,tiau-khiak,tiau1-khiak4,k00,刁潑,,考釋,人|品評
 刁鑽,tiãu-tsuan,tiau6-tsuan1,k10,刁鑽,purposely,汕頭話讀本,
-吊瓜,tiàu-kue,tiau3-kue1,k00,黃瓜,,汕頭話讀本,植物|蔬菓
+吊瓜,tiàu-kue,tiau3-kue1,k00,黃瓜,cucumber,汕頭話讀本,植物|蔬菓
 吊頷,tiàu-ãm,tiau3-am6,k10,吊頸,hang oneself|suicide by hanging,汕頭話讀本,
 吊桶,tiàu-tháng,tiau3-thang2,k10,吊桶,bucket,汕頭話讀本,
 跌落,ka-la̍uh,ka1-lauh8,k00,掉落,,汕頭話讀本,人|行動
@@ -588,7 +588,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 二更,jī-keⁿ,ji7-kenn1,k10,二更,second watch from 9 to 11 p.m,汕頭話讀本,
 二伙,jī-húe,ji7-hue2,k20,二副,second mate,汕頭話讀本,職業|行船
 二家,jī-ke,ji7-ke1,k10,兩人,both,汕頭話讀本,
-二斤半,nõⁿ-kṳn-puàⁿ,nonn6-kurn1-puann3,k10,二斤半,two catties and a half,汕頭話讀本,
+二斤半,nõ-kṳn-puàⁿ,no6-kurn1-puann3,k10,二斤半,two catties and a half,汕頭話讀本,
 二儂,jī-nâng,ji7-nang5,k10,二奶,concubine,汕頭話讀本,
 二手,jī-chhiú,ji7-chhiu2,k20,助理,assistant,汕頭話讀本,職業|經商
 二月,jī--gu̍eh,ji7--gueh8,k10,二月,second moon,汕頭話讀本,
@@ -637,14 +637,14 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 放血,pàng-àng,pang3-ang3,k10,放血,dysentery,汕頭話讀本,
 杮,sãi,sai6,k00,杮子,persimmon,汕頭話讀本,植物|蔬菓
 杮餅,sāi-piáⁿ,sai7-piann2,k10,杮餅,dried persimmon,汕頭話讀本,
-痱,bùi,bui3,k00,痱子,,汕頭話讀本,健康
+痱,bùi,bui3,k00,痱子,prickly heat,汕頭話讀本,健康
 廢掉,hùi-tiàu,hui3-tiau3,k10,廢掉,abolish,汕頭話讀本,
 分,pun,pun1,k00,給,divide|give|to divide,汕頭話讀本,入門
 分別,hun-pie̍t,hun1-piet8,k10,分別,distinguish,汕頭話讀本,
 分開,pun-khui,pun1-khui1,k10,分開,separate,汕頭話讀本,
 分明,hun-mêng,hun1-meng5,k10,分明,plain,汕頭話讀本,
 分我睇,pun-uá-thóiⁿ,pun1-ua2-thoinn2,k10,給我看,show me,汕頭話讀本,
-粉鳥,hún-chiáu,hun2-chiau2,k00,鴿子,,汕頭話讀本,動物|鳥
+粉鳥,hún-chiáu,hun2-chiau2,k00,鴿子,pigeon,汕頭話讀本,動物|鳥
 糞耙,pùn-pê,pun3-pe5,k10,糞耙,a gardenrake,汕頭話讀本,
 糞斗,pùn-táu,pun3-tau2,k00,簸箕,a shovel,汕頭話讀本,起居|物件
 糞箕,pùn-ki,pun3-ki1,k00,簸箕,baskets for removing rubbish,汕頭話讀本,起居|物件
@@ -724,7 +724,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 割豬肉,kuah-tṳ-bah,kuah4-tur1-bah4,k10,割豬肉,buy as pork,汕頭話讀本,
 滒,ko,ko1,k00,黏稠,,考釋,飲食
 佮,kah,kah4,k00,和,and,汕頭話讀本,入門
-隔乳,keh-nĩⁿ,keh4-ninn6,k00,斷奶,wean,汕頭話讀本,飲食
+隔乳,keh-nĩ,keh4-ni6,k00,斷奶,wean,汕頭話讀本,飲食
 槅,keh,keh4,k00,抽屜,,汕頭話讀本,起居|物件
 各儂,kak-nâng,kak4-nang5,k10,各人,individually,汕頭話讀本,
 各樣,koh-iēⁿ,koh4-ienn7,k10,各樣,peculiar,汕頭話讀本,
@@ -978,7 +978,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 積惡,chek-ak,chek4-ak4,k10,積惡,cruel,汕頭話讀本,
 雞囝,koi-kiáⁿ,koi1-kiann2,k10,雞囝,chicken,汕頭話讀本,
 雞卵粿,koi-nñg-kúe,koi1-nng6-kue2,k10,蛋糕,sponge cake,汕頭話讀本,
-雞毛筅,koi-mô-tshóiⁿ,koi1-mo5-tshoinn2,k00,雞毛撣子,,汕頭話讀本,職業|經商
+雞毛筅,koi-mô-tshóiⁿ,koi1-mo5-tshoinn2,k00,雞毛撣子,featherduster,汕頭話讀本,職業|經商
 雞翁,koi-ang,koi1-ang1,k00,公雞,cock,汕頭話讀本,動物|家禽
 雞鴨,koi-ah,koi1-ah4,k10,雞鴨,poultry,汕頭話讀本,
 饑荒,ki-hng,ki1-hng1,k10,饑荒,famine,汕頭話讀本,
@@ -1032,7 +1032,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 囝婿,kiáⁿ-sài,kiann2-sai3,k10,女婿,daughter's husband,汕頭話讀本,
 減,kiám,kiam2,k00,少,decrease|less,汕頭話讀本,入門
 襇,kóiⁿ,koinn2,k10,裙褶,,考釋,打扮
-見笑,kièn-siàu,kien3-siau3,k00,羞耻,,汕頭話讀本,人|品評
+見笑,kièn-siàu,kien3-siau3,k00,羞耻,disgrace,汕頭話讀本,人|品評
 健,kiāⁿ,kiann7,k00,健壯,strong,考釋,人|品評
 漸漸,chiãm-chiãm,chiam6-chiam6,k10,漸漸,gradually,汕頭話讀本,
 箭靶,chìⁿ-pá,chinn3-pa2,k10,箭靶,target,汕頭話讀本,
@@ -1077,7 +1077,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 結直,kat-ti̍t,kat4-tit8,k10,結直,decide in law,汕頭話讀本,
 節度,tsat-tōu,tsat4-tou7,k10,節度,temperance,汕頭話讀本,
 截,tso̍ih,tsoih8,k00,切,"cut|to cut into slices, as bread, beef &c",汕頭話讀本,飲食
-姐妹囝,ché-mūeⁿ-kiáⁿ,che2-muenn7-kiann2,k10,姐妹,sisters,汕頭話讀本,
+姐妹囝,ché-mūe-kiáⁿ,che2-mue7-kiann2,k10,姐妹,sisters,汕頭話讀本,
 解說,kói-sueh,koi2-sueh4,k00,解釋,explain,,教育
 解藥,kói-ie̍h,koi2-ieh8,k10,解藥,to act as an antidote,汕頭話讀本,
 戒薰丸,kói-hun-îⁿ,koi2-hun1-inn5,k10,戒菸藥,“stopopium” pills,汕頭話讀本,
@@ -1086,7 +1086,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 借問,chieh-mn̄g,chieh4-mng7,k10,諮詢,enquire,汕頭話讀本,
 今,taⁿ,tann1,k00,現在,,汕頭話讀本,時日
 今旦日,kiáⁿ-ji̍t,kiann2-jit8,k00,今天,today,汕頭話讀本,時日
-今暝,ke-mêⁿ,ke1-menn5,k00,今夜,,汕頭話讀本,時日
+今暝,ke-mê,ke1-me5,k00,今夜,,汕頭話讀本,時日
 金橄欖,kim-kaⁿ-náⁿ,kim1-kann1-nann2,k10,金橄欖,chillies,汕頭話讀本,
 金鑾殿,kim-luân-tōiⁿ,kim1-luan5-toinn7,k10,金鑾殿,throne,汕頭話讀本,
 金器,kim-khùi,kim1-khui3,k10,金飾,jewellery,汕頭話讀本,打扮
@@ -1208,7 +1208,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 老姑,lãu-kou,lau6-kou1,k10,老姑,grandaunts,汕頭話讀本,
 老虎,lãu-hóuⁿ,lau6-hounn2,k10,老虎,tiger,汕頭話讀本,
 老將,láu-chiàng,lau2-chiang3,k10,老兵,soldier,汕頭話讀本,
-老媽,lãu-máⁿ,lau6-mann2,k10,老媽,greatgrandmother,汕頭話讀本,
+老媽,lãu-má,lau6-ma2,k10,老媽,greatgrandmother,汕頭話讀本,
 老婆,lãu-phuâ,lau6-phua5,k10,老婆,wife,汕頭話讀本,
 老實,láu-si̍t,lau2-sit8,k10,老實,honest|mild,汕頭話讀本,
 老叔,lãu-chek,lau6-chek4,k10,老叔,"granduncle, younger",汕頭話讀本,
@@ -1246,8 +1246,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 蓮角,nôiⁿ-kak,noinn5-kak4,k00,菱角,lilyfruits,汕頭話讀本,植物|蔬菓
 蓮子,nôiⁿ-chí,noinn5-chi2,k10,蓮子,lotus nuts,汕頭話讀本,
 粮差,niêⁿ-chhe,nienn5-chhe1,k10,粮差,tax collector,汕頭話讀本,
-兩个,nõⁿ-kâi,nonn6-kai5,k10,兩個,both things,汕頭話讀本,
-兩箍半,nõⁿ-khou-puàⁿ,nonn6-khou1-puann3,k10,兩箍半,two dollars and a half,汕頭話讀本,
+兩个,nõ-kâi,no6-kai5,k10,兩個,both things,汕頭話讀本,
+兩箍半,nõ-khou-puàⁿ,no6-khou1-puann3,k10,兩箍半,two dollars and a half,汕頭話讀本,
 晾衫,lā-saⁿ,la7-sann1,k10,晾衣服,air clothes,汕頭話讀本,
 量地,niêⁿ-tī,nienn5-ti7,k10,量地,survey,汕頭話讀本,
 料理,liāu-lí,liau7-li2,k10,料理,manage,汕頭話讀本,
@@ -1335,7 +1335,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 落色,lo̍h-sek,loh8-sek4,k00,褪色,discoloured|fade as colour,汕頭話讀本,入門
 落神婆,lo̍h-sîn-phuâ,loh8-sin5-phua5,k10,女巫,sorceress,汕頭話讀本,人|稱呼
 駱駝,lo̍h-tho̍h,loh8-thoh8,k10,駱駝,camel,汕頭話讀本,
-媽祖,máⁿ-tsóu,mann2-tsou2,k10,媽祖,goddess of sailors,汕頭話讀本,
+媽祖,má-tsóu,ma2-tsou2,k10,媽祖,goddess of sailors,汕頭話讀本,
 麻布,muâⁿ-pòu,muann5-pou3,k10,麻布,sackcloth,汕頭話讀本,
 麻皮,muâⁿ-phûe,muann5-phue5,k10,麻皮,hemp,汕頭話讀本,
 麻雀鳥,muâⁿ-chiah-chiáu,muann5-chiah4-chiau2,k10,麻雀鳥,sparrow,汕頭話讀本,
@@ -1362,13 +1362,13 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 賣平儂,bōi-phiⁿ--nâng,boi7-phinn1--nang5,k10,賣便宜給人,undersell,汕頭話讀本,
 賣上盤,bōi-chiēⁿ-puâⁿ,boi7-chienn7-puann5,k20,批發銷售,wholesale sell,汕頭話讀本,職業|經商
 貓呅笑,ba-bun-chhiè,ba1-bun1-chhie3,k10,貓呅笑,smile,汕頭話讀本,
-貓頭鳥,ngiau-thâu-chiáu,ngiau1-thau5-chiau2,k10,貓頭鷹,,汕頭話讀本,動物|鳥
-毛扇,môⁿ-sîⁿ,monn5-sinn5,k10,毛扇,"fans, feather",汕頭話讀本,
-茅,mo,mo1,k10,蕨(類植物),,斐姑娘字典,植物
+貓頭鳥,ngiau-thâu-chiáu,ngiau1-thau5-chiau2,k10,貓頭鷹,owl,汕頭話讀本,動物|鳥
+毛扇,mô-sîⁿ,mo5-sinn5,k10,毛扇,"fans, feather",汕頭話讀本,
+茅,mo,mo1,k10,蕨(類植物),ferns,斐姑娘字典,植物
 茅草,mo-tsháu,mo1-tshau2,k10,野草,,斐姑娘字典,植物
 冇,phàⁿ,phann3,k00,軟,"porous, soft",汕頭話讀本,入門
 冇柴,phàⁿ-tshâ,phann3-tsha5,k10,輕木,"wood, light",汕頭話讀本,
-帽吊,bō-tiàu,bo7-tiau3,k10,帽架,,汕頭話讀本,起居|物件
+帽吊,bō-tiàu,bo7-tiau3,k10,帽架,a hatstand,汕頭話讀本,起居|物件
 帽囝,bō-kiáⁿ,bo7-kiann2,k10,帽子,cap|a cap,汕頭話讀本,
 帽珠,bō-tsu,bo7-tsu1,k10,帽珠,button on a cap,汕頭話讀本,
 脢肉,bûe-ne̍k,bue5-nek8,k00,裏脊肉,,考釋,飲食
@@ -1385,13 +1385,13 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 門拴,mn̂g-chhēng,mng5-chheng7,k10,門拴,bolt,汕頭話讀本,
 門閂,mn̂g-tshuàⁿ,mng5-tshuann3,k10,門閂,bolt,汕頭話讀本,
 濛煙,mông-in,mong5-in1,k00,迷霧,mist,汕頭話讀本,天地
-猛,méⁿ,menn2,k00,快,fast|swift|quick,汕頭話讀本,入門
+猛,mé,me2,k00,快,fast|swift|quick,汕頭話讀本,入門
 蠓帳,máng-tiàⁿ,mang2-tiann3,k10,蚊帳,mosquito curtain,汕頭話讀本,
 蠓帳鈎,máng-tiàⁿ-kau,mang2-tiann3-kau1,k10,蚊帳鈎,a hook for mosquito net,汕頭話讀本,
 夢見,māng-kìⁿ,mang7-kinn3,k10,夢見,dream,汕頭話讀本,
-糜,mîⁿ,minn5,k00,腐爛,"tender, soft; rotten (of fruit.)",汕頭話讀本,飲食
-糜,mûeⁿ,muenn5,k00,粥,congee,汕頭話讀本,飲食
-糜骹,mîⁿ-kha,minn5-kha1,k10,爛腳,ulcerated leg|a bad leg,汕頭話讀本,
+糜,mî,mi5,k00,腐爛,"tender, soft; rotten (of fruit.)",汕頭話讀本,飲食
+糜,mûe,mue5,k00,粥,congee,汕頭話讀本,飲食
+糜骹,mî-kha,mi5-kha1,k10,爛腳,ulcerated leg|a bad leg,汕頭話讀本,
 米糧,bí-niêⁿ,bi2-nienn5,k10,米糧,food,汕頭話讀本,
 米籮,bí-lô,bi2-lo5,k10,米籮,bolter|sieve,汕頭話讀本,
 米篩,bí-thai,bi2-thai1,k10,米篩,bolter|sieve,汕頭話讀本,
@@ -1399,8 +1399,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 覔,tshūe,tshue7,k00,找,,汕頭話讀本,人|行動
 眠床,mîn-tshn̂g,min5-tshng5,k00,床,bed|a bedstead,考釋,
 眠牀,mîn-tshn̂g,min5-tshng5,k00,床,,汕頭話讀本,起居|物件
-棉裘,mîⁿ-hiûⁿ,minn5-hiunn5,k00,棉襖,,考釋,打扮
-棉羊,mîⁿ-iêⁿ,minn5-ienn5,k10,棉羊,sheep,汕頭話讀本,
+棉裘,mî-hiûⁿ,mi5-hiunn5,k00,棉襖,,考釋,打扮
+棉羊,mî-iêⁿ,mi5-ienn5,k10,棉羊,sheep,汕頭話讀本,
 免,mín,min2,k00,不用,unnecessary,汕頭話讀本,入門
 免用,mín-ēng,min2-eng7,k10,不用,unnecessary,汕頭話讀本,
 勉強,mién-kiáng,mien2-kiang2,k10,勉強,compel|force to a person,汕頭話讀本,
@@ -1423,19 +1423,19 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 名聲,miâⁿ-siaⁿ,miann5-siann1,k10,名聲,fame,汕頭話讀本,
 名頭,miaⁿ-thâu,miann1-thau5,k00,名聲,,考釋,人|品評
 明白,mêng-pe̍h,meng5-peh8,k10,明白,clear as affairs|distinct|plain|understand|clear; (of affairs.)|clear,汕頭話讀本,
-明旦瞑起,màⁿ-mêng-khí,mann3-meng5-khi2,k00,明天早上,,汕頭話讀本,
-明旦起,màⁿ-khí,mann3-khi2,k00,明天,tomorrow,汕頭話讀本,時日
-明年,mêⁿ-nîⁿ,menn5-ninn5,k00,明年,next year,汕頭話讀本,時日
-暝旰,mêⁿ-kuà,menn5-kua3,k10,夜間,,汕頭話讀本,
-暝昏,mêⁿ-hng,menn5-hng1,k00,晚上,,汕頭話讀本,時日
-暝昏囝,mêⁿ-hng-kiáⁿ,menn5-hng1-kiann2,k00,傍晚,,汕頭話讀本,時日
+明旦瞑起,mà-mêng-khí,ma3-meng5-khi2,k00,明天早上,,汕頭話讀本,
+明旦起,mà-khí,ma3-khi2,k00,明天,tomorrow,汕頭話讀本,時日
+明年,mê-nî,me5-ni5,k00,明年,next year,汕頭話讀本,時日
+暝旰,mê-kuà,me5-kua3,k10,夜間,,汕頭話讀本,
+暝昏,mê-hng,me5-hng1,k00,晚上,,汕頭話讀本,時日
+暝昏囝,mê-hng-kiáⁿ,me5-hng1-kiann2,k00,傍晚,,汕頭話讀本,時日
 瞑起,mêng-khí,meng5-khi2,k00,早上,morning,汕頭話讀本,時日
 瞑起早旰,mêng-khí-tsá--kuà,meng5-khi2-tsa2--kua3,k10,早上,,汕頭話讀本,
 命運,miāⁿ-ūn,miann7-un7,k10,命運,fate,汕頭話讀本,
 磨刀石,buâ-to-chie̍h,bua5-to1-chieh8,k10,磨刀石,whetstone,汕頭話讀本,
 磨苦,buâ-khóu,bua5-khou2,k10,磨苦,toil,汕頭話讀本,
 磨石,bō-chiéh,bo7-chieh2,k10,磨石,millstone,汕頭話讀本,
-魔鬼,mòⁿ-kúi,monn3-kui2,k10,魔鬼,devil,汕頭話讀本,
+魔鬼,mò-kúi,mo3-kui2,k10,魔鬼,devil,汕頭話讀本,
 末,bua̍h,buah8,k00,粉,,汕頭話讀本,飲食
 茉莉,ba̍k-lĩ,bak8-li6,k10,茉莉,jasmine,汕頭話讀本,
 墨斗,ba̍k-táu,bak8-tau2,k00,烏賊,cuttlefish,汕頭話讀本,動物|水產
@@ -1447,7 +1447,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 木耳,ba̍k-zṳ́,bak8-zur2,k10,木耳,boletus,汕頭話讀本,
 木虱,ba̍k-sat,bak8-sat4,k00,臭蟲,bug,汕頭話讀本,動物|蟲
 目鏡,ma̍k-kiàⁿ,mak8-kiann3,k00,眼鏡,spectacles,汕頭話讀本,起居|物件
-目毛,ma̍k-chhì-môⁿ,mak8-chhi3-monn5,k10,眼睫毛,eyelash,汕頭話讀本,
+目毛,ma̍k-chhì-mô,mak8-chhi3-mo5,k10,眼睫毛,eyelash,汕頭話讀本,
 目眉,ma̍k-bâi,mak8-bai5,k00,眉毛,eyebrow,汕頭話讀本,人|身體
 目皮,ma̍k-chiu-phûe,mak8-chiu1-phue5,k10,眼皮,eyelid,汕頭話讀本,
 目仁,ma̍k-jîn,mak8-jin5,k00,眼球,eyeball,汕頭話讀本,人|身體
@@ -1463,7 +1463,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 牧師,mo̍k-sṳ,mok8-sur1,k10,牧師,pastor,汕頭話讀本,
 挐挐,zṳ̂-zṳ̂,zur5-zur5,k10,混亂,confuse|disorder,汕頭話讀本,
 納餉,la̍p-hiàng,lap8-hiang3,k10,納稅,"duty, to pay",汕頭話讀本,職業|經商
-奶母,niⁿ-bó,ninn1-bo2,k10,奶媽,nurse,汕頭話讀本,
+奶母,ni-bó,ni1-bo2,k10,奶媽,nurse,汕頭話讀本,
 嬭母,ni-bó,ni1-bo2,k10,奶媽,,考釋,人|稱呼
 奈,nãiⁿ,nainn6,k00,忍受,bear,汕頭話讀本,人|行動
 耐毋去,nãiⁿ-m̃-khṳ̀,nainn6-m6-khur3,k10,忍不了,bear,汕頭話讀本,
@@ -1472,10 +1472,10 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 難趁,oh-thàn,oh4-than3,k10,難賺,unprofitable,汕頭話讀本,
 難醫,oh-ui,oh4-ui1,k10,難醫,difficult to cure,汕頭話讀本,
 孬,mó,mo2,k00,不好,,汕頭話讀本,入門
-淖糜,chhieh-mûeⁿ,chhieh4-muenn5,k00,稀粥,,考釋,飲食
+淖糜,chhieh-mûe,chhieh4-mue5,k00,稀粥,,考釋,飲食
 淖淖,chhieh-chhieh,chhieh4-chhieh4,k10,淖淖,watery,汕頭話讀本,
 鬧熱,lãu-jie̍t,lau6-jiet8,k10,鬧熱,"a phrase used by customers or visitor on leaving the shop, which means may your shop be crowded with customers",汕頭話讀本,
-呢,nîⁿ,ninn5,k00,毛呢,woollen cloth,汕頭話讀本,職業|經商
+呢,nî,ni5,k00,毛呢,woollen cloth,汕頭話讀本,職業|經商
 內,lãi,lai6,k00,家,home|interior,考釋,起居|場所
 內地,lãi-ti,lai6-ti1,k10,內地,inland,汕頭話讀本,
 內爿,lãi-pôiⁿ,lai6-poinn5,k10,裏面,interior,汕頭話讀本,
@@ -1483,16 +1483,16 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 內走孫,lãi-tsáu-sun,lai6-tsau2-sun1,k10,內孫女,son's daughter,汕頭話讀本,
 恁,nín,nin2,k00,你們,you (plural.),汕頭話讀本,入門
 能爲,lêng-ûi,leng5-ui5,k00,能力,,考釋,入門
-尼姑婆,nîⁿ-kou-phuâ,ninn5-kou1-phua5,k10,尼姑,priestess,汕頭話讀本,
+尼姑婆,nî-kou-phuâ,ni5-kou1-phua5,k10,尼姑,priestess,汕頭話讀本,
 逆風,nge̍k-huang,ngek8-huang1,k10,逆風,contrary wind,汕頭話讀本,
 逆流,nge̍k-lâu,ngek8-lau5,k10,逆流,contrary tide,汕頭話讀本,
 逆律,nge̍k-lu̍t,ngek8-lut8,k10,逆律,against the law,汕頭話讀本,
 逆着,kéⁿ--tie̍h,kenn2--tieh8,k10,噎到,choke,汕頭話讀本,
 逆着喉,kéⁿ-tie̍h-âu,kenn2-tieh8-au5,k10,噎到,choke,汕頭話讀本,
 蔫,iang,iang1,k00,(肉)變質,,考釋,飲食
-年冬,niⁿ-tang,ninn1-tang1,k10,年頭,crop,汕頭話讀本,
-年年,nî-niⁿ,ni5-ninn1,k10,年年,yearly,汕頭話讀本,
-黏昵,niam-nîⁿ,niam1-ninn5,k10,黏昵,adhesive,汕頭話讀本,
+年冬,ni-tang,ni1-tang1,k10,年頭,crop,汕頭話讀本,
+年年,nî-ni,ni5-ni1,k10,年年,yearly,汕頭話讀本,
+黏昵,niam-nî,niam1-ni5,k10,黏昵,adhesive,汕頭話讀本,
 念路,liām-lōu,liam7-lou7,k00,抱怨,grumble,汕頭話讀本,人|行動
 唸經,liām-keng,liam7-keng1,k10,唸經,recite prayers,汕頭話讀本,
 鳥喙,chiáu-tshùi,chiau2-tshui3,k10,鳥喙,beak,汕頭話讀本,
@@ -1504,8 +1504,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 牛黃,gû-n̂g,gu5-ng5,k10,牛黃,cow bezoar,汕頭話讀本,
 牛角,gû-kak,gu5-kak4,k10,牛角,"horns, buffalo",汕頭話讀本,
 牛皮,gû-phûe,gu5-phue5,k10,牛皮,"hides, buffalo",汕頭話讀本,
-牛乳罐,gû-nĩⁿ-kuàn,gu5-ninn6-kuan3,k10,牛奶罐,a milk jug,汕頭話讀本,
-牛乳油,gû-nĩⁿ-iû,gu5-ninn6-iu5,k00,黃油,butter,汕頭話讀本,飲食
+牛乳罐,gû-nĩ-kuàn,gu5-ni6-kuan3,k10,牛奶罐,a milk jug,汕頭話讀本,
+牛乳油,gû-nĩ-iû,gu5-ni6-iu5,k00,黃油,butter,汕頭話讀本,飲食
 牛屎,gû-sái,gu5-sai2,k10,牛屎,dung,汕頭話讀本,
 牛羊,gû-iêⁿ,gu5-ienn5,k10,牛羊,cattle,汕頭話讀本,
 扭,liú,liu2,k00,挖,,汕頭話讀本,飲食
@@ -1545,7 +1545,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 排比,pâi-pí,pai5-pi2,k00,安排,arrange,汕頭話讀本,人|行動
 排場,pâi-chhiâng,pai5-chhiang5,k10,華麗,"gorgeous, well dressed",汕頭話讀本,打扮
 排回,pâi-hûe,pai5-hue5,k10,常常,commonly,汕頭話讀本,
-排年,pâi-niⁿ,pai5-ninn1,k10,年年,yearly,汕頭話讀本,時日
+排年,pâi-ni,pai5-ni1,k10,年年,yearly,汕頭話讀本,時日
 排日,pâi-ji̍t,pai5-jit8,k10,天天,every day,汕頭話讀本,時日
 排時,pâi-sî,pai5-si5,k10,常常,commonly,汕頭話讀本,
 排趟,pâi-tńg,pai5-tng2,k10,常常,commonly,汕頭話讀本,
@@ -1680,12 +1680,12 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 骹腿,kha-thúi,kha1-thui2,k00,腿,thigh,汕頭話讀本,人|身體
 骹趾,kha-tsóiⁿ,kha1-tsoinn2,k00,腳趾,toes,汕頭話讀本,人|身體
 骹𢅎(U+2214E),kha-kiáu,kha1-kiau2,k20,綁腿,,考釋,打扮
-磽,khiau,khiau1,k00,窮,,汕頭話讀本,入門
-翹楚,khiâu-tshó,khiau5-tsho2,k00,出眾,,汕頭話讀本,人|品評
+磽,khiau,khiau1,k00,窮,poor,汕頭話讀本,入門
+翹楚,khiâu-tshó,khiau5-tsho2,k00,出眾,proud,汕頭話讀本,人|品評
 翹頭絲,khiàu-thâu-si,khiau3-thau5-si1,k10,鋯絲,sycee,汕頭話讀本,
 翹尾,khiàu-búe,khiau3-bue2,k10,翹尾巴,prostitute,汕頭話讀本,
 切切,chhiet-chhiet,chhiet4-chhiet4,k10,切記,earnestly,汕頭話讀本,
-切要,chhiet-iàu,chhiet4-iau3,k00,重要,,汕頭話讀本,入門
+切要,chhiet-iàu,chhiet4-iau3,k00,重要,important,汕頭話讀本,入門
 挈定,khie̍h--tiāⁿ,khieh8--tiann7,k10,抓穩,hold,汕頭話讀本,
 挈椗,khie̍h-tèng,khieh8-teng3,k10,起錨,to weigh anchor,汕頭話讀本,
 挈來,khie̍h--lài,khieh8--lai3,k10,拿來,bring it here,汕頭話讀本,
@@ -1701,7 +1701,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 唚,chim,chim1,k00,吻,kiss,汕頭話讀本,人|行動
 青布,chhíⁿ-pòu,chhinn2-pou3,k10,青布,blue cloth,汕頭話讀本,
 青番,chheⁿ-huan,chhenn1-huan1,k10,青番,savage,汕頭話讀本,
-青盲,chheⁿ-mêⁿ,chhenn1-menn5,k00,瞎,blind,汕頭話讀本,健康
+青盲,chheⁿ-mê,chhenn1-me5,k00,瞎,blind,汕頭話讀本,健康
 青青,chheⁿ-chheⁿ,chhenn1-chhenn1,k10,青青,pale|pale in fright,汕頭話讀本,
 青天,chheⁿ-thiⁿ,chhenn1-thinn1,k10,青天,sky,汕頭話讀本,
 清楚,chheng-tshó,chheng1-tsho2,k10,清楚,settle,汕頭話讀本,
@@ -1730,12 +1730,12 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 拳頭,khûn-thâu,khun5-thau5,k10,拳頭,fist,汕頭話讀本,
 勸戒,khǹg-kòi,khng3-koi3,k10,勸戒,advise|warn,汕頭話讀本,
 缺喙,khih-tshùi,khih4-tshui3,k00,唇裂,harelip,汕頭話讀本,健康
-雀暝,chiáu-mêⁿ,chiau2-menn5,k00,夜盲,,考釋,健康
+雀暝,chiáu-mê,chiau2-me5,k00,夜盲,,考釋,健康
 燃柴,hiâⁿ-tshâ,hiann5-tsha5,k10,燒柴,to burn fire wood,汕頭話讀本,
 燃火个儂,hiâⁿ-húe--kâi-nâng,hiann5-hue2--kai5-nang5,k10,司爐,,汕頭話讀本,
 燃火食,hiâⁿ-húe-si̍t,hiann5-hue2-sit8,k10,燒火做飯,cook,汕頭話讀本,
 燃塗炭,hiâⁿ-thôu-thuàⁿ,hiann5-thou5-thuann3,k10,燒炭,to burn coal,汕頭話讀本,
-染个布,níⁿ--kâi-pòu,ninn2--kai5-pou3,k10,染的布,dyed cloth,汕頭話讀本,
+染个布,ní--kâi-pòu,ni2--kai5-pou3,k10,染的布,dyed cloth,汕頭話讀本,
 嚷,jiáng,jiang2,k00,叫嚷,bawl|row to make a|shout,汕頭話讀本,人|行動
 熱布,zua̍h-pòu,zuah8-pou3,k10,夏布,grass cloth,汕頭話讀本,職業|經商
 熱衫,zua̍h-saⁿ,zuah8-sann1,k10,夏日外套,a summer coat,汕頭話讀本,
@@ -1774,13 +1774,13 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 入秀才,ji̍p-siù-tsâi,jip8-siu3-tsai5,k10,入秀才,degree,汕頭話讀本,
 褥,zo̍k,zok8,k00,床墊,mattress,汕頭話讀本,起居|物件
 阮,ún,un2,k00,我們(不包含聽者),we (not including the person addressed.),汕頭話讀本,入門
-軟疕,nńg-nîⁿ,nng2-ninn5,k10,中風,,汕頭話讀本,健康
+軟疕,nńg-nî,nng2-ni5,k10,中風,,汕頭話讀本,健康
 閏月,zūn-gu̍eh,zun7-gueh8,k10,閏月,an intercalary moon,汕頭話讀本,
 若是,nāⁿ-sĩ,nann7-si6,k00,如果,if,汕頭話讀本,入門
 若㩼,jie̍h-tsōi,jieh8-tsoi7,k00,多少,,汕頭話讀本,入門
 撒,suah,suah4,k00,撒,,考釋,飲食
 三更,saⁿ-keⁿ,sann1-kenn1,k10,三更,third watch from 11 to 1 a.m,汕頭話讀本,
-三更半暝,saⁿ-keⁿ puàⁿ-mêⁿ,sann1-kenn1 puann3-menn5,k00,三更半夜,,汕頭話讀本,時日
+三更半暝,saⁿ-keⁿ puàⁿ-mê,sann1-kenn1 puann3-me5,k00,三更半夜,,汕頭話讀本,時日
 三角,saⁿ-kak,sann1-kak4,k10,三角,a triangle,汕頭話讀本,
 三里,saⁿ-lí,sann1-li2,k10,三里,mile a,汕頭話讀本,
 三牲,saⁿ-seⁿ,sann1-senn1,k10,三牲,the three kinds of offerings,汕頭話讀本,
@@ -1792,11 +1792,11 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 掃帚星,sàu-soi-chheⁿ,sau3-soi1-chhenn1,k10,彗星,comet,汕頭話讀本,
 掃菷星,sàu-soi-chheⁿ,sau3-soi1-chhenn1,k10,彗星,,汕頭話讀本,天地
 掃箒,sàu-siú,sau3-siu2,k00,掃帚,,汕頭話讀本,起居|物件
-色料,sek-liāu,sek4-liau7,k00,染料,,汕頭話讀本,職業|經商
+色料,sek-liāu,sek4-liau7,k00,染料,dye,汕頭話讀本,職業|經商
 色水,sek-tsúi,sek4-tsui2,k10,色水,colour,汕頭話讀本,
 沙壩,sua-pà,sua1-pa3,k00,沙堤,,汕頭話讀本,職業|行船
 沙埧,sua-pà,sua1-pa3,k10,沙灘,bank,汕頭話讀本,
-沙蜢,sua-meⁿ,sua1-menn1,k10,蜻蜓,dragonfly,汕頭話讀本,
+沙蜢,sua-me,sua1-me1,k10,蜻蜓,dragonfly,汕頭話讀本,
 鯊魚,sua-hṳ̂,sua1-hur5,k10,鯊魚,shark,汕頭話讀本,
 山東梨,suaⁿ-tang-lâi,suann1-tang1-lai5,k10,山東梨,pear shantung,汕頭話讀本,
 山溝,suaⁿ-kau,suann1-kau1,k10,山溝,stream,汕頭話讀本,
@@ -1810,7 +1810,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 杉排,sam-pâi,sam1-pai5,k00,木筏,,汕頭話讀本,職業|行船
 杉牌,sam-pâi,sam1-pai5,k10,竹排,raft,汕頭話讀本,
 衫袋,saⁿ-tō,sann1-to7,k00,衣袋,pockets,汕頭話讀本,打扮
-衫吊,saⁿ-tiàu,sann1-tiau3,k10,晾衣架,,汕頭話讀本,起居|物件
+衫吊,saⁿ-tiàu,sann1-tiau3,k10,晾衣架,a clotheshorse,汕頭話讀本,起居|物件
 衫裾,saⁿ-kṳ,sann1-kur1,k10,衣襟,,考釋,打扮
 衫褲,saⁿ-khòu,sann1-khou3,k00,衣服,clothes,汕頭話讀本,打扮
 衫䘼,saⁿ-ńg,sann1-ng2,k00,衣袖,sleeve|sleeves,考釋,打扮
@@ -1834,8 +1834,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 稍好,iáu-hó,iau2-ho2,k10,稍好,better,汕頭話讀本,
 燒水,sie-tsui,sie1-tsui1,k00,溫開水,,汕頭話讀本,飲食
 少,chié,chie2,k00,少,scarce|less,汕頭話讀本,入門
-少禮,siáu-lí,siau2-li2,k00,羞耻,,汕頭話讀本,人|品評
-少年,siàu-nîⁿ,siau3-ninn5,k10,少年,young of man,汕頭話讀本,
+少禮,siáu-lí,siau2-li2,k00,羞耻,shame|ashamed,汕頭話讀本,人|品評
+少年,siàu-nî,siau3-ni5,k10,少年,young of man,汕頭話讀本,
 少有,chié-ũ,chie2-u6,k10,少有,rare,汕頭話讀本,
 賒,chhia,chhia1,k00,貸,credit,汕頭話讀本,職業|經商
 檨,suāiⁿ,suainn7,k00,芒果,,汕頭話讀本,植物|蔬菓
@@ -1924,9 +1924,9 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 食瀉,chia̍h-sià,chiah8-sia3,k10,吃瀉藥,to take an aperient,汕頭話讀本,
 食薰,chia̍h-hun,chiah8-hun1,k00,抽菸,smoke,考釋,活動
 食藥,chia̍h-ie̍h,chiah8-ieh8,k10,吃藥,to take medicine,汕頭話讀本,
-食夜昏,chia̍h-mêⁿ-hng,chiah8-menn5-hng1,k10,吃晚餐,supper,汕頭話讀本,
+食夜昏,chia̍h-mê-hng,chiah8-me5-hng1,k10,吃晚餐,supper,汕頭話讀本,
 食齋,chia̍h-che,chiah8-che1,k10,吃齋,vegetarian,汕頭話讀本,
-食粥,chia̍h-mûeⁿ,chiah8-muenn5,k10,喝粥,measles,汕頭話讀本,
+食粥,chia̍h-mûe,chiah8-mue5,k10,喝粥,measles,汕頭話讀本,
 食桌,chia̍h-toh,chiah8-toh4,k10,餐桌,feast to eat,汕頭話讀本,
 時鏢,sî-pie,si5-pie1,k10,手錶,a watch,汕頭話讀本,打扮
 時辰,sî-sîn,si5-sin5,k10,時辰,hour chinese,汕頭話讀本,
@@ -1993,8 +1993,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 數簿,siàu-phõu,siau3-phou6,k10,賬本,an account book,汕頭話讀本,職業|經商
 數目,siàu-ba̍k,siau3-bak8,k10,數目,an account,汕頭話讀本,
 樹欛,chhiū-pà,chhiu7-pa3,k10,樹枝,branch,汕頭話讀本,
-樹呢,chhiū-nîⁿ,chhiu7-ninn5,k10,樹脂,sap,汕頭話讀本,
-樹泥,chhiū-nîⁿ,chhiu7-ninn5,k00,橡膠,gutta percha,汕頭話讀本,職業|經商
+樹呢,chhiū-nî,chhiu7-ni5,k10,樹脂,sap,汕頭話讀本,
+樹泥,chhiū-nî,chhiu7-ni5,k00,橡膠,gutta percha,汕頭話讀本,職業|經商
 樹皮,chhiū-phûe,chhiu7-phue5,k10,樹皮,bark|holland,汕頭話讀本,
 樹枝,chhiū-ki,chhiu7-ki1,k10,樹枝,bough|branch|a branch,汕頭話讀本,
 刷,chhiù,chhiu3,k00,刷,brush|rub,汕頭話讀本,起居
@@ -2011,7 +2011,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 水鼓,tsúi-kóu,tsui2-kou2,k10,水鼓,a buoy,汕頭話讀本,
 水罐,tsúi-kuàn,tsui2-kuan3,k10,水罐,a jug,汕頭話讀本,
 水雞,tsúi-koi,tsui2-koi1,k10,青蛙,frog,汕頭話讀本,
-水呢,tsúi-nîⁿ,tsui2-ninn5,k10,粗花呢,tweeds,汕頭話讀本,職業|經商
+水呢,tsúi-nî,tsui2-ni5,k10,粗花呢,tweeds,汕頭話讀本,職業|經商
 水牛,tsúi-gû,tsui2-gu5,k10,水牛,buffalo,汕頭話讀本,
 水脬,tsúi-pha,tsui2-pha1,k10,膀胱,bladder,汕頭話讀本,
 水泉,tsúi-tsuâⁿ,tsui2-tsuann5,k10,泉水,fountain|spring,汕頭話讀本,
@@ -2090,7 +2090,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 唐山,tn̂g-suaⁿ,tng5-suann1,k10,中國,china,汕頭話讀本,
 堂孫婿,thâng-sun-sài,thang5-sun1-sai3,k10,堂孫婿,niece's husband,汕頭話讀本,
 堂兄弟,thâng-hiaⁿ-tĩ,thang5-hiann1-ti6,k10,堂兄弟,paternal uncle's sons,汕頭話讀本,
-堂姊妹,thâng-chí-mūeⁿ,thang5-chi2-muenn7,k10,堂姊妹,paternal uncle's daughters,汕頭話讀本,
+堂姊妹,thâng-chí-mūe,thang5-chi2-mue7,k10,堂姊妹,paternal uncle's daughters,汕頭話讀本,
 糖罐,thn̂g-kuàn,thng5-kuan3,k10,糖罐,a sugar basin,汕頭話讀本,
 糖料,thn̂g-liāu,thng5-liau7,k10,糖果,sweetmeats,汕頭話讀本,
 糖敲,thn̂g-khà,thng5-kha3,k10,糖果,sweetmeats,汕頭話讀本,
@@ -2148,7 +2148,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 聽造化,thèng-tsãu-hùe,theng3-tsau6-hue3,k10,憑造化,chance,汕頭話讀本,
 通風,thong-huang,thong1-huang1,k10,通風,ventilate,汕頭話讀本,
 通過,thàng--kùe,thang3--kue3,k10,通過,penetrate,汕頭話讀本,
-通暝,thàng-mêⁿ,thang3-menn5,k00,整夜,,汕頭話讀本,時日
+通暝,thàng-mê,thang3-me5,k00,整夜,,汕頭話讀本,時日
 通日,thàng-ji̍t,thang3-jit8,k00,整天,,汕頭話讀本,時日
 通事,thong-sṳ̄,thong1-sur7,k10,口譯,linguist,汕頭話讀本,
 通知,thong-tsai,thong1-tsai1,k10,通知,notify,汕頭話讀本,
@@ -2178,7 +2178,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 頭殼髓,thâu-khak-tshúe,thau5-khak4-tshue2,k10,頭殼髓,brain,汕頭話讀本,
 頭殼碗,thâu-khak-uáⁿ,thau5-khak4-uann2,k10,腦殼,skull,汕頭話讀本,
 頭路,thâu-lōu,thau5-lou7,k00,工作,employment,汕頭話讀本,職業|經商
-頭毛,thâu-mô,thau5-mo5,k00,頭髮,,汕頭話讀本,人|身體
+頭毛,thâu-mô,thau5-mo5,k00,頭髮,"hair of the head, (human.)",汕頭話讀本,人|身體
 頭儂,thâu-nâng,thau5-nang5,k10,頭目,ringleader,汕頭話讀本,法律
 頭眩,thâu-hîn,thau5-hin5,k00,頭痛,,汕頭話讀本,健康
 透大風,thàu-tuā-huang,thau3-tua7-huang1,k10,起大風,storm to rise,汕頭話讀本,
@@ -2192,7 +2192,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 塗炭屎,thóu-thuàⁿ-sái,thou2-thuann3-sai2,k10,塗炭屎,cinder|dross of coal,汕頭話讀本,
 塗頭,thôu-thâu,thou5-thau5,k10,無根據,absurd,汕頭話讀本,
 塗油,thôu-iû,thou5-iu5,k10,塗油,paraffin oil,汕頭話讀本,
-塗粥,thôu-mûeⁿ,thou5-muenn5,k10,泥巴,mud,汕頭話讀本,
+塗粥,thôu-mûe,thou5-mue5,k10,泥巴,mud,汕頭話讀本,
 土話,thóu-ūe,thou2-ue7,k10,土話,dialect,汕頭話讀本,
 土名,thóu-miâⁿ,thou2-miann5,k10,土名,"byname, (nickname|nickname",汕頭話讀本,
 土談,thóu-thâm,thou2-tham5,k10,土談,colloquial|dialect,汕頭話讀本,
@@ -2213,7 +2213,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 外公,guā-kong,gua7-kong1,k10,外公,grandfather,汕頭話讀本,
 外國儂,guā-kok-nâng,gua7-kok4-nang5,k10,外國人,foreigner,汕頭話讀本,
 外家,guā-ke,gua7-ke1,k00,娘家,,考釋,人|稱呼
-外媽,guā-máⁿ,gua7-mann2,k10,外婆,grandmother,汕頭話讀本,
+外媽,guā-má,gua7-ma2,k10,外婆,grandmother,汕頭話讀本,
 外甥,guā-seng,gua7-seng1,k10,外甥,sister's son,汕頭話讀本,
 外甥女,guā-seng-nńg,gua7-seng1-nng2,k10,外甥女,sister's daughter,汕頭話讀本,
 外孫,guā-sun,gua7-sun1,k10,外孫,daughter's son,汕頭話讀本,
@@ -2267,7 +2267,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 烏番,ou-huan,ou1-huan1,k10,黑人,negro,汕頭話讀本,
 烏面儂,ou-mīn-nâng,ou1-min7-nang5,k20,黑人,negro,汕頭話讀本,人|稱呼
 烏木,ou-ba̍k,ou1-bak8,k10,烏木,ebony,汕頭話讀本,
-烏呢,ou-nîⁿ,ou1-ninn5,k10,黑呢,"woollen cloth, black",汕頭話讀本,
+烏呢,ou-nî,ou1-ni5,k10,黑呢,"woollen cloth, black",汕頭話讀本,
 烏糖,ou-thn̂g,ou1-thng5,k00,黑糖,"sugar, black",汕頭話讀本,職業|經商
 烏烏,ou-ou,ou1-ou1,k10,黑,pale in fright,汕頭話讀本,
 烏油,ou-iû,ou1-iu5,k00,柏油,tar,汕頭話讀本,起居|物件
@@ -2292,8 +2292,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 毋堪當,m̃-kham-tng,m6-kham1-tng1,k10,不應當,undeserved,汕頭話讀本,
 毋堪該,m̃-kham-kai,m6-kham1-kai1,k10,不應當,unworthy,汕頭話讀本,
 毋肯,m̃-khéng,m6-kheng2,k10,不肯,merely not|refuse,汕頭話讀本,
-毋孬,m̃-móⁿ,m6-monn2,k10,不好,bad,汕頭話讀本,
-毋孬錢,m̃-móⁿ-chîⁿ,m6-monn2-chinn5,k10,臟錢,counterfeit cash,汕頭話讀本,
+毋孬,m̃-mó,m6-mo2,k10,不好,bad,汕頭話讀本,
+毋孬錢,m̃-mó-chîⁿ,m6-mo2-chinn5,k10,臟錢,counterfeit cash,汕頭話讀本,
 毋平,m̃-pêⁿ,m6-penn5,k10,不平,uneven,汕頭話讀本,
 毋清,m̃-chheng,m6-chheng1,k10,不清楚,merely not,汕頭話讀本,
 毋認,m̃-jīn,m6-jin7,k10,不認,deny,汕頭話讀本,
@@ -2331,7 +2331,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 無仁義,bô-jîn-ngĩ,bo5-jin5-ngi6,k10,不仁不義,ungrateful,汕頭話讀本,
 無生理,bô-seng-lí,bo5-seng1-li2,k10,沒有生意,trade dull,汕頭話讀本,
 無拖欠,bô-thua-khiàm,bo5-thua1-khiam3,k10,不拖欠,payment,汕頭話讀本,
-無望,bô-mōⁿ,bo5-monn7,k10,無望,hopeless,汕頭話讀本,
+無望,bô-mō,bo5-mo7,k10,無望,hopeless,汕頭話讀本,
 無位次,bô-ūi-tshṳ̀,bo5-ui7-tshur3,k10,沒地方,room no,汕頭話讀本,
 無限,bô-hân,bo5-han5,k10,無限,unlimited,汕頭話讀本,
 無相干事,bô-siang-kau-sṳ̄,bo5-siang1-kau1-sur7,k10,不相干的事,,汕頭話讀本,
@@ -2450,7 +2450,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 相續,sie-suà,sie1-sua3,k10,相接,,汕頭話讀本,
 相借問,sie-chieh-mn̄g,sie1-chieh4-mng7,k00,打招呼,greet,汕頭話讀本,入門
 相輪,sie-lûn,sie1-lun5,k10,輪流,alternate|turn by,汕頭話讀本,
-相罵,sie-mēⁿ,sie1-menn7,k00,吵架,quarrel|quarrelling,汕頭話讀本,人|行動
+相罵,sie-mē,sie1-me7,k00,吵架,quarrel|quarrelling,汕頭話讀本,人|行動
 相拍,sie-phah,sie1-phah4,k00,打架,fight|fighting,汕頭話讀本,人|行動
 相輸,sie-su,sie1-su1,k00,比賽,bet,汕頭話讀本,活動
 相熟个儂,siang-se̍k--kâi-nâng,siang1-sek8--kai5-nang5,k10,相熟的人,,汕頭話讀本,
@@ -2477,15 +2477,15 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 巷囝,hāng-kiáⁿ,hang7-kiann2,k10,巷字,lane,汕頭話讀本,
 象牙,chhiẽⁿ-gê,chhienn6-ge5,k10,象牙,elephant's teeth,汕頭話讀本,
 灱,ta,ta1,k00,亁,dry,汕頭話讀本,入門
-枵,iau,iau1,k00,飢餓,,汕頭話讀本,飲食
+枵,iau,iau1,k00,飢餓,hungry,汕頭話讀本,飲食
 消息,sié-sit,sie2-sit4,k10,消息,news,汕頭話讀本,
-硝,siau,siau1,k00,硝石,,汕頭話讀本,職業|經商
+硝,siau,siau1,k00,硝石,saltpetre,汕頭話讀本,職業|經商
 小可,sié-khuá,sie2-khua2,k10,細微,slight,汕頭話讀本,
 小可事,sié-khuá-sṳ̄,sie2-khua2-sur7,k10,小事,trifling,汕頭話讀本,
 小郎,sié-nn̂g,sie2-nng5,k20,小叔子,,考釋,人|稱呼
 小帽,sié-bō,sie2-bo7,k10,小帽子,cap|a cap,汕頭話讀本,
-小影,siáu-iáⁿ,siau2-iann2,k10,照片,,汕頭話讀本,起居|物件
-曉,hiáu,hiau2,k00,明白,,汕頭話讀本,人|行動
+小影,siáu-iáⁿ,siau2-iann2,k10,照片,photograph,汕頭話讀本,起居|物件
+曉,hiáu,hiau2,k00,明白,understand,汕頭話讀本,人|行動
 曉情理,hiáu-chhêng-lí,hiau2-chheng5-li2,k10,通情達理,civil,汕頭話讀本,
 些須囝,se-su-kiáⁿ,se1-su1-kiann2,k10,一點兒,little,汕頭話讀本,
 歇,hiah,hiah4,k00,停,cease|lodge|rest|leave|stop,汕頭話讀本,入門
@@ -2528,7 +2528,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 行李,hêng-lí,heng5-li2,k10,行李,baggage,汕頭話讀本,
 行禮,kiâⁿ-lói,kiann5-loi2,k10,行禮,ceremony perform,汕頭話讀本,
 行埋,kiâⁿ-buâ,kiann5-bua5,k10,行入,,汕頭話讀本,
-行猛在,kiâⁿ-méⁿ-tsãi,kiann5-menn2-tsai6,k10,走很快,it goes very fast,汕頭話讀本,
+行猛在,kiâⁿ-mé-tsãi,kiann5-me2-tsai6,k10,走很快,it goes very fast,汕頭話讀本,
 行情,hâng-chhêng,hang5-chheng5,k10,行情,"price current|market, price",汕頭話讀本,
 行踏,kiâⁿ-ta̍h,kiann5-tah8,k00,走動,,考釋,人|行動
 行爲,kiâⁿ-ûi,kiann5-ui5,k10,行爲,conduct,汕頭話讀本,
@@ -2577,7 +2577,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 亞是,a-sĩ,a1-si6,k00,或者是,or,汕頭話讀本,入門
 亞無,a-bô,a1-bo5,k10,或者沒有,or not? interrogative signs,汕頭話讀本,
 掗折,á-chi̍h,a2-chih8,k10,折斷,break asunder,汕頭話讀本,
-胭泥,in-nîⁿ,in1-ninn5,k10,胭脂,rouge,汕頭話讀本,
+胭泥,in-nî,in1-ni5,k10,胭脂,rouge,汕頭話讀本,
 胭脂,in-chi,in1-chi1,k10,胭脂,rouge,汕頭話讀本,
 煙塵,eng-têng,eng1-teng5,k10,煙塵,dust,汕頭話讀本,
 煙筒,in-tâng,in1-tang5,k00,煙囪,chimney|a chimney|a funnel,汕頭話讀本,職業|行船
@@ -2589,9 +2589,9 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 眼在,ngán-tsãi,ngan2-tsai6,k00,現在,present time|present,汕頭話讀本,時日
 晏,uáⁿ,uann2,k00,晚,,汕頭話讀本,時日
 燕菜,ièn-tshài,ien3-tshai3,k10,海藻,seaweeds,汕頭話讀本,職業|經商
-燕鳥,ìⁿ-chiáu,inn3-chiau2,k00,燕子,,汕頭話讀本,動物|鳥
+燕鳥,ìⁿ-chiáu,inn3-chiau2,k00,燕子,swallow,汕頭話讀本,動物|鳥
 燕窩,ièn-o,ien3-o1,k10,燕窩,birdnests,汕頭話讀本,
-羊毛,iêⁿ-môⁿ,ienn5-monn5,k10,羊毛,wool,汕頭話讀本,
+羊毛,iêⁿ-mô,ienn5-mo5,k10,羊毛,wool,汕頭話讀本,
 洋船,iêⁿ-tsûn,ienn5-tsun5,k10,洋船,a junk,汕頭話讀本,
 陽車火船,iâng-chhia húe-tsûn,iang5-chhia1 hue2-tsun5,k20,明輪船,,汕頭話讀本,職業|行船
 楊梅,iêⁿ-bûe,ienn5-bue5,k10,楊梅,arbutus,汕頭話讀本,
@@ -2625,9 +2625,9 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 耶穌教,iâ-sou-kà,ia5-sou1-ka3,k10,耶穌教,christians protestant,汕頭話讀本,宗教
 野樣,iá-iēⁿ,ia2-ienn7,k00,醜陋,ugly,汕頭話讀本,人|品評
 曳手,ia̍h-chhiú,iah8-chhiu2,k00,招手,beckon,汕頭話讀本,人|行動
-夜旰,mêⁿ-kuà,menn5-kua3,k10,夜間,,汕頭話讀本,時日
-夜間,mêⁿ--kuà,menn5--kua3,k10,夜間,in the night,汕頭話讀本,
-夜賊,mêⁿ-tsha̍t,menn5-tshat8,k10,夜賊,burglar,汕頭話讀本,
+夜旰,mê-kuà,me5-kua3,k10,夜間,,汕頭話讀本,時日
+夜間,mê--kuà,me5--kua3,k10,夜間,in the night,汕頭話讀本,
+夜賊,mê-tsha̍t,me5-tshat8,k10,夜賊,burglar,汕頭話讀本,
 葉鍱,hia̍p-tia̍p,hiap8-tiap8,k10,鉸鏈,a hinge,汕頭話讀本,起居|物件
 一把,che̍k-pé,chek8-pe2,k10,一把,bunch,汕頭話讀本,
 一把花,che̍k-pé-hue,chek8-pe2-hue1,k10,一把花,bouquet,汕頭話讀本,
@@ -2705,7 +2705,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 有禮,ũ-lói,u6-loi2,k10,有禮貌,polite,汕頭話讀本,
 有力,ũ-la̍t,u6-lat8,k10,有力,strong,汕頭話讀本,
 有能爲,ũ-lêng-ûi,u6-leng5-ui5,k10,有能力,afford,汕頭話讀本,
-有年歲,ũ-nîⁿ-hùe,u6-ninn5-hue3,k10,有年歲,old,汕頭話讀本,
+有年歲,ũ-nî-hùe,u6-ni5-hue3,k10,有年歲,old,汕頭話讀本,
 有錢,ũ-chîⁿ,u6-chinn5,k10,有錢,rich,汕頭話讀本,
 有身份,ũ-sin-hūn,u6-sin1-hun7,k10,懷孕,pregnant,汕頭話讀本,
 有胎,ũ-tho,u6-tho1,k10,懷孕,pregnant,汕頭話讀本,
@@ -2732,7 +2732,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 魚翼,hṳ̂-si̍t,hur5-sit8,k00,魚翅,fins|sharkfins,汕頭話讀本,職業|經商
 魚子,hṳ̂-chí,hur5-chi2,k10,魚子,fishroe|spawn,汕頭話讀本,動物|水產
 羽綾,ú-lêng,u2-leng5,k10,羽綾,lasting,汕頭話讀本,
-羽毛,ú-môⁿ,u2-monn5,k10,羽毛,camlet,汕頭話讀本,
+羽毛,ú-mô,u2-mo5,k10,羽毛,camlet,汕頭話讀本,
 羽紗,ú-se,u2-se1,k10,羽紗,camlet,汕頭話讀本,
 雨囝,hõu-kiáⁿ,hou6-kiann2,k10,雨點,drizzle,汕頭話讀本,
 雨傘,hõu-suàⁿ,hou6-suann3,k10,雨傘,an umbrella,汕頭話讀本,
@@ -2743,7 +2743,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 欲退堂了,àiⁿ-thò-tn̂g--lō,ainn3-tho3-tng5--lo7,k10,要退堂了,,汕頭話讀本,
 遇着,ngõ--tie̍h,ngo6--tieh8,k10,遇到,meet,汕頭話讀本,
 愈,zú,zu2,k00,越,,汕頭話讀本,入門
-愈不可,zú-m̃-móⁿ,zu2-m6-monn2,k10,越來越不好,,汕頭話讀本,
+愈不可,zú-m̃-mó,zu2-m6-mo2,k10,越來越不好,,汕頭話讀本,
 愈好,zú-hó,zu2-ho2,k00,更好,better,汕頭話讀本,入門
 預,ṳ̃,ur6,k00,準備,prepare,汕頭話讀本,人|行動
 預備,ṳ̃-pĩ,ur6-pi6,k10,預備,prepare,汕頭話讀本,
@@ -2792,8 +2792,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 造化,tsãu-hùe,tsau6-hue3,k10,造化,fortunate|lucky,汕頭話讀本,
 則例,chek-lī,chek4-li7,k10,則例,tariff,汕頭話讀本,
 責罪,cheh-tsūe,cheh4-tsue7,k00,責備,,,人|行動
-怎呢,tsò-nîⁿ,tso3-ninn5,k10,怎麼,why,汕頭話讀本,
-怎呢食,tsò-nîⁿ-chia̍h,tso3-ninn5-chiah8,k10,怎麼吃,how am I to take it,汕頭話讀本,
+怎呢,tsò-nî,tso3-ni5,k10,怎麼,why,汕頭話讀本,
+怎呢食,tsò-nî-chia̍h,tso3-ni5-chiah8,k10,怎麼吃,how am I to take it,汕頭話讀本,
 煠,sa̍h,sah8,k10,水煮,"to boil in water, as eggs, fowls &c. without anything being added",考釋,飲食
 煠酒,sa̍h-chiú,sah8-chiu2,k10,燒酒,distil,汕頭話讀本,
 閘路,tsa̍h-lōu,tsah8-lou7,k10,閘路,obstruct,汕頭話讀本,
@@ -2835,7 +2835,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 招牌,chie-pâi,chie1-pai5,k10,招牌,signboard,汕頭話讀本,
 照,chiè,chie3,k00,按,shine|according to,汕頭話讀本,入門
 照律,chiè-lu̍t,chie3-lut8,k10,依法,according to law,汕頭話讀本,
-鮡,thiâu,thiau5,k00,青春痘,,汕頭話讀本,健康
+鮡,thiâu,thiau5,k00,青春痘,pimples,汕頭話讀本,健康
 摺痕,chih-tsūe,chih4-tsue7,k10,摺痕,to them,汕頭話讀本,
 蔗粕,chià-phoh,chia3-phoh4,k00,甘蔗渣,,考釋,植物|蔬菓
 着,tie̍h,tieh8,k00,對,correct|proper|right,汕頭話讀本,入門
@@ -2947,13 +2947,13 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 撞枳,thn̄g-chí,thng7-chi2,k20,桌球,"billiards, (to play.)",汕頭話讀本,起居|物件
 戇,kông,kong5,k00,愚蠢,puzzled,考釋,人|品評
 戇去,kông-khṳ̀,kong5-khur3,k10,暈了,bewildered,汕頭話讀本,
-追,jiāu,jiau7,k00,追趕,,汕頭話讀本,人|行動
+追,jiāu,jiau7,k00,追趕,chase,汕頭話讀本,人|行動
 桌,toh,toh4,k00,桌子,a table,汕頭話讀本,起居|物件
 灼灼晃,iăp-ia̍p-sih,iăp4-iap8-sih4,k10,亮閃閃,twinkle,汕頭話讀本,
 斫脞,tok-tshō,tok4-tsho7,k10,剁碎,to mince,汕頭話讀本,
 諑,tok,tok4,k00,毀謗,,考釋,人|行動
 仔細,tsṳ́-sòi,tsur2-soi3,k10,仔細,careful,汕頭話讀本,
-姊妹囝,chí-mūeⁿ-kiáⁿ,chi2-muenn7-kiann2,k10,姊妹,sisters,汕頭話讀本,
+姊妹囝,chí-mūe-kiáⁿ,chi2-mue7-kiann2,k10,姊妹,sisters,汕頭話讀本,
 字白,jî-pe̍h,ji5-peh8,k10,字白,placard,汕頭話讀本,
 字板,jī-póiⁿ,ji7-poinn2,k10,字板,type,汕頭話讀本,
 字典,jī-tién,ji7-tien2,k10,字典,dictionary,汕頭話讀本,
@@ -2987,7 +2987,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 鑽空,tsǹg-khang,tsng3-khang1,k10,鑽空,perforate,汕頭話讀本,
 尊貴,tsun-kui,tsun1-kui1,k10,尊貴,noble,汕頭話讀本,
 捘掉,tsũn-tiàu,tsun6-tiau3,k10,扭去,wrench,汕頭話讀本,
-昨暝,tsa-mêⁿ,tsa1-menn5,k00,昨夜,,汕頭話讀本,時日
+昨暝,tsa-mê,tsa1-me5,k00,昨夜,,汕頭話讀本,時日
 昨日,tsa-ji̍t,tsa1-jit8,k00,昨天,yesterday,汕頭話讀本,時日
 作工,tsoh-kang,tsoh4-kang1,k00,工作,work,汕頭話讀本,職業
 作工課,tsoh-khang-khùe,tsoh4-khang1-khue3,k10,工作,work to,汕頭話讀本,

@@ -188,7 +188,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 倒賬,tó-tièⁿ,to2-tienn3,k00,倒閉,bankrupt,汕頭話讀本,職業|經商
 倒酒,tò-chiú,to3-chiu2,k10,倒酒,buy as oil,汕頭話讀本,
 倒錢,táu-chîⁿ,tau2-chinn5,k00,找錢,,汕頭話讀本,職業|經商
-倒錢行,táu-chiⁿ-hâng,tau2-chinn1-hang5,k20,找換店,money changer,汕頭話讀本,職業|經商
+倒錢行,táu-chiⁿ-hâng,tau2-chinn5-hang5,k20,找換店,money changer,汕頭話讀本,職業|經商
 倚船邊,uá-tsûn-piⁿ,ua2-tsun5-pinn1,k10,靠船邊,go alongside the ship,汕頭話讀本,
 借問,chieh-mn̄g,chieh4-mng7,k10,諮詢,enquire,汕頭話讀本,
 值錢,ta̍t-chîⁿ,tat8-chinn5,k10,值錢,costly|expensive|valuable,汕頭話讀本,
@@ -372,7 +372,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 剝皮,pak-phûe,pak4-phue5,k10,剝皮,"to peel, as skin",汕頭話讀本,
 剝糕粿,pak-ko-kúe,pak4-ko1-kue2,k10,打劫,robbery,汕頭話讀本,
 割,kuah,kuah4,k00,切,"engrave|cut|to cut off, as a rope, a piece of meat from a large piece &c",汕頭話讀本,飲食
-割工錢,kuah kang-chiⁿ,kuah4 kang1-chinn1,k10,扣工資,,汕頭話讀本,職業
+割工錢,kuah kang-chiⁿ,kuah4 kang1-chinn5,k10,扣工資,,汕頭話讀本,職業
 割牛肉,kuah-gû-bah,kuah4-gu5-bah4,k10,割牛肉,buy as pork,汕頭話讀本,
 割花,kuah-hue,kuah4-hue1,k10,雕花,carve,汕頭話讀本,
 割豬肉,kuah-tṳ-bah,kuah4-tur1-bah4,k10,割豬肉,buy as pork,汕頭話讀本,
@@ -2673,7 +2673,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 銜瓏術,hâm-lám-su̍t,ham5-lam2-sut8,k10,陀螺,top,汕頭話讀本,
 鋤頭,tṳ̂-thâu,tur5-thau5,k10,鋤頭,a hoe,汕頭話讀本,
 鋪石,phou-chie̍h,phou1-chieh8,k10,鋪石,pave,汕頭話讀本,
-鋪路,phòu-lōu,phou3-lou7,k10,鋪路,mile,汕頭話讀本,
+舖路,phòu-lōu,phou3-lou7,k10,十里,mile,汕頭話讀本,
 鋪陳,phou-tîn,phou1-tin5,k00,鋪蓋,,考釋,起居|物件
 鋯絲,khò-si,kho3-si1,k10,鋯絲,sycee,汕頭話讀本,
 鋸銊,kṳ̀-sut,kur3-sut4,k10,鋸屑,saw dust,汕頭話讀本,

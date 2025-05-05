@@ -629,9 +629,8 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 外甥女,guā-seng-nńg,gua7-seng1-nng2,k10,外甥女,sister's daughter,汕頭話讀本,
 外走孫,guā-tsáu-sun,gua7-tsau2-sun1,k10,外孫女,daughter's daughter,汕頭話讀本,
 夗,u̍t,ut8,k00,睡,sleep,汕頭話讀本,入門
-夜旰,mê-kuà,me5-kua3,k10,夜間,,汕頭話讀本,時日
+夜旰,mê-kuà,me5-kua3,k10,夜間,in the night,汕頭話讀本,時日
 夜賊,mê-tsha̍t,me5-tshat8,k10,夜賊,burglar,汕頭話讀本,
-夜間,mê--kuà,me5--kua3,k10,夜間,in the night,汕頭話讀本,
 夠,kàu,kau3,k00,足夠,enough|sufficient,汕頭話讀本,入門
 夠水,kàu-tsúi,kau3-tsui2,k10,成熟,ripe,汕頭話讀本,
 夠載,kàu-tsāi,kau3-tsai7,k10,滿載,(a ship) fully laden,汕頭話讀本,
@@ -1195,13 +1194,13 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 旗杆,kî-kuaⁿ,ki5-kuann1,k10,旗杆,a flagstaff,汕頭話讀本,
 日子,ji̍t-chí,jit8-chi2,k00,日期,dates,汕頭話讀本,時日
 日日,ji̍t-ji̍t,jit8-jit8,k00,天天,every day,汕頭話讀本,時日
+日旰,ji̍t--kuà,jit8--kua3,k10,日間,in the day,汕頭話讀本,
 日旰,ji̍t-kuà,jit8-kua3,k10,白天,,汕頭話讀本,時日
 日晝,ji̍t-tàu,jit8-tau3,k00,中午,midday|noon,汕頭話讀本,時日
 日清,ji̍t-chheng,jit8-chheng1,k20,日記本,a daybook,汕頭話讀本,職業|經商
 日蝕,ji̍t si̍h,jit8 sih8,k00,日食,an eclipse of the sun,汕頭話讀本,天地
 日規,ji̍t-kui,jit8-kui1,k10,日規,dial,汕頭話讀本,
 日逐,ji̍t-to̍k,jit8-tok8,k10,日逐,a roughday book,汕頭話讀本,
-日間,ji̍t--kuà,jit8--kua3,k10,日間,in the day,汕頭話讀本,
 早早,tsá-tsá,tsa2-tsa2,k10,早早,very early,汕頭話讀本,
 早晨,tsá-sîn,tsa2-sin5,k10,早晨,early in the morning,汕頭話讀本,
 早起,tsáu-khí,tsau2-khi2,k00,起床,,考釋,起居
@@ -2865,7 +2864,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 風禽,huang-khîm,huang1-khim5,k00,風箏,kite,汕頭話讀本,起居|物件
 風聲,hong-siaⁿ,hong1-siann1,k10,風聲,rumour,汕頭話讀本,
 風險,hong-hiám,hong1-hiam2,k10,風險,dangerous,汕頭話讀本,
-風雨針,huang-hōu-tsam,huang1-hou7-tsam1,k10,晴雨表,barometer,汕頭話讀本,天地
+風雨針,huang-hõu-tsam,huang1-hou6-tsam1,k10,晴雨表,barometer,汕頭話讀本,天地
 風颱,huang-thai,huang1-thai1,k00,颱風,typhoon,汕頭話讀本,天地
 食,chia̍h,chiah8,k00,吃,food|drink|live|eat,汕頭話讀本,人|行動
 食凉,chia̍h-liâng,chiah8-liang5,k10,食凉,to take something cooling,汕頭話讀本,

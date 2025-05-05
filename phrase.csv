@@ -323,7 +323,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 出票,tshut-phiè,tshut4-phie3,k10,出票,summons,汕頭話讀本,
 出簽,tshut-chhiam,tshut4-chhiam1,k10,出簽,warrant,汕頭話讀本,
 出貨,tshut-hùe,tshut4-hue3,k10,出貨,unload,汕頭話讀本,
-出門,tshut-mng,tshut4-mng1,k10,出門,marry of woman,汕頭話讀本,
+出門,tshut-mn̂g,tshut4-mng5,k10,出門,marry of woman,汕頭話讀本,
 刀囝,to-kiáⁿ,to1-kiann2,k10,刀子,a penknife,汕頭話讀本,
 刀架,to-kè,to1-ke3,k10,刀架,a knife rest,汕頭話讀本,
 刀殼,to-khah,to1-khah4,k00,刀鞘,sheath,汕頭話讀本,戰爭
@@ -1218,7 +1218,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 時辰,sî-sîn,si5-sin5,k10,時辰,hour chinese,汕頭話讀本,
 時鏢,sî-pie,si5-pie1,k10,手錶,a watch,汕頭話讀本,打扮
 時鐘,sî-cheng,si5-cheng1,k10,時鐘,clock|a clock,汕頭話讀本,
-時鐘錘,sî-cheng-thūi,si5-cheng1-thui7,k10,時鐘錘,pendulum,汕頭話讀本,
+時鐘墜,sî-cheng-thūi,si5-cheng1-thui7,k10,鐘擺,pendulum,汕頭話讀本,
 晏,uáⁿ,uann2,k00,晚,,汕頭話讀本,時日
 晚餐,mńg-tshan,mng2-tshan1,k10,晚餐,lord supper,汕頭話讀本,
 普天下,phóu-thiⁿ-ẽ,phou2-thinn1-e6,k10,普天下,world all the,汕頭話讀本,
@@ -2679,13 +2679,13 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 鋯絲,khò-si,kho3-si1,k10,鋯絲,sycee,汕頭話讀本,
 鋸銊,kṳ̀-sut,kur3-sut4,k10,鋸屑,saw dust,汕頭話讀本,
 錢紙,chîⁿ-tsuá,chinn5-tsua2,k10,紙錢,sacrificial paper,汕頭話讀本,
-錢銀,chiⁿ-ngṳ̂u,chinn1-nguru5,k10,錢財,money,汕頭話讀本,
+錢銀,chîⁿ-ngṳ̂u,chinn5-nguru5,k10,錢財,money,汕頭話讀本,
 錫薄,siah-po̍h,siah4-poh8,k00,錫箔,tinfoil,汕頭話讀本,職業|經商
 錯,tshoh,tshoh4,k00,嗆,,考釋,健康
 鍋,ue,ue1,k00,水壺,,汕頭話讀本,飲食|物件
 鍋囝,ue-kiáⁿ,ue1-kiann2,k10,小鍋,a chinese earthen kettle,汕頭話讀本,
-鍍金,liū-kim,liu7-kim1,k10,鍍金,gild,汕頭話讀本,
 鍟鍋,seⁿ-ue,senn1-ue1,k10,鍟鍋,a kettle,汕頭話讀本,
+鎏金,liū-kim,liu7-kim1,k10,鍍金,gild,汕頭話讀本,
 鎏金器,liū-kim-khì,liu7-kim1-khi3,k00,鑲金器,plated gold,汕頭話讀本,職業|經商
 鎏銀器,liū-ngṳ̂n-khì,liu7-ngurn5-khi3,k10,鎏銀器,"plated ware, silver",汕頭話讀本,
 鎖,só,so2,k00,鎖頭,,汕頭話讀本,起居|物件
@@ -2706,14 +2706,14 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 鐵錘,thih-thûi,thih4-thui5,k10,鐵錘,hammer,汕頭話讀本,
 鐵鍊,thih-liēn,thih4-lien7,k10,鐵鍊,chains,汕頭話讀本,
 鐵鏨,thih-tsãm,thih4-tsam6,k10,鐵鏨,chisel for cutting iron,汕頭話讀本,
-鐵鑽,thih-chhiâm,thih4-chhiam5,k10,鐵鑽,spade,汕頭話讀本,
+鐵鑱,thih-chhiâm,thih4-chhiam5,k10,鐵鏟,spade,汕頭話讀本,
 鑄鐵,tsù-thih,tsu3-thih4,k10,鑄鐵,cast,汕頭話讀本,
 鑤,pàu,pau3,k20,小罐子,a small jar,汕頭話讀本,飲食|物件
 鑽囝,tsǹg-kiáⁿ,tsng3-kiann2,k10,鑽子,borer|an awl,汕頭話讀本,
 鑽空,tsǹg-khang,tsng3-khang1,k10,鑽空,perforate,汕頭話讀本,
 鑿囝,tsha̍k-kiáⁿ,tshak8-kiann2,k00,鑿子,chisel|a chisel,汕頭話讀本,起居|物件
 鑿囝,tsha̍k-kiáⁿ,tshak8-kiann2,k00,錐子,,汕頭話讀本,起居|物件
-長命,tñg-miāⁿ,tng6-miann7,k10,長命,longevity,汕頭話讀本,
+長命,tn̂g-miāⁿ,tng5-miann7,k10,長命,longevity,汕頭話讀本,
 長椅,tn̂g-íⁿ,tng5-inn2,k10,長椅,bench,汕頭話讀本,
 長衫,tn̂g-saⁿ,tng5-sann1,k10,長衫,a long coat,汕頭話讀本,
 門扇後,mn̂g-sìⁿ-ãu,mng5-sinn3-au6,k00,門後,,考釋,起居|場所

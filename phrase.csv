@@ -331,7 +331,6 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 刀肉,to-ne̍k,to1-nek8,k10,刀背,blade,汕頭話讀本,
 刁厥,tiau-khiak,tiau1-khiak4,k00,刁潑,,考釋,人|品評
 刁蹬,tiau-tùn,tiau1-tun3,k10,刁難,,考釋,人|行動
-刁鑽,tiãu-tsuan,tiau6-tsuan1,k10,刁鑽,purposely,汕頭話讀本,
 分,pun,pun1,k00,給,divide|give|to divide,汕頭話讀本,入門
 分別,hun-pie̍t,hun1-piet8,k10,分別,distinguish,汕頭話讀本,
 分我睇,pun-uá-thóiⁿ,pun1-ua2-thoinn2,k10,給我看,show me,汕頭話讀本,
@@ -459,6 +458,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 古怪,kú-kuài,ku2-kuai3,k10,古怪,remarkable|strange,汕頭話讀本,
 古早,kóu-tsá,kou2-tsa2,k10,古昔,ancient,汕頭話讀本,
 叫,kiè,kie3,k00,叫,,汕頭話讀本,人|行動
+召專,tiãu-tsuan,tiau6-tsuan1,k10,故意,purposely,汕頭話讀本,
 可惜,khó-sieh,kho2-sieh4,k10,可惜,pity,汕頭話讀本,
 可惡,khó-ù,kho2-u3,k10,可惡,abominable,汕頭話讀本,
 可憐,khó-liên,kho2-lien5,k10,可憐,compassion|mercy,汕頭話讀本,
@@ -479,7 +479,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 同門,tâng-mn̂g,tang5-mng5,k00,連襟,,考釋,人|稱呼
 名家,miâⁿ-ke,miann5-ke1,k10,名家,able|clever,汕頭話讀本,
 名聲,miâⁿ-siaⁿ,miann5-siann1,k10,名聲,fame,汕頭話讀本,
-名色,miaⁿ-sek,miann1-sek4,k00,名譽,,考釋,人|品評
+名色,miâⁿ-sek,miann5-sek4,k00,名譽,,考釋,人|品評
 名頭,miâⁿ-thâu,miann5-thau5,k00,名聲,,考釋,人|品評
 吐瀉,thòu-sià,thou3-sia3,k10,霍亂,cholera,汕頭話讀本,健康
 君子,kun-tsṳ́,kun1-tsur2,k10,君子,civil|gentlemanly,汕頭話讀本,
@@ -1002,7 +1002,7 @@ phrase,phrase_puj,phrase_simple_puj,freq,mandarin,english,source,tag
 抱不平,phãu-put-phêng,phau6-put4-pheng5,k10,抱不平,,斐姑娘字典,人|行動
 抱憾,phãu-hãm,phau6-ham6,k10,抱憾,,斐姑娘字典,人|情緒
 押數,ap-siàu,ap4-siau3,k10,結賬,square accounts|to balance accounts between two persons,汕頭話讀本,
-抽分,thiu-hùn,thiu1-hun3,k10,佣金,commission,汕頭話讀本,職業|經商
+抽分,thiu-hun,thiu1-hun1,k10,佣金,commission,汕頭話讀本,職業|經商
 抽減,thiu-kiám,thiu1-kiam2,k00,折扣,discount,汕頭話讀本,職業|經商
 抽痛,thiu-thiàⁿ,thiu1-thiann3,k00,抽筋,cramp,汕頭話讀本,健康
 拆夥計,thiah-húe-kì,thiah4-hue2-ki3,k00,散夥,dissolve partnership,汕頭話讀本,職業|經商

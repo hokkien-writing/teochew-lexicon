@@ -227,7 +227,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 住,tsũ,tsu6,k00,,,
 佐,tsó,tso2,k10,,,
 佑,iũ,iu6,k10,,,
-佔,chiàm,chiam3,k10,佔領,chiàm-niáⁿ,chiam3-niann2
+佔,chiàm,chiam3,k10,佔領,chiàm-niáⁿ,chiam3-nia2
 何,hô,ho5,,,,
 佗,thô,tho5,,,,
 余,ṳ̂,ur5,k22,,,
@@ -1191,7 +1191,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 妊,jĩm,jim6,,,,
 妍,ngiên,ngien5,k10,,,
 妒,kòu,kou3,,,,
-妒,tòu,tou3,,妒恨,tòu-hṳ̃u,tou3-huru6
+妒,tòu,tou3,,妒恨,tòu-hṳ̃n,tou3-hurn6
 妓,kĩ,ki6,,,,
 妖,iau,iau1,,,,
 妗,kĩm,kim6,,,,
@@ -1469,7 +1469,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 嶂,chiàng,chiang3,,,,
 嶄,tsám,tsam2,,,,
 嶇,khu,khu1,,崎嶇,khi-khu,khi1-khu1
-嶺,niáⁿ,niann2,,,,
+嶺,niá,nia2,,,,
 嶼,sṳ̃,sur6,,,,
 嶽,nga̍k,ngak8,k10,山嶽,suaⁿ-nga̍k,suann1-ngak8
 巋,khui,khui1,,,,
@@ -1740,7 +1740,6 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 恤,sut,sut4,,,,
 恥,chhí,chhi2,k10,,,
 恨,hṳ̃n,hurn6,,,,
-恨,hṳ̃u,huru6,,妒恨,tòu-hṳ̃u,tou3-huru6
 恩,ṳn,urn1,k10,,,
 恪,khak,khak4,,,,
 恫,thông,thong5,,,,
@@ -3339,7 +3338,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 獾,huan,huan1,,,,
 玄,hiên,hien5,,,,
 率,lu̍t,lut8,k00,速率,sok-lu̍t,sok4-lut8
-率,tsut,tsut4,k01,率領,tsut-niáⁿ,tsut4-niann2
+率,tsut,tsut4,k01,率領,tsut-niáⁿ,tsut4-nia2
 玉,ge̍k,gek8,k00,,,
 王,hêng,heng5,,,,
 王,uâng,uang5,,,,
@@ -5819,7 +5818,7 @@ han,puj,simple_puj,freq,phrase,phrase_puj,phrase_simple_puj
 頓,tũn,tun6,,,,
 頗,phó,pho2,,,,
 頗,phuáⁿ,phuann2,,,,
-領,niáⁿ,niann2,,,,
+領,niá,nia2,,,,
 頤,hi,hi1,,,,
 頦,hâi,hai5,,下頦,ẽ-hâi,e6-hai5
 頭,thâu,thau5,k00,,,

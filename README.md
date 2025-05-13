@@ -18,6 +18,9 @@
 
 修改 [phrase.csv](phrase.csv) 後提交 PR。
 
+### 對話
+
+修改 [conversation.csv](conversation.csv) 後提交 PR。
 
 #### 分級
 
